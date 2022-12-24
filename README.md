@@ -21,14 +21,20 @@ Purplecake613#4099- Co-founder of Mountain Gaming, Devloper(builder) for FLOOR I
 ninjaxp30#4203- Developer(builder) for FLOOR IS NEON RED on Roblox
 
 DannyCool65#3214- Developer(Builder) for FLOOR IS NEON RED on Roblox
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 LINKS:
 
 Discord (support server): https://discord.gg/zenoyt-official-server-845476765702946846
+
 FLOOR IS NEON RED (Roblox game): https://www.roblox.com/games/7231457999/FLOOR-IS-NEON-RED
+
 Mountain Gaming Studios (Roblox game studio): https://www.roblox.com/groups/11791011/Mountain-Gaming-Studios
+
 website: https://mountainfinr.wixsite.com/mountaingaming
+
 Add the bot: https://discord.com/api/oauth2/authorize?client_id=962834876665577542&permissions=139586816064&scope=bot%20applications.commands
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 If any problems are found, please join the support server, open a ticket, describe the problem, and a staff member will be with you shortly.
