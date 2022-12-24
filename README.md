@@ -13,9 +13,13 @@ Made with JavaScript, coded by Mountain Gaming Studios, 100% safe, interaction b
 DEVELOPMENT TEAM:
 
 Zeno#2951- CEO & founder of Mountain Gaming, Codes JS & LUA, lead developer of Mountain Gaming discord bot & FLOOR IS NEON RED on Roblox. Epic coder🧑‍💻
+
 oof.png#2521- Co-founder of Mountain Gaming, Codes in LUA, Devloper(scripter) for FLOOR IS NEON RED on Roblox. BreadMaster🍞
+
 Purplecake613#4099- Co-founder of Mountain Gaming, Devloper(builder) for FLOOR IS NEON RED on Roblox. urg burg cheese meese🧀
+
 ninjaxp30#4203- Developer(builder) for FLOOR IS NEON RED on Roblox
+
 DannyCool65#3214- Developer(Builder) for FLOOR IS NEON RED on Roblox
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 LINKS:
