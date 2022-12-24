@@ -7,12 +7,12 @@ In places where it says token, you need to make a secret in replit of visual cod
 ⚠️MOUNTAIN GAMING STUDIOS IS NOT RESPONSIBLE FOR ANY DATA LOSS OR BOT FRAUD. IF YOU COMMIT FRAUD, BREAK DISCORD TOS, OR FIND ANY WAY TO GET YOUR BOT BANNED OR ACCOUNT BANNED, WE ARE NOT RESPONSIBLE. TO SUM IT UP: WE ARE NOT RESPONSIBLE FOR ANYTHING YOU DO.⚠️
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-INFO:
+**INFO:**
 
 Made with JavaScript, coded by Mountain Gaming Studios, 100% safe, interaction bot. Please don't edit the code for the wrong reasons. Use this nicely. All file names are what you need to name them when creating your file. For example, if you're trying to do the index.js, you need to go to whereever you are coding and make a file called index.js. Same for everything else.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-DEVELOPMENT TEAM:
+**DEVELOPMENT TEAM:**
 
 Zeno#2951- CEO & founder of Mountain Gaming, Codes JS & LUA, lead developer of Mountain Gaming discord bot & FLOOR IS NEON RED on Roblox. Epic coder🧑‍💻
 
@@ -25,7 +25,7 @@ ninjaxp30#4203- Developer(builder) for FLOOR IS NEON RED on Roblox
 DannyCool65#3214- Developer(Builder) for FLOOR IS NEON RED on Roblox
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-LINKS:
+**LINKS:**
 
 Discord (support server): https://discord.gg/zenoyt-official-server-845476765702946846
 
