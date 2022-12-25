@@ -18,7 +18,7 @@ Zeno#2951- CEO & founder of Mountain Gaming, Codes JS & LUA, lead developer of M
 
 oof.png#2521- Co-founder of Mountain Gaming, Codes in LUA, Devloper(scripter) for FLOOR IS NEON RED on Roblox. BreadMaster🍞
 
-Purplecake613#4099- Co-founder of Mountain Gaming, Devloper(builder) for FLOOR IS NEON RED on Roblox. urg burg cheese meese🧀
+Purplecake613#4099- Co-founder of Mountain Gaming, Devloper(builder & scripter) for FLOOR IS NEON RED on Roblox and Mountain Gaming Studios Discord bot. urg burg cheese meese🧀
 
 ninjaxp30#4203- Developer(builder) for FLOOR IS NEON RED on Roblox
 
