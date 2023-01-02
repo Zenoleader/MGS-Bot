@@ -2,7 +2,7 @@
 
 THIS BOT WAS MADE BY Zeno#2951 (Discord)
 
-In places where it says token, you need to make a secret in replit of visual code and name the secret token and paste you discord bots token there. discord.js is needed to make all of this work. You can always add more commands or edit the ones already there.
+In places where it says token, you need to make a secret in replit of visual code and name the secret token and paste you discord bots token there. discord.js is needed to make all of this work. You can always add more commands or edit the ones already there. If any errors are found, just tell us, we don't want you guys to not understand why it didn't work.
 
 ⚠️MOUNTAIN GAMING STUDIOS IS NOT RESPONSIBLE FOR ANY DATA LOSS OR BOT FRAUD. IF YOU COMMIT FRAUD, BREAK DISCORD TOS, OR FIND ANY WAY TO GET YOUR BOT BANNED OR ACCOUNT BANNED, WE ARE NOT RESPONSIBLE. TO SUM IT UP: WE ARE NOT RESPONSIBLE FOR ANYTHING YOU DO.⚠️
 
@@ -10,6 +10,8 @@ In places where it says token, you need to make a secret in replit of visual cod
 **INFO:**
 
 Made with JavaScript, coded by Mountain Gaming Studios, 100% safe, interaction bot. Please don't edit the code for the wrong reasons. Use this nicely. All file names are what you need to name them when creating your file. For example, if you're trying to do the index.js, you need to go to whereever you are coding and make a file called index.js. Same for everything else. You will need to download **discord.js v13**. No other version will work with the code provided. 
+
+⚠️ WE WILL NOT SPOON FEED YOU WITH CODING. IF YOU DON't UNDERSTAND SOMETHING PLEASE TRY TO FIGURE IT OUT FIRST THEN ASK US.⚠️
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 **DEVELOPMENT TEAM:**
