@@ -25,6 +25,11 @@ ninjaxp30#4203- Developer(builder) for FLOOR IS NEON RED on Roblox
 DannyCool65#3214- Developer(Builder) for FLOOR IS NEON RED on Roblox
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
+**UPDATES**
+
+So far, we have added new slash commands so you guys can get an easy slash command yourself! Our bot has new status & appearances. If you would like to add our bot to supoort us, we have a link of the bot down at the bottom! Have a great new year! 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
 **LINKS:**
 
 Discord (support server): https://discord.gg/zenoyt-official-server-845476765702946846
