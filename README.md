@@ -31,7 +31,9 @@ DannyCool65#3214- Developer(Builder) for FLOOR IS NEON RED on Roblox
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 **UPDATES**
 
-We have added a new report command (;report text) & an new 8ball command (;8ball text). These are global commands, and if you have a problem just use the report command and we may be able to help! If you have a question that needs a wise answer, use the 8ball command!
+We have added a new report command (;report text) & an new 8ball command (;8ball text). These are global commands, and if you have a problem just use the report command and we may be able to help! If you have a question that needs a wise answer, use the 8ball command! 
+
+**⚠️CUSTOM COMMANDS ARE NOT FOR THE BOT. THEY ARE FOR YOUR PERSONAL USE. ALSO YOU JUST MAKE A NEW BOOKMARK, NAME IT SOMETHING, SAVE IT WITHOUT PASTING THE CODE, THEN EDIT THE BOOKMARK AND PASTE THE CODE⚠️**
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 **LINKS:**
