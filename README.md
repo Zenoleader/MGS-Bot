@@ -9,7 +9,7 @@ In places where it says token, you need to make a secret in replit of visual cod
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 **INFO:**
 
-Made with JavaScript, coded by Mountain Gaming Studios, 100% safe, interaction bot. Please don't edit the code for the wrong reasons. Use this nicely. All file names are what you need to name them when creating your file. For example, if you're trying to do the index.js, you need to go to whereever you are coding and make a file called index.js. Same for everything else. You will need to download **discord.js v13**. No other version will work with the code provided. 
+Made with JavaScript, coded by Mountain Gaming Studios, 100% safe, interaction bot. Please don't edit the code for the wrong reasons. Use this nicely. All file names are what you need to name them when creating your file. For example, if you're trying to do the index.js, you need to go to whereever you are coding and make a file called index.js. Same for everything else. You will need to download **discord.js v13**. No other version will work with the code provided. (codes are all modified so they don't look exactly like the actual MGS commands. This is due to copying and people being lazy)
 
 **THE BOT FILE IS WHERE ALL THE OTHER COMMANDS ARE**
 
