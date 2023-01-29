@@ -48,6 +48,8 @@ Website: https://mountainfinr.wixsite.com/mountaingaming
 
 Add the bot: https://discord.com/api/oauth2/authorize?client_id=962834876665577542&permissions=534723819584&scope=bot%20applications.commands
 
+top.gg: https://top.gg/bot/962834876665577542
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-If any problems are found, please join the support server, open a ticket, describe the problem, and a staff member will be with you shortly.
+If any problems are found, please join the support server, open a ticket (or use the report commands in an external server. Doesn't really matter), describe the problem, and a staff member will be with you shortly.
