@@ -6,30 +6,15 @@ client.on("messageCreate", message => {
 if(message.content.startsWith('!calculate')) {
   const args = message.content.slice(';calculate'.length).trim().split(/ + /g);
   const response = args.join(''); 
-
   
-    let embed = new Discord.MessageEmbed()
-    
-    try {
-      embed
-        .setTitle("Caluculate")
-        .addFields(
-        { name: `Equation:`,
-         value: response 
-        },
-          
-        { name: 'Solution:', 
-         value: String(math.evaluate(response5)) 
-        }
-      )
-      .setColor('BLURPLE')
+      let embed = new Discord.MessageEmbed()
+
+  try {
+    .setTitle("Math")
+    .setDescription(`Equation: ${response}, Solution: ${String(math.evaluate(response))`)
     } catch (err) {
-      embed
-        .setTitle("Calculation Error")
-    .setAuthor("MGS", "https://cdn.discordapp.com/avatars/962834876665577542/da9b5215bb4a9f40d3b0cfe94a564eb2.png?size=4096")
-      .setDescription('You have requested an **Invalid equation** or a **Large request**')
-      .setColor('RED')
+     message.reply("there was an error!")
     }
-     message.channel.send({embeds: [embed]})
+    message.reply({embeds: [embed]})
   } 
   })
