@@ -13,7 +13,7 @@ if(message.content.startsWith('!calculate')) {
     try {
       embed
         .setTitle("Caluculate")
-       .setDescription(`Equation: ${response}, Solution: ${String(math.evaluate(response))}
+       .setDescription(`Equation: ${response}, Solution: ${String(math.evaluate(response))})
     } catch (err) {
      message.reply("There was an error!")
     }
