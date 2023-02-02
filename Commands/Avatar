@@ -1,4 +1,4 @@
-if(message.content.startsWith(";av")) {
+if(message.content.startsWith("!av")) {
    
 const user = message.mentions.users.first() || message.author;
 
