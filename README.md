@@ -13,6 +13,8 @@ Made with JavaScript, coded by Mountain Gaming Studios, 100% safe, interaction b
 
 **YOU ADD ALL THE COMMANDS IN THE INDEX.JS FILE INSIDE THE SAME CLIENT ( client.on("messageCreate", message => {}) thing)**
 
+**DOWNLOAD DISCORD.JS ```npm i discord.js@13.10.2```**
+
 **⚠️ WE WILL NOT SPOON FEED YOU WITH CODING. IF YOU DON'T UNDERSTAND SOMETHING PLEASE TRY TO FIGURE IT OUT FIRST THEN ASK US.⚠️**
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
