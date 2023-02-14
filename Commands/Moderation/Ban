@@ -2,7 +2,7 @@ if(message.content.startsWith('!ban')) {
     
      const args = message.content.slice('!ban'.length).trim().split(/ + /g);
     const reason = args.join(''); 
-    if (!args9[0]) return message.reply({embeds: [error3]})
+    if (!args[0]) return message.reply("You need to mention someone.")
     let member = message.mentions.members.first() || message.guild.members.cache.get(args[0]) || message.guild.members.cache.find(x => x.user.username.toLowerCase() === args.slice(0).join(" ") || x.user.username === args[0]);
     if (!message.member.permissions.has("BAN_MEMBERS")) return message.reply("You don't have perms to use thins!");
     if (!message.guild.me.permissions.has("BAN_MEMBERS")) return message.reply("I don't have permission to ban people!");
