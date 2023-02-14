@@ -46,7 +46,7 @@ FLOOR IS NEON RED (Roblox game): https://www.roblox.com/games/7231457999/FLOOR-I
 
 Mountain Gaming Studios (Roblox game studio): https://www.roblox.com/groups/11791011/Mountain-Gaming-Studios
 
-Website: https://mountainfinr.wixsite.com/mountaingaming
+Website: https://mountainggamingstudio.wixsite.com/mountaingaming
 
 Add the bot: https://discord.com/api/oauth2/authorize?client_id=962834876665577542&permissions=534723819584&scope=bot%20applications.commands
 
