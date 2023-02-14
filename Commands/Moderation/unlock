@@ -9,8 +9,8 @@ let member =
 
 const reason = args.join(" ")
 
-    if(!message.guild.me.permissions.has("MANAGE_CHANNELS")) return message.reply("Can't manage channels.")
-    if(!message.guild.me.permissions.has("MANAGE_ROLES")) return message.reply("Can't manage roles.")
+    if(!message.guild.me.permissions.has("MANAGE_CHANNELS")) return message.channel.send("Can't manage channels.")
+    if(!message.guild.me.permissions.has("MANAGE_ROLES")) return message.channel.send("Can't manage roles.")
     
      if (message.author.bot) return;
         if (message.member.permissions.has("KICK_MEMBERS")){      
@@ -27,11 +27,11 @@ message.channel.permissionOverwrites.edit(message.guild.roles.cache.find(x => x.
     READ_MESSAGE_HISTORY: true,
 });        
   } else {
- message.reply("You need the Member role!")
+ message.channel.send("You need the Member role!")
 }
-message.reply("Channel unlocked!")             
+message.channel.send("Channel unlocked!")             
   client.channels.cache.get('CHANNEL ID HERE').send(`Channel: ${message.channel}, Mod: ${message.author.tag}`)
 
 } else {
-message.reply("You can't use this")
+message.channel.send("You can't use this")
     }
