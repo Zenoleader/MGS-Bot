@@ -1,5 +1,3 @@
-https://user-images.githubusercontent.com/119907481/219507910-efbf1d57-1a45-4214-b95d-d516bb8e11d2.png
-
 # Mountain Gaming Studios Bot
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 **THIS BOT WAS MADE BY Zeno#2951 (Discord)**
@@ -35,7 +33,7 @@ DannyCool65#3214- Developer(Builder) for FLOOR IS NEON RED on Roblox
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 **UPDATES**
 
-We have added a new report command (;report text) & an new 8ball command (;8ball text). These are global commands, and if you have a problem just use the report command and we may be able to help! If you have a question that needs a wise answer, use the 8ball command! 
+We have added a new slowmode command (;slowmode [TIME]) & an new lock & unlock command (;lock [reason] ;unlock [reason]). These are global commands! 
 
 **⚠️CUSTOM COMMANDS ARE NOT FOR THE BOT. THEY ARE FOR YOUR PERSONAL USE. ALSO YOU JUST MAKE A NEW BOOKMARK, NAME IT SOMETHING, SAVE IT WITHOUT PASTING THE CODE, THEN EDIT THE BOOKMARK AND PASTE THE CODE⚠️**
 
