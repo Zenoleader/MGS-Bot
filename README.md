@@ -1,4 +1,4 @@
-(https://user-images.githubusercontent.com/119907481/219507910-efbf1d57-1a45-4214-b95d-d516bb8e11d2.png)
+https://user-images.githubusercontent.com/119907481/219507910-efbf1d57-1a45-4214-b95d-d516bb8e11d2.png
 
 # Mountain Gaming Studios Bot
 ------------------------------------------------------------------------------------------------------------------------------------------------------
