@@ -1,6 +1,8 @@
-# Mountain Gaming Studios Bot
+(https://user-images.githubusercontent.com/119907481/219507910-efbf1d57-1a45-4214-b95d-d516bb8e11d2.png)
 
-THIS BOT WAS MADE BY Zeno#2951 (Discord)
+# Mountain Gaming Studios Bot
+------------------------------------------------------------------------------------------------------------------------------------------------------
+**THIS BOT WAS MADE BY Zeno#2951 (Discord)**
 
 In places where it says token, you need to make a secret in replit of visual code and name the secret token and paste you discord bots token there. discord.js is needed to make all of this work. You can always add more commands or edit the ones already there. If any errors are found, just tell us, we don't want you guys to not understand why it didn't work.
 
