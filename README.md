@@ -1,5 +1,9 @@
 # [MGS Discord Bot](https://discord.com/api/oauth2/authorize?client_id=962834876665577542&permissions=534723819584&scope=bot%20applications.commands)
 ------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Mountain Gaming](https://user-images.githubusercontent.com/119907481/219535225-afbc528f-a45b-457c-ba10-9ca6ffd742e1.png)
+
+
 **THIS BOT WAS MADE BY Zeno#2951 (Discord)**
 
 In places where it says token, you need to make a secret in replit of visual code and name the secret token and paste you discord bots token there. discord.js is needed to make all of this work. You can always add more commands or edit the ones already there. If any errors are found, just tell us, we don't want you guys to not understand why it didn't work.
