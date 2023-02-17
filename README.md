@@ -11,20 +11,20 @@ In places where it says token, you need to make a secret in replit of visual cod
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 **INFO:**
 
-Made with node.js, coded by Mountain Gaming Studios, 100% safe, interaction bot. Please don't edit the code for the wrong reasons. Use this nicely. All file names are what you need to name them when creating your file. For example, if you're trying to do the index.js, you need to go to whereever you are coding and make a file called index.js. Same for everything else. You will need to download **discord.js v13**. No other version will work with the code provided. (codes are all modified so they don't look exactly like the actual MGS commands. This is due to copying and people being lazy)
+Made with node.js, programmed by [Mountain Gaming Studios](https://mountaingamingstudio.wixsite.com/mountaingaming), 100% safe, interaction bot. Please don't edit the code for the wrong reasons. Use this nicely. All file names are what you need to name them when creating your file. For example, if you're trying to do the index.js, you need to go to where ever you are programming and make a file called index.js. Same for everything else. You will need to download **[discord.js v13](https://discord.js.org/#/)**. No other version will work with the code provided. (Codes are all modified so they don't look exactly like the actual MGS commands. This is due to copying and people being lazy)
 
 **YOU ADD ALL THE COMMANDS IN THE INDEX.JS FILE INSIDE THE SAME CLIENT (``` client.on("messageCreate", message => {}) thing)```**
 
-**DOWNLOAD DISCORD.JS: ```npm i discord.js@13.10.2```**
+**DOWNLOAD [DISCORD.JS](https://discord.js.org/#/): ```npm i discord.js@13.10.2```**
 
-**⚠️ WE WILL NOT SPOON FEED YOU WITH CODING. IF YOU DON'T UNDERSTAND SOMETHING PLEASE TRY TO FIGURE IT OUT FIRST THEN ASK US.⚠️**
+**⚠️ WE WILL NOT SPOON FEED YOU WITH PROGRAMMING. IF YOU DON'T UNDERSTAND SOMETHING PLEASE TRY TO FIGURE IT OUT FIRST THEN ASK US.⚠️**
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 **DEVELOPMENT TEAM:**
 
-Zeno#2951- CEO & founder of Mountain Gaming, Codes JS & LUA, lead developer of Mountain Gaming discord bot & FLOOR IS NEON RED on Roblox. Epic coder🧑‍💻
+Zeno#2951- CEO & founder of Mountain Gaming, Programs in JS & LUA, lead developer of Mountain Gaming Discord bot & FLOOR IS NEON RED on Roblox. Epic programmer🧑‍💻
 
-oof.png#2521- Co-founder of Mountain Gaming, Codes in LUA, Devloper(scripter) for FLOOR IS NEON RED on Roblox. BreadMaster🍞
+oof.png#2521- Co-founder of Mountain Gaming, Programs in LUA, Devloper(scripter) for FLOOR IS NEON RED on Roblox. BreadMaster🍞
 
 Purplecake613#4099- Co-founder of Mountain Gaming, Devloper(builder & scripter) for FLOOR IS NEON RED on Roblox and Mountain Gaming Studios Discord bot. urg burg cheese meese🧀
 
@@ -37,7 +37,7 @@ DannyCool65#3214- Developer(Builder) for FLOOR IS NEON RED on Roblox
 
 We have added a new slowmode command (;slowmode [TIME]) & an new lock & unlock command (;lock [reason] ;unlock [reason]). These are global commands! 
 
-**⚠️CUSTOM COMMANDS ARE NOT FOR THE BOT. THEY ARE FOR YOUR PERSONAL USE. ALSO YOU JUST MAKE A NEW BOOKMARK, NAME IT SOMETHING, SAVE IT WITHOUT PASTING THE CODE, THEN EDIT THE BOOKMARK AND PASTE THE CODE⚠️**
+**⚠️CUSTOM COMMANDS ARE NOT FOR THE BOT. THEY ARE FOR YOUR PERSONAL USE. ALSO, YOU JUST MAKE A NEW BOOKMARK, NAME IT SOMETHING, SAVE IT WITHOUT PASTING THE CODE, THEN EDIT THE BOOKMARK AND PASTE THE CODE⚠️**
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 **FEATURED COMMANDS**
