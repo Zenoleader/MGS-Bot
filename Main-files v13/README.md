@@ -1,6 +1,8 @@
 ![Mountain Gaming](https://user-images.githubusercontent.com/119907481/219535225-afbc528f-a45b-457c-ba10-9ca6ffd742e1.png)
 
 # [MGS Discord Bot](https://discord.com/api/oauth2/authorize?client_id=962834876665577542&permissions=534723819584&scope=bot%20applications.commands)
+
+[Main Page](#MGS-Discord-Bot), [Info](#INFO), [Meet the team!](#DEVELOPMENT-TEAM), [Updates](#UPDATES), [Featured Commands](#FEATURED-COMMANDS),[Links](#LINKS), [Our ToS & Privacy Policy](#Our-GitHub-ToS)
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 **THIS BOT IS MADE BY Zeno#2951 & Purplecake613#4099 (Discord)**
 
@@ -9,7 +11,7 @@ In places where it says token, you need to make a secret in [replit](https://rep
 **⚠️[MOUNTAIN GAMING STUDIOS](https://mountaingamingstudio.wixsite.com/mountaingaming) IS NOT RESPONSIBLE FOR ANY DATA LOSS OR BOT FRAUD. IF YOU COMMIT FRAUD, BREAK DISCORD TOS, OR FIND ANY WAY TO GET YOUR BOT BANNED OR ACCOUNT BANNED, WE ARE NOT RESPONSIBLE. TO SUM IT UP: WE ARE NOT RESPONSIBLE FOR ANYTHING YOU DO.⚠️**
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-**INFO:**
+# **INFO:**
 
 Made with [node.js](https://nodejs.org/en/), programmed by [Mountain Gaming Studios](https://mountaingamingstudio.wixsite.com/mountaingaming), 100% safe, interaction bot. Please don't edit the code for the wrong reasons. Use this nicely. All file names are what you need to name them when creating your file. For example, if you're trying to do the index.js, you need to go to where ever you are programming and make a file called index.js. Same for everything else. You will need to download **[discord.js v13](https://discord.js.org/#/)**. No other version will work with the code provided. The MGS bot team uses [replit](https://replit.com) to code our bot (We recommend this if you are working with a team)! (Codes are all modified so they don't look exactly like the actual MGS commands. This is due to copying and people being lazy)
 
@@ -20,7 +22,7 @@ Made with [node.js](https://nodejs.org/en/), programmed by [Mountain Gaming Stud
 **⚠️ WE WILL NOT SPOON FEED YOU WITH PROGRAMMING. IF YOU DON'T UNDERSTAND SOMETHING PLEASE TRY TO FIGURE IT OUT FIRST THEN ASK US.⚠️**
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-**DEVELOPMENT TEAM:**
+# **DEVELOPMENT TEAM:**
 
 **Zeno#2951**- CEO & founder of Mountain Gaming, Programs in JS & LUA, lead developer of Mountain Gaming Discord bot & FLOOR IS NEON RED on Roblox. Epic programmer🧑‍💻
 
@@ -35,21 +37,21 @@ Made with [node.js](https://nodejs.org/en/), programmed by [Mountain Gaming Stud
 Want to join Mountain Gaming Studios? Refer to here: [MGS Applications](https://github.com/Zenoleader/MGS-Bot/blob/main/.github/ISSUES%20TEMPLATE/Applications.md). We thank you for checking our studio out!! 👍
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-**UPDATES**
+# **UPDATES**
 
 We have added a new slowmode command (;slowmode [TIME (seconds)]) & a new lock & unlock command (;lock [reason] ;unlock [reason]). These are global commands! 
 
 **⚠️CUSTOM COMMANDS ARE NOT FOR THE BOT. THEY ARE FOR YOUR PERSONAL USE. ALSO, YOU JUST MAKE A NEW BOOKMARK, NAME IT SOMETHING, SAVE IT WITHOUT PASTING THE CODE, THEN EDIT THE BOOKMARK AND PASTE THE CODE⚠️**
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-**FEATURED COMMANDS**
+# **FEATURED COMMANDS**
 
 [8ball Cmd](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Fun/8ball.js),
 [Ban Cmd](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Moderation/Ban.js),
 [Slowmode Cmd](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Moderation/slowmode.js)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-**LINKS:**
+# **LINKS:**
 
 [Support Server](https://discord.gg/zenoyt-official-server-845476765702946846)
 
@@ -64,7 +66,7 @@ We have added a new slowmode command (;slowmode [TIME (seconds)]) & a new lock &
 [top.gg](https://top.gg/bot/962834876665577542)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-**Our GitHub ToS**
+# **Our GitHub ToS**
 
 **1. Use of our service:** By using our codes, you agree **to not use any codes for, but not limited to: hacking, scamming, auth netting etc.** If we feel you are violating those terms, we will remove your access from this respitory.
 
@@ -75,22 +77,22 @@ We have added a new slowmode command (;slowmode [TIME (seconds)]) & a new lock &
 **4. Contact us:** Have any quetions or concerns about our terms? Don't fret, just email us: [zenoytmoderator@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSGKZhBszrHHTQmKjJcLfbLQSHChbjFFbfRvSgDwxjnXSzVFDqcfTfNLFfRzhXtGlZZzqBKr). Our responses could take 3-5 business days.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-**MGS Bot ToS**
+# **MGS Bot ToS**
 
-**1. Terms of Service:** By using the MGS bot, you agree to let the developers have access to specific data. The type of data we have i, but not limited to, **your ID, username and tag, profile, guild IDs, and DMs with the bot.** Use of the bot is considered agreement.
+**1. Terms of Service:** By using the MGS bot, you agree to let the developers have access to specific data. The type of data we have is, but not limited to, **your user ID, username and tag, profile, guild IDs, and DMs with the bot.** Use of the bot is considered agreement.
 
 **2. Access of Data:** By using the MGS bot, you agree to let the developers have access to your data. **Only the bot developers of MGS have access to your data**. We use your data to improve our bot in any way possible.
 
 **3. Storage of Data:** By using the MGS bot, you agree to let the developers store your data. We use your data to do analytics on how the bot is doing. **If any breach of your data was made, we will notify all servers using the client.**
 
-**4. Request Data:** By using the MGS bot, you have the right to request your data stored by MGS. You can always request your data in the support server. Your data will never be declined when requested. **You have the right to have your data removed. **
+**4. Request Data:** By using the MGS bot, you have the right to request your data stored by MGS. You can always request your data in the support server. Your data will never be declined when requested. **You have the right to have your data removed.**
 
-**5. Underage Users:** By using the MGS bot, you accept that you have to be 13+ or of legal age in your country to use Discord. If any reports have been made of an underage user, **we will do everything we can to delete that users' data. **
+**5. Underage Users:** By using the MGS bot, you accept that you have to be 13+ or of legal age in your country to use Discord. If any reports have been made of an underage user, **we will do everything we can to delete that users' data.**
 
 **6. Questions:** Have any quetions or concerns about our terms? Don't fret, just email us: [zenoytmoderator@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSGKZhBszrHHTQmKjJcLfbLQSHChbjFFbfRvSgDwxjnXSzVFDqcfTfNLFfRzhXtGlZZzqBKr). **Our responses could take 3-5 business days.**
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-**MGS Bot Privacy Policy**
+# **MGS Bot Privacy Policy**
 
 **1. Privacy Policy:** MGS takes your private data very seriously. To protect you, we will tell you all the information we gather from you and how we use it!
 
