@@ -6,7 +6,7 @@
 
 In places where it says token, you need to make a secret in replit of visual code and name the secret token and paste you discord bots token there. discord.js is needed to make all of this work. You can always add more commands or edit the ones already there. If any errors are found, just tell us, we don't want you guys to not understand why it didn't work.
 
-**⚠️MOUNTAIN GAMING STUDIOS IS NOT RESPONSIBLE FOR ANY DATA LOSS OR BOT FRAUD. IF YOU COMMIT FRAUD, BREAK DISCORD TOS, OR FIND ANY WAY TO GET YOUR BOT BANNED OR ACCOUNT BANNED, WE ARE NOT RESPONSIBLE. TO SUM IT UP: WE ARE NOT RESPONSIBLE FOR ANYTHING YOU DO.⚠️**
+**⚠️[MOUNTAIN GAMING STUDIOS](https://mountaingamingstudio.wixsite.com/mountaingaming) IS NOT RESPONSIBLE FOR ANY DATA LOSS OR BOT FRAUD. IF YOU COMMIT FRAUD, BREAK DISCORD TOS, OR FIND ANY WAY TO GET YOUR BOT BANNED OR ACCOUNT BANNED, WE ARE NOT RESPONSIBLE. TO SUM IT UP: WE ARE NOT RESPONSIBLE FOR ANYTHING YOU DO.⚠️**
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 **INFO:**
