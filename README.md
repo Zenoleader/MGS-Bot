@@ -2,7 +2,7 @@
 
 # [MGS Discord Bot](https://discord.com/api/oauth2/authorize?client_id=962834876665577542&permissions=534723819584&scope=bot%20applications.commands)
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-**THIS BOT WAS MADE BY Zeno#2951 (Discord)**
+**THIS BOT IS MADE BY Zeno#2951 (Discord)**
 
 In places where it says token, you need to make a secret in replit of visual code and name the secret token and paste you discord bots token there. discord.js is needed to make all of this work. You can always add more commands or edit the ones already there. If any errors are found, just tell us, we don't want you guys to not understand why it didn't work.
 
@@ -49,17 +49,17 @@ We have added a new slowmode command (;slowmode [TIME]) & an new lock & unlock c
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 **LINKS:**
 
-Discord (support server): https://discord.gg/zenoyt-official-server-845476765702946846
+[Support Server](https://discord.gg/zenoyt-official-server-845476765702946846)
 
-FLOOR IS NEON RED (Roblox game): https://www.roblox.com/games/7231457999/FLOOR-IS-NEON-RED
+[FLOOR IS NEON RED (Roblox game)](https://www.roblox.com/games/7231457999/FLOOR-IS-NEON-RED)
 
-Mountain Gaming Studios (Roblox game studio): https://www.roblox.com/groups/11791011/Mountain-Gaming-Studios
+[Mountain Gaming Studios (Roblox game studio)](https://www.roblox.com/groups/11791011/Mountain-Gaming-Studios)
 
-Website: https://mountainggamingstudio.wixsite.com/mountaingaming
+[Website](https://mountainggamingstudio.wixsite.com/mountaingaming)
 
-Add the bot: https://discord.com/api/oauth2/authorize?client_id=962834876665577542&permissions=534723819584&scope=bot%20applications.commands
+[Add the bot](https://discord.com/api/oauth2/authorize?client_id=962834876665577542&permissions=534723819584&scope=bot%20applications.commands)
 
-top.gg: https://top.gg/bot/962834876665577542
+[top.gg](https://top.gg/bot/962834876665577542)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
