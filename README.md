@@ -90,5 +90,17 @@ We have added a new slowmode command (;slowmode [TIME (seconds)]) & a new lock &
 **6. Questions:** Have any quetions or concerns about our terms? Don't fret, just email us: [zenoytmoderator@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSGKZhBszrHHTQmKjJcLfbLQSHChbjFFbfRvSgDwxjnXSzVFDqcfTfNLFfRzhXtGlZZzqBKr). Our responses could take 3-5 business days.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
+**MGS Bot Privacy Policy**
 
-If any problems are found, please join the support server, open a ticket (or use the report commands in an external server. Doesn't really matter), describe the problem, and a staff member will be with you shortly. 
+**1. Privacy Policy:** MGS takes your private data very seriously. To protect you, we will tell you all the information we gather from you and how we use it!
+
+**2. Security:** The MGS development team does all they can to keep your information safe. We can't 100% guarantee that your information will be safe since the internet isn't 100% fool proof.
+
+**3. Storage of Data:** Only the data such as your server name, a few roles, and server/member id's **are stored permanently** until a dev deletes it or you request your data to be deleted.
+
+**4. Changes of the Policy:** Any changes of the privacy policy will be updated and told to everyone using the bot as soon as possible. We will notify you using dm's or the "alert" command. **The policy has been in effect since 2/1/23.**
+
+**5. Questions:** Have any quetions or concerns about our policy? Don't fret, just email us: [zenoytmoderator@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSGKZhBszrHHTQmKjJcLfbLQSHChbjFFbfRvSgDwxjnXSzVFDqcfTfNLFfRzhXtGlZZzqBKr). Our responses could take 3-5 business days.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+If any problems are found, **please join the support server, open a ticket (or use the report commands in an external server. Doesn't really matter), describe the problem, and a staff member will be with you shortly.**
