@@ -75,5 +75,20 @@ We have added a new slowmode command (;slowmode [TIME (seconds)]) & a new lock &
 **4. Contact us:** Have any quetions or concerns about our terms? Don't fret, just email us: [zenoytmoderator@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSGKZhBszrHHTQmKjJcLfbLQSHChbjFFbfRvSgDwxjnXSzVFDqcfTfNLFfRzhXtGlZZzqBKr). Our responses could take 3-5 business days.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
+**MGS Bot ToS**
+
+**1. Terms of Service:** By using the MGS bot, you agree to let the developers have access to specific data. The type of data we have it, but not limited to, your ID, username and tag, profile, guild IDs, and DMs with the bot. Use of the bot is considered agreement.
+
+**2. Access of Data:** By using the MGS bot, you agree to let the developers have access to your data. Only the bot developers of MGS have access to your data. We use your data to improve our bot in any way possible.
+
+**3. Storage of Data:** By using the MGS bot, you agree to let the developers store your data. We use your data to do analytics on how the bot is doing. If any breach of your data was made, we will notify all servers using the client.
+
+**4. Request Data:** By using the MGS bot, you have the right to request your data stored by MGS. You can always request your data in the support server. Your data will never be declined when requested.  You have the right to have your data removed. 
+
+**5. Underage Users:** By using the MGS bot, you accept that you have to be 13+ or of legal age in your country to use Discord. If any reports have been made of an underage user, we will do everything we can to delete that users' data. 
+
+**6. Questions:** Have any quetions or concerns about our terms? Don't fret, just email us: [zenoytmoderator@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSGKZhBszrHHTQmKjJcLfbLQSHChbjFFbfRvSgDwxjnXSzVFDqcfTfNLFfRzhXtGlZZzqBKr). Our responses could take 3-5 business days.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 If any problems are found, please join the support server, open a ticket (or use the report commands in an external server. Doesn't really matter), describe the problem, and a staff member will be with you shortly. 
