@@ -1,4 +1,4 @@
-# [Mountain Gaming Studios Bot](https://discord.com/api/oauth2/authorize?client_id=962834876665577542&permissions=534723819584&scope=bot%20applications.commands)
+# [MGS Bot](https://discord.com/api/oauth2/authorize?client_id=962834876665577542&permissions=534723819584&scope=bot%20applications.commands)
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 **THIS BOT WAS MADE BY Zeno#2951 (Discord)**
 
@@ -40,7 +40,7 @@ We have added a new slowmode command (;slowmode [TIME]) & an new lock & unlock c
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 **FEATURED CODE**
 
-([8ball Cmd](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Fun/8ball.js))
+[8ball Cmd](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Fun/8ball.js)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 **LINKS:**
