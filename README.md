@@ -63,4 +63,4 @@ We have added a new slowmode command (;slowmode [TIME]) & an new lock & unlock c
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-If any problems are found, please join the support server, open a ticket (or use the report commands in an external server. Doesn't really matter), describe the problem, and a staff member will be with you shortly.
+If any problems are found, please join the support server, open a ticket (or use the report commands in an external server. Doesn't really matter), describe the problem, and a staff member will be with you shortly. 
