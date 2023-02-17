@@ -32,6 +32,7 @@ Made with node.js, programmed by [Mountain Gaming Studios](https://mountaingamin
 
 **DannyCool65#3214**- Developer(Builder) for FLOOR IS NEON RED on Roblox
 
+Want to join Mountain Gaming Studios? Refer to here: [MGS Applications](https://github.com/Zenoleader/MGS-Bot/blob/main/.github/ISSUES%20TEMPLATE/Applications.md). We thank you for checking our studio out!! 👍
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 **UPDATES**
 
