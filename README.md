@@ -1,4 +1,4 @@
-# [MGS Bot](https://discord.com/api/oauth2/authorize?client_id=962834876665577542&permissions=534723819584&scope=bot%20applications.commands)
+# [MGS Discord Bot](https://discord.com/api/oauth2/authorize?client_id=962834876665577542&permissions=534723819584&scope=bot%20applications.commands)
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 **THIS BOT WAS MADE BY Zeno#2951 (Discord)**
 
@@ -38,9 +38,11 @@ We have added a new slowmode command (;slowmode [TIME]) & an new lock & unlock c
 **⚠️CUSTOM COMMANDS ARE NOT FOR THE BOT. THEY ARE FOR YOUR PERSONAL USE. ALSO YOU JUST MAKE A NEW BOOKMARK, NAME IT SOMETHING, SAVE IT WITHOUT PASTING THE CODE, THEN EDIT THE BOOKMARK AND PASTE THE CODE⚠️**
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-**FEATURED CODE**
+**FEATURED COMMANDS**
 
-[8ball Cmd](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Fun/8ball.js)
+[8ball Cmd](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Fun/8ball.js),
+[Ban Cmd](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Moderation/Ban.js),
+[Slowmode Cmd](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Moderation/slowmode.js)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 **LINKS:**
