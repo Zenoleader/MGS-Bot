@@ -38,6 +38,11 @@ We have added a new slowmode command (;slowmode [TIME]) & an new lock & unlock c
 **⚠️CUSTOM COMMANDS ARE NOT FOR THE BOT. THEY ARE FOR YOUR PERSONAL USE. ALSO YOU JUST MAKE A NEW BOOKMARK, NAME IT SOMETHING, SAVE IT WITHOUT PASTING THE CODE, THEN EDIT THE BOOKMARK AND PASTE THE CODE⚠️**
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
+**FEATURED CODE**
+
+([8ball Cmd](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Fun/8ball.js))
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
 **LINKS:**
 
 Discord (support server): https://discord.gg/zenoyt-official-server-845476765702946846
