@@ -17,6 +17,13 @@ else {
     }
     
   )
+   commands?.create(
+    {
+    name: 'test',
+    description: 'Test slash cmd!'
+    }
+    
+  )
 }
 client.on("interactionCreate", async interaction => {
   if(!interaction.isCommand()) return;
@@ -24,6 +31,9 @@ client.on("interactionCreate", async interaction => {
   if(interaction.commandName === "ping") {
  await interaction.reply('pong') 
   } 
+  if(interaction.commandName === "test") {
+  await interaction.reply("no")
+  }
 });
 
 //if you want to make slash commands public, delete lines 8-10.
