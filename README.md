@@ -2,7 +2,7 @@
 
 # [MGS Discord Bot](https://discord.com/api/oauth2/authorize?client_id=962834876665577542&permissions=534723819584&scope=bot%20applications.commands)
 
-[Main Page](#MGS-Discord-Bot) 
+[Main Page](#MGS-Discord-Bot) [Info](#INFO) [Meet the team!](#DEVELOPMENT-TEAM) [Updates](#UPDATES) [Featured Commands](#FEATURED-COMMANDS) [Links](#LINKS) [Our ToS & Privacy Policy](#Our-GitHub-ToS)
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 **THIS BOT IS MADE BY Zeno#2951 & Purplecake613#4099 (Discord)**
 
@@ -77,7 +77,7 @@ We have added a new slowmode command (;slowmode [TIME (seconds)]) & a new lock &
 **4. Contact us:** Have any quetions or concerns about our terms? Don't fret, just email us: [zenoytmoderator@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSGKZhBszrHHTQmKjJcLfbLQSHChbjFFbfRvSgDwxjnXSzVFDqcfTfNLFfRzhXtGlZZzqBKr). Our responses could take 3-5 business days.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-**MGS Bot ToS**
+# **MGS Bot ToS**
 
 **1. Terms of Service:** By using the MGS bot, you agree to let the developers have access to specific data. The type of data we have is, but not limited to, **your user ID, username and tag, profile, guild IDs, and DMs with the bot.** Use of the bot is considered agreement.
 
@@ -92,7 +92,7 @@ We have added a new slowmode command (;slowmode [TIME (seconds)]) & a new lock &
 **6. Questions:** Have any quetions or concerns about our terms? Don't fret, just email us: [zenoytmoderator@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSGKZhBszrHHTQmKjJcLfbLQSHChbjFFbfRvSgDwxjnXSzVFDqcfTfNLFfRzhXtGlZZzqBKr). **Our responses could take 3-5 business days.**
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-**MGS Bot Privacy Policy**
+# **MGS Bot Privacy Policy**
 
 **1. Privacy Policy:** MGS takes your private data very seriously. To protect you, we will tell you all the information we gather from you and how we use it!
 
