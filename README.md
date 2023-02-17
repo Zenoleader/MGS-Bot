@@ -1,4 +1,4 @@
-# Mountain Gaming Studios Bot
+# [Mountain Gaming Studios Bot](https://discord.com/api/oauth2/authorize?client_id=962834876665577542&permissions=534723819584&scope=bot%20applications.commands)
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 **THIS BOT WAS MADE BY Zeno#2951 (Discord)**
 
