@@ -11,7 +11,7 @@ In places where it says token, you need to make a secret in replit of visual cod
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 **INFO:**
 
-Made with node.js, programmed by [Mountain Gaming Studios](https://mountaingamingstudio.wixsite.com/mountaingaming), 100% safe, interaction bot. Please don't edit the code for the wrong reasons. Use this nicely. All file names are what you need to name them when creating your file. For example, if you're trying to do the index.js, you need to go to where ever you are programming and make a file called index.js. Same for everything else. You will need to download **[discord.js v13](https://discord.js.org/#/)**. No other version will work with the code provided. (Codes are all modified so they don't look exactly like the actual MGS commands. This is due to copying and people being lazy)
+Made with [node.js](https://nodejs.org/en/), programmed by [Mountain Gaming Studios](https://mountaingamingstudio.wixsite.com/mountaingaming), 100% safe, interaction bot. Please don't edit the code for the wrong reasons. Use this nicely. All file names are what you need to name them when creating your file. For example, if you're trying to do the index.js, you need to go to where ever you are programming and make a file called index.js. Same for everything else. You will need to download **[discord.js v13](https://discord.js.org/#/)**. No other version will work with the code provided. (Codes are all modified so they don't look exactly like the actual MGS commands. This is due to copying and people being lazy)
 
 **YOU ADD ALL THE COMMANDS IN THE INDEX.JS FILE INSIDE THE SAME CLIENT (``` client.on("messageCreate", message => {}) thing)```** *refer to [Example Code.js](https://github.com/Zenoleader/MGS-Bot/blob/main/Example%20Code.js) if you still don't understand.
 
@@ -66,11 +66,11 @@ We have added a new slowmode command (;slowmode [TIME (seconds)]) & a new lock &
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 **Our GitHub ToS**
 
-**1. Use of our service:** By using our codes, you agree to not use any codes for, but not limited to: hacking, scamming, auth netting etc. If we feel you are violating those terms, we will remove your access from this respitory.
+**1. Use of our service:** By using our codes, you agree **to not use any codes for, but not limited to: hacking, scamming, auth netting etc.** If we feel you are violating those terms, we will remove your access from this respitory.
 
-**2. Your privacy:** By using our codes, you accept that we take data on what you click and what is seems of intrest to you. Your Username is shared with us, but your passwords & emails are safe to just you. If you are here to try and hack people, not only will we remove your access, we will report you to GitHub Support.
+**2. Your privacy:** By using our codes, you accept that we take data on what you click and what is seems of intrest to you. **Your Username is shared with us, but your passwords & emails are safe to just you.** If you are here to try and hack people, not only will we remove your access, we will report you to GitHub Support.
 
-**3. Social Media:** By using our codes, you agree that we will have to consent you on making vidoes, posts, pictures etc. about our sites/codes. If we feel you are violating those terms, we will remove your access from this respitory & will report you to GitHub Support. We take social media very lightly, so you can post any time as long as you have read this.
+**3. Social Media:** By using our codes, you agree that we will have to consent you on making vidoes, posts, pictures etc. about our sites/codes. If we feel you are violating those terms, we will remove your access from this respitory & will report you to GitHub Support. **We take social media very lightly, so you can post any time as long as you have read this.**
 
 **4. Contact us:** Have any quetions or concerns about our terms? Don't fret, just email us: [zenoytmoderator@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSGKZhBszrHHTQmKjJcLfbLQSHChbjFFbfRvSgDwxjnXSzVFDqcfTfNLFfRzhXtGlZZzqBKr). Our responses could take 3-5 business days.
 
