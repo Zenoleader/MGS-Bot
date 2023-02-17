@@ -22,15 +22,15 @@ Made with node.js, programmed by [Mountain Gaming Studios](https://mountaingamin
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 **DEVELOPMENT TEAM:**
 
-Zeno#2951- CEO & founder of Mountain Gaming, Programs in JS & LUA, lead developer of Mountain Gaming Discord bot & FLOOR IS NEON RED on Roblox. Epic programmer🧑‍💻
+**Zeno#2951**- CEO & founder of Mountain Gaming, Programs in JS & LUA, lead developer of Mountain Gaming Discord bot & FLOOR IS NEON RED on Roblox. Epic programmer🧑‍💻
 
-oof.png#2521- Co-founder of Mountain Gaming, Programs in LUA, Devloper(scripter) for FLOOR IS NEON RED on Roblox. BreadMaster🍞
+**oof.png#2521**- Co-founder of Mountain Gaming, Programs in LUA, Devloper(scripter) for FLOOR IS NEON RED on Roblox. BreadMaster🍞
 
-Purplecake613#4099- Co-founder of Mountain Gaming, Devloper(builder & scripter) for FLOOR IS NEON RED on Roblox and Mountain Gaming Studios Discord bot. urg burg cheese meese🧀
+**Purplecake613#4099**- Co-founder of Mountain Gaming, Devloper(builder & scripter) for FLOOR IS NEON RED on Roblox and Mountain Gaming Studios Discord bot. urg burg cheese meese🧀
 
-ninjaxp30#4203- Developer(builder) for FLOOR IS NEON RED on Roblox
+**ninjaxp30#4203**- Developer(builder) for FLOOR IS NEON RED on Roblox
 
-DannyCool65#3214- Developer(Builder) for FLOOR IS NEON RED on Roblox
+**DannyCool65#3214**- Developer(Builder) for FLOOR IS NEON RED on Roblox
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 **UPDATES**
