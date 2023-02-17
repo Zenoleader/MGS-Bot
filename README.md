@@ -77,7 +77,7 @@ We have added a new slowmode command (;slowmode [TIME (seconds)]) & a new lock &
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 **MGS Bot ToS**
 
-**1. Terms of Service:** By using the MGS bot, you agree to let the developers have access to specific data. The type of data we have i, but not limited to, **your ID, username and tag, profile, guild IDs, and DMs with the bot.** Use of the bot is considered agreement.
+**1. Terms of Service:** By using the MGS bot, you agree to let the developers have access to specific data. The type of data we have is, but not limited to, **your ID, username and tag, profile, guild IDs, and DMs with the bot.** Use of the bot is considered agreement.
 
 **2. Access of Data:** By using the MGS bot, you agree to let the developers have access to your data. **Only the bot developers of MGS have access to your data**. We use your data to improve our bot in any way possible.
 
