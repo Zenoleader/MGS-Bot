@@ -73,7 +73,7 @@ We have added a new slowmode command (;slowmode [TIME (seconds)]) & a new lock &
 
 **2. Your privacy:** By using our codes, you accept that we take data on what you click and what is seems of intrest to you. **Your Username is shared with us, but your passwords & emails are safe to just you.** If you are here to try and hack people, not only will we remove your access, we will report you to GitHub Support.
 
-**3. Social Media:** By using our codes, you agree that we will have to consent you on making vidoes, posts, pictures etc. about our sites/codes. If we feel you are violating those terms, we will remove your access from this respitory & will report you to GitHub Support. **We take social media very lightly, so you can post any time as long as you have read this.**
+**3. Social Media:** By using our codes, you agree that we will have to consent you on making videos, posts, pictures etc. about our sites/codes. If we feel you are violating those terms, we will remove your access from this respitory & will report you to GitHub Support. **We take social media very lightly, so you can post any time as long as you have read this.**
 
 **4. Contact us:** Have any quetions or concerns about our terms? Don't fret, just email us: [zenoytmoderator@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSGKZhBszrHHTQmKjJcLfbLQSHChbjFFbfRvSgDwxjnXSzVFDqcfTfNLFfRzhXtGlZZzqBKr). **Our responses could take 3-5 business days.**
 
