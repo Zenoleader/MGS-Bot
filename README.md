@@ -84,6 +84,7 @@ If you've looked hard enough (Using your eyes), you will notice that there is a 
 7b. All you have to do is copy or type " javascript: " (WITHOUT THE QUOTES AND SPACES) in front of ALL OF THE CODE! Once that is done press save!
 
 Enjoy the extensions!
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 # **Our GitHub ToS**
 
