@@ -95,7 +95,7 @@ If you've looked hard enough (Using your eyes), you will notice that there is a 
 
 7b. All you have to do is copy or type " javascript: " (WITHOUT THE QUOTES AND SPACES) in front of ALL OF THE CODE! Once that is done press save!
 
-Enjoy the extensions!
+Want to get your own codes added? Contact us and we can discuss a partnership! Enjoy the extensions!
 
 [Main Page](#MGS-Discord-Bot)
 
