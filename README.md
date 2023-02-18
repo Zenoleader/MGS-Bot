@@ -1,4 +1,5 @@
-![Mountain Gaming](https://user-images.githubusercontent.com/119907481/219535225-afbc528f-a45b-457c-ba10-9ca6ffd742e1.png)
+![MGS GitHub Banner](https://user-images.githubusercontent.com/119907481/219827160-c69c91be-0c53-4fa0-9b97-7f649683fab4.png)
+
 
 # [MGS Discord Bot](https://discord.com/api/oauth2/authorize?client_id=962834876665577542&permissions=534723819584&scope=bot%20applications.commands)
 
@@ -15,8 +16,7 @@ In places where it says token, you need to make a secret in [replit](https://rep
 
 Made with [node.js](https://nodejs.org/en/), programmed by [Mountain Gaming Studios](https://mountaingamingstudio.wixsite.com/mountaingaming), 100% safe, interaction bot. Please don't edit the code for the wrong reasons. Use this nicely. All file names are what you need to name them when creating your file. For example, if you're trying to do the index.js, you need to go to where ever you are programming and make a file called index.js. Same for everything else. You will need to download **[discord.js v13](https://discord.js.org/#/)**. No other version will work with the code provided. The MGS bot team uses [replit](https://replit.com) to code our bot (We recommend this if you are working with a team)! (Codes are all modified so they don't look exactly like the actual MGS commands. This is due to copying and people being lazy)
 
-**YOU ADD ALL THE COMMANDS IN THE INDEX.JS FILE INSIDE THE SAME CLIENT (``` client.on("messageCreate", message => {}) thing)```** 
-*refer to [Example Code.js](https://github.com/Zenoleader/MGS-Bot/blob/main/Example%20Code.js) if you still don't understand.
+**YOU ADD ALL THE COMMANDS IN THE INDEX.JS FILE INSIDE THE SAME CLIENT (``` client.on("messageCreate", message => {}) thing)```** *refer to [Example Code.js](https://github.com/Zenoleader/MGS-Bot/blob/main/Example%20Code.js) if you still don't understand.
 
 **DOWNLOAD [DISCORD.JS](https://discord.js.org/#/): ```npm i discord.js@13.10.2```**
 
@@ -107,3 +107,5 @@ We have added a new slowmode command (;slowmode [TIME (seconds)]) & a new lock &
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 If any problems are found, **please join the support server, open a ticket (or use the report commands in an external server. Doesn't really matter), describe the problem, and a staff member will be with you shortly.**
+
+![Mountain Gaming](https://user-images.githubusercontent.com/119907481/219535225-afbc528f-a45b-457c-ba10-9ca6ffd742e1.png)
