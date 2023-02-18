@@ -5,9 +5,9 @@
 
 [Main Page](#MGS-Discord-Bot), [Info](#INFO), [Meet the team!](#DEVELOPMENT-TEAM), [Updates](#UPDATES), [Featured Commands](#FEATURED-COMMANDS),[Links](#LINKS), [Our ToS & Privacy Policy](#Our-GitHub-ToS)
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-**THIS BOT IS MADE BY Zeno#2951 & Purplecake613#4099 (Discord)**
+**THIS BOT IS MADE BY Zeno#2951, Purplecake613#4099, oof.png#2521 (Mountain Gaming Studios Founders)**
 
-In places where it says token, you need to make a secret in [replit](https://replit.com) or [visual code](https://code.visualstudio.com/) (for visual studio, you need to paste your actual token in the login. Ex: client.login("YOUR BOTS TOKEN") ). and name the secret token and paste you discord bots token there. discord.js is needed to make all of this work. You can always add more commands or edit the ones already there. If any errors are found, just tell us, we don't want you guys to not understand why it didn't work.
+In places where it says token, you need to make a secret in [replit](https://replit.com) or [visual code](https://code.visualstudio.com/) (for visual studio, you need to paste your actual token in the login. Ex: client.login("YOUR BOT TOKEN") ). and name the secret token and paste you discord bots token there. discord.js is needed to make all of this work. You can always add more commands or edit the ones already there. If any errors are found, just tell us, we don't want you guys to not understand why it didn't work.
 
 **⚠️[MOUNTAIN GAMING STUDIOS](https://mountaingamingstudio.wixsite.com/mountaingaming) IS NOT RESPONSIBLE FOR ANY DATA LOSS OR BOT FRAUD. IF YOU COMMIT FRAUD, BREAK DISCORD TOS, OR FIND ANY WAY TO GET YOUR BOT BANNED OR ACCOUNT BANNED, WE ARE NOT RESPONSIBLE. TO SUM IT UP: WE ARE NOT RESPONSIBLE FOR ANYTHING YOU DO.⚠️**
 
