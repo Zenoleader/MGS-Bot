@@ -67,6 +67,13 @@ We have added a new slowmode command (;slowmode [TIME (seconds)]) & a new lock &
 [top.gg](https://top.gg/bot/962834876665577542)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
+#**Extra Codes**
+
+If you've looked hard enough (Using your eyes), you will notice that there is a folder called "CUSTOM COMMANDS". We are informing you now that those codes have **no relation to Discord bots or Discord what so ever.** These are sponsored codes that we have generously advertised for the owner of the codes ([Laylox](https://laylox.com)). If you would like the use them, follow the instructions bellow ⬇
+
+coming soon
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
 # **Our GitHub ToS**
 
 **1. Use of our service:** By using our codes, you agree **to not use any codes for, but not limited to: hacking, scamming, auth netting, hitting the nae nae etc.** If we feel you are violating those terms, we will remove your access from this respitory.
