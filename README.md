@@ -11,6 +11,8 @@ In places where it says token, you need to make a secret in [replit](https://rep
 
 **⚠️[MOUNTAIN GAMING STUDIOS](https://mountaingamingstudio.wixsite.com/mountaingaming) IS NOT RESPONSIBLE FOR ANY DATA LOSS OR BOT FRAUD. IF YOU COMMIT FRAUD, BREAK DISCORD TOS, OR FIND ANY WAY TO GET YOUR BOT BANNED OR ACCOUNT BANNED, WE ARE NOT RESPONSIBLE. TO SUM IT UP: WE ARE NOT RESPONSIBLE FOR ANYTHING YOU DO.⚠️**
 
+[Main Page](#MGS-Discord-Bot)
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 # **INFO:**
 
@@ -21,6 +23,8 @@ Made with [node.js](https://nodejs.org/en/), programmed by [Mountain Gaming Stud
 **DOWNLOAD [DISCORD.JS](https://discord.js.org/#/): ```npm i discord.js@13.10.2```**
 
 **⚠️ WE WILL NOT SPOON FEED YOU WITH PROGRAMMING. IF YOU DON'T UNDERSTAND SOMETHING PLEASE TRY TO FIGURE IT OUT FIRST THEN ASK US.⚠️**
+
+[Main Page](#MGS-Discord-Bot)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 # **DEVELOPMENT TEAM:**
@@ -37,6 +41,8 @@ Made with [node.js](https://nodejs.org/en/), programmed by [Mountain Gaming Stud
 
 Want to join Mountain Gaming Studios? Refer to here: [MGS Applications](https://github.com/Zenoleader/MGS-Bot/blob/main/.github/ISSUES%20TEMPLATE/Applications.md). We thank you for checking our studio out!! 👍
 
+[Main Page](#MGS-Discord-Bot)
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 # **UPDATES**
 
@@ -44,12 +50,16 @@ We have added a new slowmode command (;slowmode [TIME (seconds)]) & a new lock &
 
 **⚠️CUSTOM COMMANDS ARE NOT FOR THE BOT. THEY ARE FOR YOUR PERSONAL USE. ALSO, YOU JUST MAKE A NEW BOOKMARK, NAME IT SOMETHING, SAVE IT WITHOUT PASTING THE CODE, THEN EDIT THE BOOKMARK AND PASTE THE CODE⚠️**
 
+[Main Page](#MGS-Discord-Bot)
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 # **FEATURED COMMANDS**
 
 [8ball Cmd](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Fun/8ball.js),
 [Ban Cmd](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Moderation/Ban.js),
 [Slowmode Cmd](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Moderation/slowmode.js)
+
+[Main Page](#MGS-Discord-Bot)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 # **LINKS:**
@@ -65,6 +75,8 @@ We have added a new slowmode command (;slowmode [TIME (seconds)]) & a new lock &
 [Add the bot](https://discord.com/api/oauth2/authorize?client_id=962834876665577542&permissions=534723819584&scope=bot%20applications.commands)
 
 [top.gg](https://top.gg/bot/962834876665577542)
+
+[Main Page](#MGS-Discord-Bot)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 # **Extra Codes**
@@ -85,6 +97,8 @@ If you've looked hard enough (Using your eyes), you will notice that there is a 
 
 Enjoy the extensions!
 
+[Main Page](#MGS-Discord-Bot)
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 # **Our GitHub ToS**
 
@@ -95,6 +109,8 @@ Enjoy the extensions!
 **3. Social Media:** By using our codes, you agree that we will have to consent you on making videos, posts, pictures etc. about our sites/codes. If we feel you are violating those terms, we will remove your access from this respitory & will report you to GitHub Support. **We take social media very lightly, so you can post any time as long as you have read this.**
 
 **4. Contact us:** Have any quetions or concerns about our terms? Don't fret, just email us: [zenoytmoderator@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSGKZhBszrHHTQmKjJcLfbLQSHChbjFFbfRvSgDwxjnXSzVFDqcfTfNLFfRzhXtGlZZzqBKr). **Our responses could take 3-5 business days.**
+
+[Main Page](#MGS-Discord-Bot)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 # **MGS Bot ToS**
@@ -111,6 +127,8 @@ Enjoy the extensions!
 
 **6. Questions:** Have any quetions or concerns about our terms? Don't fret, just email us: [zenoytmoderator@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSGKZhBszrHHTQmKjJcLfbLQSHChbjFFbfRvSgDwxjnXSzVFDqcfTfNLFfRzhXtGlZZzqBKr). **Our responses could take 3-5 business days.**
 
+[Main Page](#MGS-Discord-Bot)
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 # **MGS Bot Privacy Policy**
 
@@ -123,6 +141,8 @@ Enjoy the extensions!
 **4. Changes of the Policy:** Any changes of the privacy policy will be updated and told to everyone using the bot as soon as possible. We will notify you using dm's or the "alert" command. **The policy has been in effect since 2/1/23.**
 
 **5. Questions:** Have any quetions or concerns about our policy? Don't fret, just email us: [zenoytmoderator@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSGKZhBszrHHTQmKjJcLfbLQSHChbjFFbfRvSgDwxjnXSzVFDqcfTfNLFfRzhXtGlZZzqBKr). **Our responses could take 3-5 business days.**
+
+[Main Page](#MGS-Discord-Bot)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 If any problems are found, **please join the support server, open a ticket (or use the report commands in an external server. Doesn't really matter), describe the problem, and a staff member will be with you shortly.**
