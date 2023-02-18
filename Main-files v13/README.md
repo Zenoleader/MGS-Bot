@@ -1,4 +1,5 @@
-![Mountain Gaming](https://user-images.githubusercontent.com/119907481/219535225-afbc528f-a45b-457c-ba10-9ca6ffd742e1.png)
+![MGS GitHub Banner](https://user-images.githubusercontent.com/119907481/219827160-c69c91be-0c53-4fa0-9b97-7f649683fab4.png)
+
 
 # [MGS Discord Bot](https://discord.com/api/oauth2/authorize?client_id=962834876665577542&permissions=534723819584&scope=bot%20applications.commands)
 
@@ -106,3 +107,5 @@ We have added a new slowmode command (;slowmode [TIME (seconds)]) & a new lock &
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 If any problems are found, **please join the support server, open a ticket (or use the report commands in an external server. Doesn't really matter), describe the problem, and a staff member will be with you shortly.**
+
+![Mountain Gaming](https://user-images.githubusercontent.com/119907481/219535225-afbc528f-a45b-457c-ba10-9ca6ffd742e1.png)
