@@ -3,7 +3,7 @@
 
 # [MGS Discord Bot](https://discord.com/api/oauth2/authorize?client_id=962834876665577542&permissions=534723819584&scope=bot%20applications.commands)
 
-[Main Page](#MGS-Discord-Bot), [Info](#INFO), [Meet the team!](#DEVELOPMENT-TEAM), [Updates](#UPDATES), [Featured Commands](#FEATURED-COMMANDS),[Links](#LINKS), [Our ToS & Privacy Policy](#Our-GitHub-ToS)
+[Main Page](#MGS-Discord-Bot), [Info](#INFO), [Meet the team!](#DEVELOPMENT-TEAM), [Updates](#UPDATES), [Featured Commands](#FEATURED-COMMANDS),[Links](#LINKS), [Our ToS & Privacy Policy](#Our-GitHub-ToS), [Extra Codes](#Extra-Codes)
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 **THIS BOT IS MADE BY Zeno#2951, Purplecake613#4099, oof.png#2521 (Mountain Gaming Studios Founders)**
 
@@ -67,7 +67,7 @@ We have added a new slowmode command (;slowmode [TIME (seconds)]) & a new lock &
 [top.gg](https://top.gg/bot/962834876665577542)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-#**Extra Codes**
+# **Extra Codes**
 
 If you've looked hard enough (Using your eyes), you will notice that there is a folder called "CUSTOM COMMANDS". We are informing you now that those codes have **no relation to Discord bots or Discord what so ever.** These are sponsored codes that we have generously advertised for the owner of the codes ([Laylox](https://laylox.com)). If you would like the use them, follow the instructions bellow ⬇
 
