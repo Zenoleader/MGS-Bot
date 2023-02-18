@@ -71,8 +71,19 @@ We have added a new slowmode command (;slowmode [TIME (seconds)]) & a new lock &
 
 If you've looked hard enough (Using your eyes), you will notice that there is a folder called "CUSTOM COMMANDS". We are informing you now that those codes have **no relation to Discord bots or Discord what so ever.** These are sponsored codes that we have generously advertised for the owner of the codes ([Laylox](https://laylox.com)). If you would like the use them, follow the instructions bellow ⬇
 
-coming soon
+1. Make sure to click Ctrl + Shift+ B to show your bookmarks bar.
+2. Click on the file of which extension you want.
+3. Click on whichever extension you want.
+4. Then click the 2 squares to copy the code
+5. Then go up to your bookmarks, right click or twofinger click, press add page,**AND ONLY CHANGE THE NAME TO WHAT YOU WANT THEN PRESS SAVE.**
+6. After that, go back to that bookmark, right click or twofinger click, press edit, go to the url, and press ctrl + a, and then backspace.
+7. Then press ctrl + v to paste the code and there are two scenarios that may occur. Refer to 7a. and 7b.
 
+7a. When you paste your code, look at the beginning, you should see " javascript: "(WITHOUT THE QUOTES AND SPACES), if you do, press save, if not, refer to 7b.
+
+7b. All you have to do is copy or type " javascript: " (WITHOUT THE QUOTES AND SPACES) in front of ALL OF THE CODE! Once that is done press save!
+
+Enjoy the extensions!
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 # **Our GitHub ToS**
 
