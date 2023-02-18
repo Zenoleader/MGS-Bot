@@ -3,7 +3,7 @@
 
 # [MGS Discord Bot](https://discord.com/api/oauth2/authorize?client_id=962834876665577542&permissions=534723819584&scope=bot%20applications.commands)
 
-[Main Page](#MGS-Discord-Bot), [Info](#INFO), [Meet the team!](#DEVELOPMENT-TEAM), [Updates](#UPDATES), [Featured Commands](#FEATURED-COMMANDS),[Links](#LINKS), [Our ToS & Privacy Policy](#Our-GitHub-ToS)
+[Main Page](#MGS-Discord-Bot), [Info](#INFO), [Meet the team!](#DEVELOPMENT-TEAM), [Updates](#UPDATES), [Featured Commands](#FEATURED-COMMANDS),[Links](#LINKS), [Our ToS & Privacy Policy](#Our-GitHub-ToS), [Extra Codes](#Extra-Codes)
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 **THIS BOT IS MADE BY Zeno#2951, Purplecake613#4099, oof.png#2521 (Mountain Gaming Studios Founders)**
 
@@ -67,15 +67,33 @@ We have added a new slowmode command (;slowmode [TIME (seconds)]) & a new lock &
 [top.gg](https://top.gg/bot/962834876665577542)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
+# **Extra Codes**
+
+If you've looked hard enough (Using your eyes), you will notice that there is a folder called "[CUSTOM COMMANDS](https://github.com/Zenoleader/MGS-Bot/tree/main/CUSTOM%20FILES)". We are informing you now that those codes have **no relation to Discord bots or Discord what so ever.** These are sponsored codes that we have generously advertised for the owner of the codes ([Laylox](https://laylox.com)). We are still adding more extensions! If you would like the use them, follow the instructions bellow ⬇
+
+1. Make sure to click Ctrl + Shift+ B to show your bookmarks bar.
+2. Click on the file of which extension you want.
+3. Click on whichever extension you want.
+4. Then click the 2 squares to copy the code
+5. Then go up to your bookmarks, right click or twofinger click, press add page,**AND ONLY CHANGE THE NAME TO WHAT YOU WANT THEN PRESS SAVE.**
+6. After that, go back to that bookmark, right click or twofinger click, press edit, go to the url, and press ctrl + a, and then backspace.
+7. Then press ctrl + v to paste the code and there are two scenarios that may occur. Refer to 7a. and 7b.
+
+7a. When you paste your code, look at the beginning, you should see " javascript: "(WITHOUT THE QUOTES AND SPACES), if you do, press save, if not, refer to 7b.
+
+7b. All you have to do is copy or type " javascript: " (WITHOUT THE QUOTES AND SPACES) in front of ALL OF THE CODE! Once that is done press save!
+
+Enjoy the extensions!
+------------------------------------------------------------------------------------------------------------------------------------------------------
 # **Our GitHub ToS**
 
-**1. Use of our service:** By using our codes, you agree **to not use any codes for, but not limited to: hacking, scamming, auth netting etc.** If we feel you are violating those terms, we will remove your access from this respitory.
+**1. Use of our service:** By using our codes, you agree **to not use any codes for, but not limited to: hacking, scamming, auth netting, hitting the nae nae etc.** If we feel you are violating those terms, we will remove your access from this respitory.
 
 **2. Your privacy:** By using our codes, you accept that we take data on what you click and what is seems of intrest to you. **Your Username is shared with us, but your passwords & emails are safe to just you.** If you are here to try and hack people, not only will we remove your access, we will report you to GitHub Support.
 
-**3. Social Media:** By using our codes, you agree that we will have to consent you on making vidoes, posts, pictures etc. about our sites/codes. If we feel you are violating those terms, we will remove your access from this respitory & will report you to GitHub Support. **We take social media very lightly, so you can post any time as long as you have read this.**
+**3. Social Media:** By using our codes, you agree that we will have to consent you on making videos, posts, pictures etc. about our sites/codes. If we feel you are violating those terms, we will remove your access from this respitory & will report you to GitHub Support. **We take social media very lightly, so you can post any time as long as you have read this.**
 
-**4. Contact us:** Have any quetions or concerns about our terms? Don't fret, just email us: [zenoytmoderator@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSGKZhBszrHHTQmKjJcLfbLQSHChbjFFbfRvSgDwxjnXSzVFDqcfTfNLFfRzhXtGlZZzqBKr). Our responses could take 3-5 business days.
+**4. Contact us:** Have any quetions or concerns about our terms? Don't fret, just email us: [zenoytmoderator@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSGKZhBszrHHTQmKjJcLfbLQSHChbjFFbfRvSgDwxjnXSzVFDqcfTfNLFfRzhXtGlZZzqBKr). **Our responses could take 3-5 business days.**
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 # **MGS Bot ToS**
