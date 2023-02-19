@@ -26,6 +26,9 @@ client.on("messageCreate", message => {
   if(message.content === 'hello') {
     message.channel.send("Hi.")
   }
+  if(messgae.content === "this is the second thing") {
+  message.channel.send("Ok 👌")
+  }
 }) 
 ``` 
 
