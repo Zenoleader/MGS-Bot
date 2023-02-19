@@ -20,7 +20,9 @@ Made with [node.js](https://nodejs.org/en/), programmed by [Mountain Gaming Stud
 
 **YOU ADD ALL THE COMMANDS IN THE INDEX.JS FILE INSIDE THE SAME CLIENT:** 
 
-``` client.on("messageCreate", message => {
+```js
+
+client.on("messageCreate", message => {
   if(message.content === 'hello') {
     message.channel.send("Hi.")
   }
