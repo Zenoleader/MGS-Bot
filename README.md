@@ -71,7 +71,7 @@ We have added a new slowmode command (;slowmode [TIME (seconds)]) & a new lock &
 
 - [8ball Cmd](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Fun/8ball.js)
 - [Ban Cmd](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Moderation/Ban.js)
-- [Kick Cmd](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Moderation/kick.js)
+- [Kick Cmd](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Moderation/Kick.js)
 - [Slowmode Cmd](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Moderation/slowmode.js)
 
 [Main Page](#MGS-Discord-Bot)
