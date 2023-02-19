@@ -1,3 +1,5 @@
+//I know this command is seless, but I still like it & use it :)
+
 if(message.content === "!botinfo") {
  
     let botInfo = new Discord.MessageEmbed()
