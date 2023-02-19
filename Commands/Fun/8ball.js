@@ -43,5 +43,5 @@ if(message.content.startsWith('!8ball')) {
     )
     .setColor("BURPLE")
     .setTimestamp()
-    message.content.send({embeds: [embed]})
+    message.channel.send({embeds: [embed]})
 }
