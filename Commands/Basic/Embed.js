@@ -8,7 +8,7 @@ let embed = new Discord.MessageEmbed()
 .setDescription("text here")
 .setFooter("text here")
 
-message.reply({embeds: [embed]})
+message.channel.send({embeds: [embed]})
 
    }
    })
