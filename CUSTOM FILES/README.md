@@ -18,7 +18,18 @@ In places where it says token, you need to make a secret in [replit](https://rep
 
 Made with [node.js](https://nodejs.org/en/), programmed by [Mountain Gaming Studios](https://mountaingamingstudio.wixsite.com/mountaingaming), 100% safe, interaction bot. Please don't edit the code for the wrong reasons. Use this nicely. All file names are what you need to name them when creating your file. For example, if you're trying to do the [index.js](https://github.com/Zenoleader/MGS-Bot/blob/main/Main-files%20v13/index.js), you need to go to where ever you are programming and make a file called [index.js](https://github.com/Zenoleader/MGS-Bot/blob/main/Main-files%20v13/index.js). Same for everything else. You will need to download **[discord.js v13](https://discord.js.org/#/)**. No other version will work with the code provided. The MGS bot team uses [replit](https://replit.com) to code our bot (We recommend this if you are working with a team)! (Codes are all modified so they don't look exactly like the actual MGS commands. This is due to copying and people being lazy)
 
-**YOU ADD ALL THE COMMANDS IN THE INDEX.JS FILE INSIDE THE SAME CLIENT (``` client.on("messageCreate", message => {}) thing)```** *refer to [Example Code.js](https://github.com/Zenoleader/MGS-Bot/blob/main/Example%20Code.js) if you still don't understand.
+**YOU ADD ALL THE COMMANDS IN THE INDEX.JS FILE INSIDE THE SAME CLIENT:** 
+
+```js
+
+client.on("messageCreate", message => {
+  if(message.content === 'hello') {
+    message.channel.send("Hi.")
+  }
+}) 
+``` 
+
+*refer to [Example Code.js](https://github.com/Zenoleader/MGS-Bot/blob/main/Example%20Code.js) if you still don't understand.
 
 **DOWNLOAD [DISCORD.JS](https://discord.js.org/#/): ```npm i discord.js@13.10.2```**
 
@@ -64,17 +75,12 @@ We have added a new slowmode command (;slowmode [TIME (seconds)]) & a new lock &
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 # **LINKS:**
 
-[Support Server](https://discord.gg/zenoyt-official-server-845476765702946846)
-
-[FLOOR IS NEON RED (Roblox game)](https://www.roblox.com/games/7231457999/FLOOR-IS-NEON-RED)
-
-[Mountain Gaming Studios (Roblox game studio)](https://www.roblox.com/groups/11791011/Mountain-Gaming-Studios)
-
-[Website](https://mountainggamingstudio.wixsite.com/mountaingaming)
-
-[Add the bot](https://discord.com/api/oauth2/authorize?client_id=962834876665577542&permissions=534723819584&scope=bot%20applications.commands)
-
-[top.gg](https://top.gg/bot/962834876665577542)
+- [Support Server](https://discord.gg/zenoyt-official-server-845476765702946846)
+- [Add the bot](https://discord.com/api/oauth2/authorize?client_id=962834876665577542&permissions=534723819584&scope=bot%20applications.commands)
+- [top.gg](https://top.gg/bot/962834876665577542)
+- [FLOOR IS NEON RED (Roblox game)](https://www.roblox.com/games/7231457999/FLOOR-IS-NEON-RED)
+- [Mountain Gaming Studios (Roblox game studio)](https://www.roblox.com/groups/11791011/Mountain-Gaming-Studios)
+- [Website](https://mountainggamingstudio.wixsite.com/mountaingaming)
 
 [Main Page](#MGS-Discord-Bot)
 
