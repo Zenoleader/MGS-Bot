@@ -64,17 +64,12 @@ We have added a new slowmode command (;slowmode [TIME (seconds)]) & a new lock &
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 # **LINKS:**
 
-[Support Server](https://discord.gg/zenoyt-official-server-845476765702946846)
-
-[FLOOR IS NEON RED (Roblox game)](https://www.roblox.com/games/7231457999/FLOOR-IS-NEON-RED)
-
-[Mountain Gaming Studios (Roblox game studio)](https://www.roblox.com/groups/11791011/Mountain-Gaming-Studios)
-
-[Website](https://mountainggamingstudio.wixsite.com/mountaingaming)
-
-[Add the bot](https://discord.com/api/oauth2/authorize?client_id=962834876665577542&permissions=534723819584&scope=bot%20applications.commands)
-
-[top.gg](https://top.gg/bot/962834876665577542)
+- [Support Server](https://discord.gg/zenoyt-official-server-845476765702946846)
+- [Add the bot](https://discord.com/api/oauth2/authorize?client_id=962834876665577542&permissions=534723819584&scope=bot%20applications.commands)
+- [top.gg](https://top.gg/bot/962834876665577542)
+- [FLOOR IS NEON RED (Roblox game)](https://www.roblox.com/games/7231457999/FLOOR-IS-NEON-RED)
+- [Mountain Gaming Studios (Roblox game studio)](https://www.roblox.com/groups/11791011/Mountain-Gaming-Studios)
+- [Website](https://mountainggamingstudio.wixsite.com/mountaingaming)
 
 [Main Page](#MGS-Discord-Bot)
 
