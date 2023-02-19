@@ -69,9 +69,9 @@ We have added a new slowmode command (;slowmode [TIME (seconds)]) & a new lock &
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 # **FEATURED COMMANDS**
 
-[8ball Cmd](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Fun/8ball.js),
-[Ban Cmd](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Moderation/Ban.js),
-[Slowmode Cmd](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Moderation/slowmode.js)
+- [8ball Cmd](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Fun/8ball.js),
+- [Ban Cmd](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Moderation/Ban.js),
+- [Slowmode Cmd](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Moderation/slowmode.js)
 
 [Main Page](#MGS-Discord-Bot)
 
@@ -157,5 +157,4 @@ Want to get your own codes added? Contact us and we can discuss a partnership! E
 If any problems are found, **please join the support server, open a ticket (or use the report commands in an external server. Doesn't really matter), describe the problem, and a staff member will be with you shortly.**
 
 ![Mountain Gaming](https://user-images.githubusercontent.com/119907481/219535225-afbc528f-a45b-457c-ba10-9ca6ffd742e1.png) ![Mountain Gaming (2)](https://user-images.githubusercontent.com/119907481/219905725-3b291a15-2dce-40dc-9d82-3288d7ff374d.png)
-
 
