@@ -111,7 +111,7 @@ Want to get your own codes added? Contact us and we can discuss a partnership! E
 [Main Page](#MGS-Discord-Bot)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-# **Our GitHub ToS**
+# **MGS GitHub ToS**
 
 **1. Use of our service:** By using our codes, you agree **to not use any codes for, but not limited to: hacking, scamming, auth netting, hitting the nae nae etc.** If we feel you are violating those terms, we will remove your access from this respitory.
 
@@ -147,7 +147,7 @@ Want to get your own codes added? Contact us and we can discuss a partnership! E
 
 **2. Security:** The MGS development team does all they can to keep your information safe. We can't 100% guarantee that your information will be safe since the internet isn't 100% fool proof.
 
-**3. Storage of Data:** Only the data such as your server name, a few roles, and server/member id's **are stored permanently** until a dev deletes it or you request your data to be deleted.
+**3. Storage of Data:** Only the data such as your server name, a few roles, server/member id's, & user tags **are stored permanently** until a dev deletes it or you request your data to be deleted.
 
 **4. Changes of the Policy:** Any changes of the privacy policy will be updated and told to everyone using the bot as soon as possible. We will notify you using dm's or the "alert" command. **The policy has been in effect since 2/1/23.**
 
