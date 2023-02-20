@@ -16,7 +16,7 @@ In places where it says token, you need to make a secret in [replit](https://rep
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 # **INFO:**
 
-Made with [node.js](https://nodejs.org/en/), programmed by [Mountain Gaming Studios](https://mountaingamingstudio.wixsite.com/mountaingaming), 100% safe, interaction bot. Please don't edit the code for the wrong reasons. Use this nicely. All file names are what you need to name them when creating your file. For example, if you're trying to do the [index.js](https://github.com/Zenoleader/MGS-Bot/blob/main/Main-files%20v13/index.js), you need to go to where ever you are programming and make a file called [index.js](https://github.com/Zenoleader/MGS-Bot/blob/main/Main-files%20v13/index.js). Same for everything else. You will need to download **[discord.js v13](https://discord.js.org/#/)**. No other version will work with the code provided. The MGS bot team uses [replit](https://replit.com) to code our bot (We recommend this if you are working with a team)! (Codes are all modified so they don't look exactly like the actual MGS commands. This is due to copying and people being lazy)
+Made with [node.js](https://nodejs.org/en/), programmed by [Mountain Gaming Studios](https://mountaingamingstudio.wixsite.com/mountaingaming), 100% safe, interaction bot. Please don't edit the code for the wrong reasons. Use this nicely. All file names are what you need to name them when creating your file. For example, if you're trying to do the [index.js](https://github.com/Zenoleader/MGS-Bot/blob/main/Main-files%20v13/index.js), you need to go to where ever you are programming and make a file called [index.js](https://github.com/Zenoleader/MGS-Bot/blob/main/Main-files%20v13/index.js). Same for everything else. You will need to download **[discord.js v13](https://discord.js.org/#/)**. No other version will work with the code provided. The MGS bot team uses [replit](https://replit.com) to program our bot (We recommend this if you are working with a team)! (Codes are all modified so they don't look exactly like the actual MGS commands. This is due to copying and people being lazy)
 
 **YOU ADD ALL THE COMMANDS IN THE INDEX.JS FILE INSIDE THE SAME CLIENT:** 
 
@@ -26,7 +26,7 @@ client.on("messageCreate", message => {
   if(message.content === 'hello') {
     message.channel.send("Hi.")
   }
-  if(messgae.content === "this is the second thing") {
+  if(message.content === "this is the second thing") {
   message.channel.send("Ok 👌")
   }
 }) 
@@ -62,7 +62,7 @@ Want to join Mountain Gaming Studios? Refer to here: [MGS Applications](https://
 
 We have added a new slowmode command (;slowmode [TIME (seconds)]) & a new lock & unlock command (;lock [reason] ;unlock [reason]). These are global commands! 
 
-**⚠️CUSTOM COMMANDS ARE NOT FOR THE BOT. THEY ARE FOR YOUR PERSONAL USE. ALSO, YOU JUST MAKE A NEW BOOKMARK, NAME IT SOMETHING, SAVE IT WITHOUT PASTING THE CODE, THEN EDIT THE BOOKMARK AND PASTE THE CODE⚠️**
+**⚠️CUSTOM COMMANDS ARE NOT FOR THE BOT. THEY ARE FOR YOUR PERSONAL USE. REFER TO [EXTRA CODES](#Extra-Codes) TO LEARN HOW TO USE THEM.⚠️**
 
 [Main Page](#MGS-Discord-Bot)
 
@@ -111,7 +111,7 @@ Want to get your own codes added? Contact us and we can discuss a partnership! E
 [Main Page](#MGS-Discord-Bot)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-# **Our GitHub ToS**
+# **MGS GitHub ToS**
 
 **1. Use of our service:** By using our codes, you agree **to not use any codes for, but not limited to: hacking, scamming, auth netting, hitting the nae nae etc.** If we feel you are violating those terms, we will remove your access from this respitory.
 
@@ -147,7 +147,7 @@ Want to get your own codes added? Contact us and we can discuss a partnership! E
 
 **2. Security:** The MGS development team does all they can to keep your information safe. We can't 100% guarantee that your information will be safe since the internet isn't 100% fool proof.
 
-**3. Storage of Data:** Only the data such as your server name, a few roles, and server/member id's **are stored permanently** until a dev deletes it or you request your data to be deleted.
+**3. Storage of Data:** Only the data such as your server name, a few roles, server/member id's, & user tags **are stored permanently** until a dev deletes it or you request your data to be deleted.
 
 **4. Changes of the Policy:** Any changes of the privacy policy will be updated and told to everyone using the bot as soon as possible. We will notify you using dm's or the "alert" command. **The policy has been in effect since 2/1/23.**
 
@@ -159,5 +159,4 @@ Want to get your own codes added? Contact us and we can discuss a partnership! E
 If any problems are found, **please join the support server, open a ticket (or use the report commands in an external server. Doesn't really matter), describe the problem, and a staff member will be with you shortly.**
 
 ![Mountain Gaming](https://user-images.githubusercontent.com/119907481/219535225-afbc528f-a45b-457c-ba10-9ca6ffd742e1.png) ![Mountain Gaming (2)](https://user-images.githubusercontent.com/119907481/219905725-3b291a15-2dce-40dc-9d82-3288d7ff374d.png)
-
 
