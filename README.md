@@ -60,7 +60,7 @@ Want to join Mountain Gaming Studios? Refer to here: [MGS Applications](https://
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 # **UPDATES**
 
-We have added a new slowmode command (;slowmode [TIME (seconds)]) & a new lock & unlock command (;lock [reason] ;unlock [reason]). These are global commands! 
+We have added a new slowmode command (;slowmode [TIME (seconds)]) & a new lock & unlock command (;lock [reason] ;unlock [reason]). These are global commands! (These updates are for the Official MGS Bot. Some commands on this may not be in the COmmands file.)
 
 **⚠️CUSTOM COMMANDS ARE NOT FOR THE BOT. THEY ARE FOR YOUR PERSONAL USE. REFER TO [EXTRA CODES](#Extra-Codes) TO LEARN HOW TO USE THEM.⚠️**
 
@@ -68,6 +68,8 @@ We have added a new slowmode command (;slowmode [TIME (seconds)]) & a new lock &
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 # **FEATURED COMMANDS**
+
+Here are the featured commands of the year! We update this every year (Or month if we fell like it) so people can know which commands are best to add to their bot! If you think we need to add a different command here, just let us know!
 
 - [8ball Cmd](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Fun/8ball.js)
 - [Ban Cmd](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Moderation/Ban.js)
