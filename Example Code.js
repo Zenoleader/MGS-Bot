@@ -1,3 +1,5 @@
+//NOTE: If you just copy and paste this into a file without reeading anything, it will not work. Read the [REAME.md] file to understand more about this.
+
 const express = require("express");
 const app = express();
 
