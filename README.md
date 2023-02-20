@@ -73,6 +73,7 @@ We have added a new slowmode command (;slowmode [TIME (seconds)]) & a new lock &
 - [Ban Cmd](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Moderation/Ban.js)
 - [Kick Cmd](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Moderation/Kick.js)
 - [Slowmode Cmd](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Moderation/slowmode.js)
+- [Dadjoke Cmd](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Fun/dadjoke.js)
 
 [Main Page](#MGS-Discord-Bot)
 
