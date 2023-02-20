@@ -9,11 +9,13 @@
 
 In places where it says token, you need to make a secret in [replit](https://replit.com) or [visual code](https://code.visualstudio.com/) (for visual studio, you need to paste your actual token in the login. Ex: client.login("YOUR BOT TOKEN") ). and name the secret token and paste you discord bots token there. discord.js is needed to make all of this work. You can always add more commands or edit the ones already there. If any errors are found, just tell us, we don't want you guys to not understand why it didn't work.
 
-replit: ```js 
+replit: 
+```js 
 client.login(process.env.token);
 ```
 
-visual studio: ```js 
+visual studio: 
+```js 
 client.login("TOKEN");
 ```
 
