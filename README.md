@@ -157,7 +157,7 @@ Want to get your own codes added? Contact us and we can discuss a partnership! E
 
 **1. Privacy Policy:** MGS takes your private data very seriously. To protect you, we will tell you all the information we gather from you and how we use it!
 
-**2. Security:** The MGS development team does all they can to keep your information safe. We can't 100% guarantee that your information will be safe since the internet isn't 100% fool proof.
+**2. Security:** The MGS development team does all they can to keep your information safe. We can't 100% guarantee that your information will be safe since the internet isn't 100% fool proof. We secure your privacy in our support server.
 
 **3. Storage of Data:** Only the data such as your server name, a few roles, server/member id's, & user tags **are stored permanently** until a dev deletes it or you request your data to be deleted.
 
