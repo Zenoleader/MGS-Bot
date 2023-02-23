@@ -70,7 +70,7 @@ Want to join Mountain Gaming Studios? Refer to here: [MGS Applications](https://
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 # **UPDATES**
 
-We have added a new slowmode command (;slowmode [TIME (seconds)]) & a new lock & unlock command (;lock [reason] ;unlock [reason]). These are global commands! (These updates are for the Official MGS Bot. Some commands on this may not be in the COmmands file.)
+There a new modal command now! Wondering what that is? Well, a modal is a panel prompt that shows up when you click a button! You could use it for verifying, reports, suggestions and more! Hope you guys enjoy this new addition!
 
 **⚠️CUSTOM COMMANDS ARE NOT FOR THE BOT. THEY ARE FOR YOUR PERSONAL USE. REFER TO [EXTRA CODES](#Extra-Codes) TO LEARN HOW TO USE THEM.⚠️**
 
@@ -171,4 +171,5 @@ Want to get your own codes added? Contact us and we can discuss a partnership! E
 If any problems are found, **please join the support server, open a ticket (or use the report commands in an external server. Doesn't really matter), describe the problem, and a staff member will be with you shortly.**
 
 ![Mountain Gaming](https://user-images.githubusercontent.com/119907481/219535225-afbc528f-a45b-457c-ba10-9ca6ffd742e1.png) ![Mountain Gaming (2)](https://user-images.githubusercontent.com/119907481/219905725-3b291a15-2dce-40dc-9d82-3288d7ff374d.png)
+
 
