@@ -83,7 +83,7 @@ interaction.reply(`Got it: ${response}`);
  Now we have the modal! If you want to learn how to add more text inputs, refer to the slash command version bellow.
  
  -----------------------------------------------------------------------------------------------------------------------------------------------------
- # Making a modal (using text)
+ # Making a modal (using slash cmds)
  
  All the info above applies to here. We will just show the codes and add some notes on the way!
  
