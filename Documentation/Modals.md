@@ -6,6 +6,7 @@
 With modals you can create pop-up panels that allow users to provide you with formatted inputs through submissions. We'll show how to create, show, and receive modal forms using discord.js!
 
 **Tip:** This modal is used by message and slash commands. We will start out with slash commands and move on to message commands. 
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 # Making the modal (with buttons)
 
