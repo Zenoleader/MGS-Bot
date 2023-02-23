@@ -7,7 +7,7 @@ if(message.content === "!modal") {
       .setLabel('Modal :)') 
       );
   
-  message.reply({components: [modal]})
+  message.channel.send({components: [modal]})
 }
 
 client.on('interactionCreate', async interaction => {
