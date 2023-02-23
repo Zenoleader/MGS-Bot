@@ -7,7 +7,7 @@ With modals you can create pop-up panels that allow users to provide you with fo
 
 **Tip:** This modal is used by message and slash commands. We will start out with slash commands and move on to message commands. 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-#Making the modal (with buttons)
+# Making the modal (with buttons)
 
 What you do need to know is that modals aren't exactly components. They're just a callback used to respond to an interaction (In this case, a button). 
 
@@ -81,8 +81,8 @@ interaction.reply(`Got it: ${response}`);
  
  Now we have the modal! If you want to learn how to add more text inputs, refer to the slash command version bellow.
  
- ------------------------------------------------------------------------------------------------------------------------------------------------------
- #Making a modal (using text)
+ -----------------------------------------------------------------------------------------------------------------------------------------------------
+ # Making a modal (using text)
  
  All the info above applies to here. We will just show the codes and add some notes on the way!
  
