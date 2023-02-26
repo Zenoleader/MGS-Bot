@@ -73,7 +73,8 @@ const collector = message.channel.createMessageComponentCollector({
     })
     
 ```
-* Note: The fact that the componentType is a button is very important. It can also be a SELECT_MENU, but this isn't for that.
+* Note: The fact that the componentType is a button is very important. It can also be a ```SELECT_MENU```, but this isn't for that.
+* Note: The ```createMessageComponentCollector()``` is how we see what type for interaction we are checking for.
 
 Last thing you need to know are the button types. With the button types you can change how the button looks. There are only **5** different styles. Here are some examples:
 
