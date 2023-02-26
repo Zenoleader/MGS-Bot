@@ -47,13 +47,13 @@ Here's how we recieve & reply the buttons:
 
 There are different types of ways to reply to the buttons. Here are some:
 
-- reply()
-- editReply()
-- deferReply()
-- fetchReply()
-- deleteReply()
-- followUp()
-- update()
+- ```reply()```
+- ```editReply()```
+- ```deferReply()```
+- ```fetchReply()```
+- ```deleteReply()```
+- ```followUp()```
+- ```update()```
 
 ```js
 
