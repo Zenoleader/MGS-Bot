@@ -8,6 +8,8 @@ if(query > 100) return message.channel.send("Say a number under 100 👀")
     if (isNaN(query)) return message.channel.send("Send a number, not letters.")
 
 if (!message.guild.me.permissions.has("MANAGE_MESSGAES")) return message.channel.send("I don't have perms buddy.");
+if (!message.member.permissions.has("MANAGE_MESSGAES")) return message.channel.send("You don't have perms buddy.");
+if(!args[0]) return message.channel.send("You can't delete blank messages bozo. 💀")
 
 
       try {
