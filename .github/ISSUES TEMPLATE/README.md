@@ -31,6 +31,8 @@ Made with [node.js](https://nodejs.org/en/), programmed by [Mountain Gaming Stud
 **YOU ADD ALL THE COMMANDS IN THE INDEX.JS FILE INSIDE THE SAME CLIENT:** 
 
 ```js
+const Disocrd = require('discord.js')
+//remember it's v13
 
 client.on("messageCreate", message => {
   if(message.content === 'hello') {
