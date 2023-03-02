@@ -19,6 +19,8 @@ visual studio:
 client.login("TOKEN");
 ```
 
+* Note: We think the reason for this is for your bots safety. Visual studio is a one person platform, so your token can't rally be seen by anyone else unless you show them. Replit projects are all public, so anyone can see it (unless you pay to get it private). That's why replit created the [secret](https://docs.replit.com/programming-ide/workspace-features/storing-sensitive-information-environment-variables) tool so all you tokens or private things stay private.
+
 **⚠️[MOUNTAIN GAMING STUDIOS](https://mountaingamingstudio.wixsite.com/mountaingaming) IS NOT RESPONSIBLE FOR ANY DATA LOSS OR BOT FRAUD. IF YOU COMMIT FRAUD, BREAK DISCORD TOS, OR FIND ANY WAY TO GET YOUR BOT BANNED OR ACCOUNT BANNED, WE ARE NOT RESPONSIBLE. TO SUM IT UP: WE ARE NOT RESPONSIBLE FOR ANYTHING YOU DO.⚠️**
 
 [Main Page](#MGS-Discord-Bot)
