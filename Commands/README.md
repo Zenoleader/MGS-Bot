@@ -106,7 +106,7 @@ Here are the featured commands of the year! We update this every year (Or month 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 # **Extra Codes**
 
-If you've looked hard enough (Using your eyes), you will notice that there is a folder called "[CUSTOM COMMANDS](https://github.com/Zenoleader/MGS-Bot/tree/main/CUSTOM%20FILES)". We are informing you now that those codes have **no relation to Discord bots or Discord what so ever.** These are sponsored codes that we have generously advertised for the owner of the codes ([Laylox](https://laylox.com)). We are still adding more extensions! If you would like the use them, follow the instructions bellow ⬇
+If you've looked hard enough (Using your eyes), you will notice that there is a folder called "[Custom Commands](https://github.com/Zenoleader/MGS-Bot/tree/main/Custom%20Files)". We are informing you now that those codes have **no relation to Discord bots or Discord what so ever.** These are sponsored codes that we have generously advertised for the owner of the codes ([Laylox](https://laylox.com)). We are still adding more extensions! If you would like the use them, follow the instructions bellow ⬇
 
 1. Make sure to click Ctrl + Shift+ B to show your bookmarks bar.
 2. Click on the file of which extension you want.
@@ -173,5 +173,4 @@ Want to get your own codes added? Contact us and we can discuss a partnership! E
 If any problems are found, **please join the support server, open a ticket (or use the report commands in an external server. Doesn't really matter), describe the problem, and a staff member will be with you shortly.**
 
 ![Mountain Gaming](https://user-images.githubusercontent.com/119907481/219535225-afbc528f-a45b-457c-ba10-9ca6ffd742e1.png) ![Mountain Gaming (2)](https://user-images.githubusercontent.com/119907481/219905725-3b291a15-2dce-40dc-9d82-3288d7ff374d.png)
-
 
