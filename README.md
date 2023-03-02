@@ -106,7 +106,7 @@ Here are the featured commands of the year! We update this every year (Or month 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 # **Extra Codes**
 
-If you've looked hard enough (Using your eyes), you will notice that there is a folder called "[CUSTOM COMMANDS](https://github.com/Zenoleader/MGS-Bot/tree/main/CUSTOM%20FILES)". We are informing you now that those codes have **no relation to Discord bots or Discord what so ever.** These are sponsored codes that we have generously advertised for the owner of the codes ([Laylox](https://laylox.com)). We are still adding more extensions! If you would like the use them, follow the instructions bellow ⬇
+If you've looked hard enough (Using your eyes), you will notice that there is a folder called "[Custom Commands](https://github.com/Zenoleader/MGS-Bot/tree/main/Custom%20Files)". We are informing you now that those codes have **no relation to Discord bots or Discord what so ever.** These are sponsored codes that we have generously advertised for the owner of the codes ([Laylox](https://laylox.com)). We are still adding more extensions! If you would like the use them, follow the instructions bellow ⬇
 
 1. Make sure to click Ctrl + Shift+ B to show your bookmarks bar.
 2. Click on the file of which extension you want.
