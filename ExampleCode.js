@@ -40,4 +40,18 @@ client
   .on("debug", console.log)
   .on("warn", console.log)
 
+client.on('debug', (a) => {
+  if (a.startsWith(`Hit a 429`)) {
+    process.kill(1)
+  }
+})
+
+client.on("rateLimit", data => {
+  process.kill(1)
+})
+
+client.on('rateLimited', () => {
+  process.kill(1)
+})
+
 client.login(process.env.token); //Refer to the readme to find out what this looks like for visual
