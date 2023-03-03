@@ -19,7 +19,7 @@ visual studio:
 client.login("TOKEN");
 ```
 
-* Note: We think the reason for this is for your bots safety. Visual studio is a one person platform, so your token can't rally be seen by anyone else unless you show them. Replit projects are all public, so anyone can see it (unless you pay to get it private). That's why replit created the [secret](https://docs.replit.com/programming-ide/workspace-features/storing-sensitive-information-environment-variables) tool so all you tokens or private things stay private.
+* Note: We think the reason for this is for your bots safety. Visual studio is a one person platform, so your token can't rally be seen by anyone else unless you show them. Replit projects are all public, so anyone can see it (unless you pay to get it private). That's why replit created the [secret](https://docs.replit.com/programming-ide/workspace-features/storing-sensitive-information-environment-variables) tool so all your tokens or private things stay private.
 
 **⚠️[MOUNTAIN GAMING STUDIOS](https://mountaingamingstudio.wixsite.com/mountaingaming) IS NOT RESPONSIBLE FOR ANY DATA LOSS OR BOT FRAUD. IF YOU COMMIT FRAUD, BREAK DISCORD TOS, OR FIND ANY WAY TO GET YOUR BOT BANNED OR ACCOUNT BANNED, WE ARE NOT RESPONSIBLE. TO SUM IT UP: WE ARE NOT RESPONSIBLE FOR ANYTHING YOU DO.⚠️**
 
@@ -117,7 +117,7 @@ If you've looked hard enough (Using your eyes), you will notice that there is a 
 2. Click on the file of which extension you want.
 3. Click on whichever extension you want.
 4. Then click the 2 squares to copy the code
-5. Then go up to your bookmarks, right click or twofinger click, press add page,**AND ONLY CHANGE THE NAME TO WHAT YOU WANT THEN PRESS SAVE.**
+5. Then go up to your bookmarks, right click or twofinger click, press add page, **AND ONLY CHANGE THE NAME TO WHAT YOU WANT THEN PRESS SAVE.**
 6. After that, go back to that bookmark, right click or twofinger click, press edit, go to the url, and press ctrl + a, and then backspace.
 7. Then press ctrl + v to paste the code and there are two scenarios that may occur. Refer to 7a. and 7b.
 
