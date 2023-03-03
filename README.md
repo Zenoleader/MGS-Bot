@@ -14,7 +14,7 @@ replit:
 client.login(process.env.token);
 ```
 
-visual studio: 
+visual studio code: 
 ```js 
 client.login("TOKEN");
 ```
@@ -47,6 +47,8 @@ client.on("messageCreate", message => {
   message.channel.send("Ok 👌")
   }
 }) 
+
+client.login("Bot token") //or the replit way
 ``` 
 
 *refer to [Example Code.js](https://github.com/Zenoleader/MGS-Bot/blob/main/Example%20Code.js) if you still don't understand.
@@ -117,7 +119,7 @@ If you've looked hard enough (Using your eyes), you will notice that there is a 
 2. Click on the file of which extension you want.
 3. Click on whichever extension you want.
 4. Then click the 2 squares to copy the code
-5. Then go up to your bookmarks, right click or twofinger click, press add page,**AND ONLY CHANGE THE NAME TO WHAT YOU WANT THEN PRESS SAVE.**
+5. Then go up to your bookmarks, right click or twofinger click, press add page, **AND ONLY CHANGE THE NAME TO WHAT YOU WANT THEN PRESS SAVE.**
 6. After that, go back to that bookmark, right click or twofinger click, press edit, go to the url, and press ctrl + a, and then backspace.
 7. Then press ctrl + v to paste the code and there are two scenarios that may occur. Refer to 7a. and 7b.
 
