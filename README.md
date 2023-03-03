@@ -33,8 +33,11 @@ Made with [node.js](https://nodejs.org/en/), programmed by [Mountain Gaming Stud
 **YOU ADD ALL THE COMMANDS IN THE INDEX.JS FILE INSIDE THE SAME CLIENT:** 
 
 ```js
-const Disocrd = require('discord.js')
+const Discord = require('discord.js')
 //remember it's v13
+
+const client = new Discord.Client({intents: ["GUILDS", "GUILD_MESSAGES"]}); 
+//you can always add more 
 
 client.on("messageCreate", message => {
   if(message.content === 'hello') {
