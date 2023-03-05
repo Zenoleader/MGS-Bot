@@ -37,7 +37,7 @@ const Discord = require('discord.js')
 //remember it's v13
 
 const client = new Discord.Client({intents: ["GUILDS", "GUILD_MESSAGES"]}); 
-//you can always add more 
+//you can always add more intents
 
 client.on("messageCreate", message => {
   if(message.content === 'hello') {
@@ -77,7 +77,7 @@ Want to join Mountain Gaming Studios? Refer to here: [MGS Applications](https://
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 # **UPDATES**
 
-There a new modal command now! Wondering what that is? Well, a modal is a panel prompt that shows up when you click a button! You could use it for verifying, reports, suggestions and more! Hope you guys enjoy this new addition!
+New meme command that pulls memes from reddit! This command does require node-fetch, so make sure you have it! Enjoy the command as this going to be part of the MGS v.3.0.0 Bot upate!
 
 **⚠️CUSTOM COMMANDS ARE NOT FOR THE BOT. THEY ARE FOR YOUR PERSONAL USE. REFER TO [EXTRA CODES](#Extra-Codes) TO LEARN HOW TO USE THEM.⚠️**
 
@@ -92,7 +92,7 @@ Here are the featured commands of the year! We update this every year (Or month 
 - [Ban Cmd](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Moderation/Ban.js)
 - [Kick Cmd](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Moderation/Kick.js)
 - [Slowmode Cmd](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Moderation/slowmode.js)
-- [Dadjoke Cmd](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Fun/dadjoke.js)
+- [Meme Cmd](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Fun/meme.js)
 
 [Main Page](#MGS-Discord-Bot)
 
@@ -101,8 +101,8 @@ Here are the featured commands of the year! We update this every year (Or month 
 
 - [Support Server](https://discord.gg/zenoyt-official-server-845476765702946846)
 - [Add the bot](https://discord.com/api/oauth2/authorize?client_id=962834876665577542&permissions=534723819584&scope=bot%20applications.commands)
-- [top.gg](https://top.gg/bot/962834876665577542)
 - [FLOOR IS NEON RED (Roblox game)](https://www.roblox.com/games/7231457999/FLOOR-IS-NEON-RED)
+- [top.gg](https://top.gg/bot/962834876665577542)
 - [Mountain Gaming Studios (Roblox game studio)](https://www.roblox.com/groups/11791011/Mountain-Gaming-Studios)
 - [Website](https://mountainggamingstudio.wixsite.com/mountaingaming)
 
@@ -111,7 +111,7 @@ Here are the featured commands of the year! We update this every year (Or month 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 # **Extra Codes**
 
-If you've looked hard enough (Using your eyes), you will notice that there is a folder called "[Custom Commands](https://github.com/Zenoleader/MGS-Bot/tree/main/Custom%20Files)". We are informing you now that those codes have **no relation to Discord bots or Discord what so ever.** These are sponsored codes that we have generously advertised for the owner of the codes ([Laylox](https://laylox.com)). We are still adding more extensions! If you would like the use them, follow the instructions bellow ⬇
+If you've looked hard enough (Using your eyes), you will notice that there is a folder called "[Custom Files](https://github.com/Zenoleader/MGS-Bot/tree/main/Custom%20Files)". We are informing you now that those codes have **no relation to Discord bots or Discord what so ever.** These are sponsored codes that we have generously advertised for the owner of the codes ([Laylox](https://laylox.com)). We are still adding more extensions! If you would like the use them, follow the instructions bellow ⬇
 
 1. Make sure to click Ctrl + Shift+ B to show your bookmarks bar.
 2. Click on the file of which extension you want.
