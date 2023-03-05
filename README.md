@@ -14,7 +14,7 @@ replit:
 client.login(process.env.token);
 ```
 
-visual studio: 
+visual studio code: 
 ```js 
 client.login("TOKEN");
 ```
@@ -47,6 +47,8 @@ client.on("messageCreate", message => {
   message.channel.send("Ok 👌")
   }
 }) 
+
+client.login("Bot token") //or the replit way
 ``` 
 
 *refer to [Example Code.js](https://github.com/Zenoleader/MGS-Bot/blob/main/Example%20Code.js) if you still don't understand.
