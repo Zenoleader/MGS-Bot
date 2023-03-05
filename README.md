@@ -3,7 +3,7 @@
 
 # [MGS Discord Bot](https://discord.com/api/oauth2/authorize?client_id=962834876665577542&permissions=534723819584&scope=bot%20applications.commands)
 
-[Main Page](#MGS-Discord-Bot), [Info](#INFO), [Meet the team!](#DEVELOPMENT-TEAM), [Updates](#UPDATES), [Featured Commands](#FEATURED-COMMANDS),[Links](#LINKS), [Our ToS & Privacy Policy](#Our-GitHub-ToS), [Extra Codes](#Extra-Codes), [Game Codes](#JavaScript-Game-Codes**)
+[Main Page](#MGS-Discord-Bot), [Info](#INFO), [Meet the team!](#DEVELOPMENT-TEAM), [Updates](#UPDATES), [Featured Commands](#FEATURED-COMMANDS),[Links](#LINKS), [Our ToS & Privacy Policy](#Our-GitHub-ToS), [Extra Codes](#Extra-Codes), [Game Codes](#JavaScript-Game-Codes)
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 **THIS BOT IS MADE BY Zeno#2951, Purplecake613#4099, oof.png#2521 (Mountain Gaming Studios Founders)**
 
