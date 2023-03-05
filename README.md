@@ -3,7 +3,7 @@
 
 # [MGS Discord Bot](https://discord.com/api/oauth2/authorize?client_id=962834876665577542&permissions=534723819584&scope=bot%20applications.commands)
 
-[Main Page](#MGS-Discord-Bot), [Info](#INFO), [Meet the team!](#DEVELOPMENT-TEAM), [Updates](#UPDATES), [Featured Commands](#FEATURED-COMMANDS),[Links](#LINKS), [Our ToS & Privacy Policy](#Our-GitHub-ToS), [Extra Codes](#Extra-Codes)
+[Main Page](#MGS-Discord-Bot), [Info](#INFO), [Meet the team!](#DEVELOPMENT-TEAM), [Updates](#UPDATES), [Featured Commands](#FEATURED-COMMANDS),[Links](#LINKS), [Our ToS & Privacy Policy](#Our-GitHub-ToS), [Extra Codes](#Extra-Codes), [Game Codes](#JavaScript-Game-Codes**)
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 **THIS BOT IS MADE BY Zeno#2951, Purplecake613#4099, oof.png#2521 (Mountain Gaming Studios Founders)**
 
@@ -126,6 +126,16 @@ If you've looked hard enough (Using your eyes), you will notice that there is a 
 7b. All you have to do is copy or type " javascript: " (WITHOUT THE QUOTES AND SPACES) in front of ALL OF THE CODE! Once that is done press save!
 
 Want to get your own codes added? Contact us and we can discuss a partnership! Enjoy the extensions!
+
+[Main Page](#MGS-Discord-Bot)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+# **JavaScript Game Codes**
+
+Just like the extra codes, we have added new programs that have **no relation to Discord Bots or Discord** at all. These are game codes that were made with code.org and provided by a the MGS Ceo, and other colleagues. We generously provided these codes so you guys could make your own games. Enjoy it.
+
+- [Dino Game](https://github.com/Zenoleader/MGS-Bot/blob/main/JS%20Game%20codes/DinoGame.js)
+- [Dino Guard](https://github.com/Zenoleader/MGS-Bot/blob/main/JS%20Game%20codes/DinoGuard.js)
 
 [Main Page](#MGS-Discord-Bot)
 
