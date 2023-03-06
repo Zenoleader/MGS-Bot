@@ -1,4 +1,4 @@
-//I know this command is seless, but I still like it & use it :)
+//I know this command is useless, but I still like it & use it :)
 
 if(message.content === "!botinfo") {
  
