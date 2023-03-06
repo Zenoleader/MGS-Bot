@@ -15,7 +15,7 @@ if(message.content === "!botinfo") {
           Channels  :: ${message.client.channels.cache.size}
           WS Ping   :: ${Math.round(message.client.ws.ping)}ms
           Uptime    :: ${days}, ${hours}
-          Prefix    :: ;
+          Prefix    :: " ! "
        `;
     const { totalMemMb, usedMemMb } = await mem.info();
     const serverStats = stripIndent`
