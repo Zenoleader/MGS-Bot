@@ -136,6 +136,7 @@ Just like the extra codes, we have added new programs that have **no relation to
 
 - [Dino Game](https://github.com/Zenoleader/MGS-Bot/blob/main/JS%20Game%20codes/DinoGame.js)
 - [Dino Guard](https://github.com/Zenoleader/MGS-Bot/blob/main/JS%20Game%20codes/DinoGuard.js)
+- [Dino Jump](https://github.com/Zenoleader/MGS-Bot/blob/main/JS%20Game%20codes/DinoJump.js)
 
 [Main Page](#MGS-Discord-Bot)
 
