@@ -8,9 +8,14 @@ if(message.content === '!buttons') {
       .setStyle('SECONDARY')
       
       ,new Discord.MessageButton()
-        .setCustomId("secondary")
+      .setCustomId("secondary")
       .setLabel("Button 2")
       .setStyle('SECONDARY')
+     
+     ,new Discord.MessageButton()
+     .setLabel("Hi")
+     .setURL("google.com")
+     .setStyle("LINK")
     )
   
   message.channel.send({content: 'Buttons!', components: [row]})
