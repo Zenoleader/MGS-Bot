@@ -136,6 +136,7 @@ Just like the extra codes, we have added new programs that have **no relation to
 
 - [Dino Game](https://github.com/Zenoleader/MGS-Bot/blob/main/JS%20Game%20codes/DinoGame.js)
 - [Dino Guard](https://github.com/Zenoleader/MGS-Bot/blob/main/JS%20Game%20codes/DinoGuard.js)
+- [Dino Jump](https://github.com/Zenoleader/MGS-Bot/blob/main/JS%20Game%20codes/DinoJump.js)
 
 [Main Page](#MGS-Discord-Bot)
 
@@ -188,5 +189,4 @@ Just like the extra codes, we have added new programs that have **no relation to
 If any problems are found, **please join the support server, open a ticket (or use the report commands in an external server. Doesn't really matter), describe the problem, and a staff member will be with you shortly.**
 
 ![Mountain Gaming](https://user-images.githubusercontent.com/119907481/219535225-afbc528f-a45b-457c-ba10-9ca6ffd742e1.png) ![Mountain Gaming (2)](https://user-images.githubusercontent.com/119907481/219905725-3b291a15-2dce-40dc-9d82-3288d7ff374d.png)
-
 
