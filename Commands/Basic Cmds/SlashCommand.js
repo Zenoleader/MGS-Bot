@@ -3,6 +3,7 @@ dotenv.config()
 
 const guildID = "SERVER ID HERE"
 const guild = client.guilds.cache.get(guildID)
+// replace const guild = null to make slahs cmds public
 
 let commands
 if(guild) {
