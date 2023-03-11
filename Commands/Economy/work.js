@@ -1,7 +1,7 @@
 if (message.content === "!work") {
 
     const user = message.author;
-    const amount = 100
+    const amount = 100 // you can always edit this
 
     let beforeBalance = await db.get(`balance_${user.id}`)
     if (beforeBalance === null) {
