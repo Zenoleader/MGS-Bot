@@ -70,7 +70,7 @@ client.on("messageCreate", message => {
 
 **DannyCool65#3214**- Developer(Builder) for FLOOR IS NEON RED on Roblox
 
-Want to join Mountain Gaming Studios? Refer to here: [MGS Applications](https://github.com/Zenoleader/MGS-Bot/blob/main/.github/ISSUES%20TEMPLATE/Applications.md). We thank you for checking our studio out!! 👍
+Want to join Mountain Gaming Studios? Refer to here: [MGS Applications](https://github.com/Zenoleader/MGS-Bot/blob/main/.github/Issues%20Template/Applications.md). We thank you for checking our studio out!! 👍
 
 [Main Page](#MGS-Discord-Bot)
 
