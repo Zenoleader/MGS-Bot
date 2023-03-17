@@ -24,4 +24,4 @@ client
   .on("debug", console.log)
   .on("warn", console.log)
 
-client.login(process.env.token);
+client.login(process.env.token); //make sure to have a secret in replit 
