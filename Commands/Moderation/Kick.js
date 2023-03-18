@@ -13,3 +13,4 @@ if(message.content.startsWith('!kick')) {
     
 client.channels.cache.get('LOGS CHANNEL_ID HERE').send(`Kicked user: ${member} Reason: ${reason} Mod: ${message.author}`)
 message.channel.send(`User Kicked!`)
+}
