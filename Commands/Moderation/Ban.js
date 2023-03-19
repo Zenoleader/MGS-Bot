@@ -13,3 +13,4 @@ if(message.content.startsWith('!ban')) {
     
 client.channels.cache.get('LOGS CHANNEL_ID HERE').send(`Banned user: ${member} Reason: ${reason} Mod: ${message.author}`)
 message.channel.send(`User banned!`)
+}
