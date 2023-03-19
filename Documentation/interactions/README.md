@@ -77,7 +77,7 @@ Want to join Mountain Gaming Studios? Refer to here: [MGS Applications](https://
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 # **UPDATES**
 
-New meme command that pulls memes from reddit! This command does require node-fetch, so make sure you have it! Enjoy the command as this going to be part of the MGS v.3.0.0 Bot upate!
+New economy commands are now availible! We aren't done adding them, so expect more updates! This is part of the MGS v3.0.0 update!
 
 **⚠️CUSTOM COMMANDS ARE NOT FOR THE BOT. THEY ARE FOR YOUR PERSONAL USE. REFER TO [EXTRA CODES](#Extra-Codes) TO LEARN HOW TO USE THEM.⚠️**
 
