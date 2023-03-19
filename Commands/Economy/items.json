@@ -1,0 +1,22 @@
+//This is a new file, so make sure to make the new file.
+//This  file is vital for the new commands coming: shop, inventory, buy, and sell.
+
+{
+  "item1": {
+   "name": "item1",
+   "description": "item number 1",
+   "value": 1
+  },
+   "item2": {
+   "name": "item2",
+   "description": "item number 2",
+   "value": 2
+  },
+   "item3": {
+   "name": "item3",
+   "description": "item number 3",
+   "value": 3
+  }
+  
+  //You can always add more.
+}
