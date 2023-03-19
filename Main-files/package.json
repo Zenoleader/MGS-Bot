@@ -17,6 +17,7 @@
     "dotenv": "^16.0.3",
     "easy-discord-chatbot": "^0.0.4",
     "express": "^4.18.2",
+    "fs": "^0.0.1-security",
     "mathjs": "^11.5.0",
     "moment": "^2.29.4",
     "node-fetch": "^3.3.0",
