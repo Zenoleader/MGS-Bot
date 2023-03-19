@@ -149,7 +149,7 @@ Just like the extra codes, we have added new programs that have **no relation to
 
 **3. Social Media:** By using our codes, you agree that we will have to consent you on making videos, posts, pictures etc. about our sites/codes. If we feel you are violating those terms, we will remove your access from this respitory & will report you to GitHub Support. **We take social media very lightly, so you can post any time as long as you have read this.**
 
-**4. Contact us:** Have any quetions or concerns about our terms? Don't fret, just email us: [zenoytmoderator@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=zenoytmoderator@gmail.com). **Our responses could take 3-5 business days.**
+**4. Contact us:** Have any questions or concerns about our terms? Don't fret, just email us: [zenoytmoderator@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=zenoytmoderator@gmail.com). **Our responses could take 3-5 business days.**
 
 [Main Page](#MGS-Discord-Bot)
 
@@ -164,9 +164,9 @@ Just like the extra codes, we have added new programs that have **no relation to
 
 **4. Request Data:** By using the MGS bot, you have the right to request your data stored by MGS. You can always request your data in the support server. Your data will never be declined when requested. **You have the right to have your data removed.**
 
-**5. Underage Users:** By using the MGS bot, you accept that you have to be 13+ or of legal age in your country to use Discord. If any reports have been made of an underage user, **we will do everything we can to delete that users' data.**
+**5. Underage Users:** By using the MGS bot, you accept that you have to be 13+ or of legal age in your country to use Discord. If any reports have been made of an underage user, **we will do everything we can to delete that users' data & report that user to Discord Trust & Safety.**
 
-**6. Questions:** Have any quetions or concerns about our terms? Don't fret, just email us: [zenoytmoderator@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=zenoytmoderator@gmail.com). **Our responses could take 3-5 business days.**
+**6. Questions:** Have any questions or concerns about our terms? Don't fret, just email us: [zenoytmoderator@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=zenoytmoderator@gmail.com). **Our responses could take 3-5 business days.**
 
 [Main Page](#MGS-Discord-Bot)
 
@@ -177,11 +177,11 @@ Just like the extra codes, we have added new programs that have **no relation to
 
 **2. Security:** The MGS development team does all they can to keep your information safe. We can't 100% guarantee that your information will be safe since the internet isn't 100% fool proof. We secure your privacy in our support server.
 
-**3. Storage of Data:** Only the data such as your server name, a few roles, server/member id's, & user tags **are stored permanently** until a dev deletes it or you request your data to be deleted.
+**3. Storage of Data:** Only the data such as your server name, a few roles, server/member ID's, & user tags **are stored permanently** until a dev deletes it or you request your data to be deleted.
 
 **4. Changes of the Policy:** Any changes of the privacy policy will be updated and told to everyone using the bot as soon as possible. We will notify you using dm's or the "alert" command. **The policy has been in effect since 2/1/23.**
 
-**5. Questions:** Have any quetions or concerns about our policy? Don't fret, just email us: [zenoytmoderator@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=zenoytmoderator@gmail.com). **Our responses could take 3-5 business days.**
+**5. Questions:** Have any questions or concerns about our policy? Don't fret, just email us: [zenoytmoderator@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=zenoytmoderator@gmail.com). **Our responses could take 3-5 business days.**
 
 [Main Page](#MGS-Discord-Bot)
 
