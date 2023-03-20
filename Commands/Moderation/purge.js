@@ -21,7 +21,9 @@ const fetched = await message.channel.messages.fetch({
 await message.channel.bulkDelete(fetched, true)
   .then(
 message.channel.send(`Cleaned up ${amount} messages!`)
-      );
+      ).then((msg) => {
+         setTimeout(() => msg.delete(), 5000);
+ });
         
     } catch (error) {
       console.log(error);
