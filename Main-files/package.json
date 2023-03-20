@@ -6,9 +6,16 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node ."
   },
+   "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zenoleader/MGS-Bot.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zenoleader/MGS-Bot/blob/main/.github/Issues%20Template/BugReport.md"
+  },
   "dependencies": {
     "@discordjs/builders": "^1.4.0",
     "@replit/database": "^2.0.2",
