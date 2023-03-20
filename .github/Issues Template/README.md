@@ -177,7 +177,7 @@ Just like the extra codes, we have added new programs that have **no relation to
 
 **2. Security:** The MGS development team does all they can to keep your information safe. We can't 100% guarantee that your information will be safe since the internet isn't 100% fool proof. We secure your privacy in our support server.
 
-**3. Storage of Data:** Only the data such as your server name, a few roles, server/member ID's, & user tags **are stored permanently** until a dev deletes it or you request your data to be deleted.
+**3. Storage of Data:** Only the data such as your server name, a few roles, server/member ID's, & user tags **are stored permanently** with quick.db until a dev deletes it or you request your data to be deleted.
 
 **4. Changes of the Policy:** Any changes of the privacy policy will be updated and told to everyone using the bot as soon as possible. We will notify you using dm's or the "alert" command. **The policy has been in effect since 2/1/23.**
 
@@ -189,5 +189,4 @@ Just like the extra codes, we have added new programs that have **no relation to
 If any problems are found, **please join the support server, open a ticket (or use the report commands in an external server. Doesn't really matter), describe the problem, and a staff member will be with you shortly.**
 
 ![Mountain Gaming](https://user-images.githubusercontent.com/119907481/219535225-afbc528f-a45b-457c-ba10-9ca6ffd742e1.png) ![Mountain Gaming (2)](https://user-images.githubusercontent.com/119907481/219905725-3b291a15-2dce-40dc-9d82-3288d7ff374d.png)
-
 
