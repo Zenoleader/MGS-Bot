@@ -2,7 +2,6 @@ if(message.content.startsWith('!lovemeter')) {
 
     let error = new Discord.MessageEmbed()
       .setTitle("Love meter")
-.setAuthor("MGS", "https://cdn.discordapp.com/avatars/962834876665577542/da9b5215bb4a9f40d3b0cfe94a564eb2.png?size=4096")
     .setDescription("You can't find the love meter for yourself!")
     .setTimestamp()
     .setColor("RED")
