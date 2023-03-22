@@ -186,6 +186,21 @@ Just like the extra codes, we have added new programs that have **no relation to
 [Main Page](#MGS-Discord-Bot)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
+# **MGS Economy ToS**
+
+**1. Terms of Service:** MGS has a new economy feature that is very fun when people don't use it for the wrong reasons. **With these terms, we will specify what we do when you use the economy & what is not allowed.** Note: All the normal ToS for MGS apply here, so we won't specify the normal terms.
+
+**2. Logging:** MGS does log all the actions with the economy except for fishing & hunting. We store things such as your **User ID, Guild ID's, User Tags, and profile pictures**. We store all that with quick.db & it's in private channels only developers have access to.
+
+**3. Scamming:** MGS has a gift command that can obviously be abused. **We do not tollerate scamming**, and if the action is done, we will **ban** your access to all of MGS. 
+
+**4. Grinding Bots:** MGS commands that a specifically meant for normal grinding. We are aware of people who make grinding bots that spam MGS's API. **Doing so will get your access to MGS revoked.**
+
+**5. Questions:** Have any questions or concerns about our terms? Don't fret, just email us: [zenoytmoderator@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=zenoytmoderator@gmail.com). **Our responses could take 3-5 business days.**
+
+[Main Page](#MGS-Discord-Bot)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
 If any problems are found, **please join the support server, open a ticket (or use the report commands in an external server. Doesn't really matter), describe the problem, and a staff member will be with you shortly.**
 
 ![Mountain Gaming](https://user-images.githubusercontent.com/119907481/219535225-afbc528f-a45b-457c-ba10-9ca6ffd742e1.png) ![Mountain Gaming (2)](https://user-images.githubusercontent.com/119907481/219905725-3b291a15-2dce-40dc-9d82-3288d7ff374d.png)
