@@ -1,4 +1,6 @@
-if(message.content.startsWith(';gift')) {
+//Format: !gift @Zeno#2951 999
+
+if(message.content.startsWith('!gift')) {
 
 const [recipientMention, amountString] = message.content.trim().split(/\s+/).slice(1);
     const amount = parseInt(amountString);
