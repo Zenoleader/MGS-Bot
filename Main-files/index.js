@@ -1,3 +1,5 @@
+//The making of a Discord Bot! Make sure to read the README.md file to understand it!
+
 const express = require("express");
 const app = express();
 
