@@ -14,4 +14,9 @@
    "description": "item number 3",
    "value": 3
   }
+  "You can always add more": {
+   "name": "test",
+   "description": "test",
+   "value": 0
+  }
 }
