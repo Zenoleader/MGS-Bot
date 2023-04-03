@@ -12,7 +12,7 @@ With modals you can create pop-up panels that allow users to provide you with fo
 
 What you do need to know is that modals aren't exactly components. They're just a callback used to respond to an interaction (In this case, a button). 
 
-**Tip:** Modals have a maximum of 5 ```MessageActionRow```s (per modal), and there is only 1 ```TextInputComponent``` per row.
+**Tip:** Modals have a maximum of 5 ```MessageActionRow```'s (per modal), and there is only 1 ```TextInputComponent``` per row.
 
 To make the first interaction we need to make the button:
 
