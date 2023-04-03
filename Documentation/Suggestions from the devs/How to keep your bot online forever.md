@@ -23,12 +23,12 @@ You're going to want to read this carefully so you don't make any mistakes. Make
     <li>
     <a href="#Instructions">Instructions</a>
       <ul>
-        <a href="1.-Signing-up">1. Signing Up</a>
+        <a href="Signing-up">1. Signing Up</a>
         <u>
     </li>
   </ol>
 </details>
 
-# **1. Signing up**
+# **Signing up**
 
 The devs will continue this part!
