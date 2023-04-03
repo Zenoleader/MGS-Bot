@@ -108,8 +108,8 @@ New economy commands are now availible! We aren't done adding them, so expect mo
 
 Here are the featured commands of the year! We update this every year (Or month if we fell like it) so people can know which commands are best to add to their bot! If you think we need to add a different command here, just let us know!
 
-- [8ball Cmd](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Fun/8ball.js)
-- [Ban Cmd](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Moderation/Ban.js)
+- [Purge Cmd](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Moderation/purge.js)
+- [Balance Cmd](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Economy/balance.js)
 - [Kick Cmd](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Moderation/Kick.js)
 - [Slowmode Cmd](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Moderation/slowmode.js)
 - [Meme Cmd](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Fun/meme.js)
@@ -224,4 +224,5 @@ Just like the extra codes, we have added new programs that have **no relation to
 If any problems are found, **please join the support server, open a ticket (or use the report commands in an external server. Doesn't really matter), describe the problem, and a staff member will be with you shortly.**
 
 ![Mountain Gaming](https://user-images.githubusercontent.com/119907481/219535225-afbc528f-a45b-457c-ba10-9ca6ffd742e1.png) ![Mountain Gaming (2)](https://user-images.githubusercontent.com/119907481/219905725-3b291a15-2dce-40dc-9d82-3288d7ff374d.png)
+
 
