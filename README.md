@@ -108,8 +108,8 @@ New economy commands are now availible! We aren't done adding them, so expect mo
 
 Here are the featured commands of the year! We update this every year (Or month if we fell like it) so people can know which commands are best to add to their bot! If you think we need to add a different command here, just let us know!
 
-- [8ball Cmd](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Fun/8ball.js)
-- [Ban Cmd](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Moderation/Ban.js)
+- [Purge Cmd](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Moderation/purge.js)
+- [Balance Cmd](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Economy/balance.js)
 - [Kick Cmd](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Moderation/Kick.js)
 - [Slowmode Cmd](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Moderation/slowmode.js)
 - [Meme Cmd](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Fun/meme.js)
