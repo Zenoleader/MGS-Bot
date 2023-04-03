@@ -28,7 +28,8 @@ You're going to want to read this carefully so you don't make any mistakes. Make
     </li>
   </ol>
 </details>
-
+  
+------------------------------------------------------------------------------------------------------------------------------------------------------
 # **Signing up**
 
 The devs will continue this part!
