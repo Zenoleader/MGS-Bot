@@ -12,7 +12,6 @@ if(message.content.startsWith("!userinfo")) {
     .setColor("RANDOM")
     .setThumbnail(user.user.displayAvatarURL(({ dynamic: true, size: 512 })))
     .setDescription(`User ID: ${user.id}, Joined: <t:${user.joinedTimestamp}:f>, Created: <t:${user.user.createdTimestamp}:f>, Username: ${user.nickname || user.user.username}, Role count: ${user.roles.cache.size}  `)
-                  
-.setTimestamp()
+    .setTimestamp()
     
-   message.channel.send({embeds: [embed]})
+   await message.channel.send({embeds: [embed]})
