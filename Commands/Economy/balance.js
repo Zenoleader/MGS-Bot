@@ -8,7 +8,7 @@ if (message.content.startsWith("!balance")) {
       await message.channel.send(`${user} doesn't have a balance.`)
     } else {
 
-      await message.channel.send(`${user}'s balance is currentlth ${balance} dollars!`)
+      await message.channel.send(`${user}'s balance is currently ${balance} Cash!`)
     }
   }
 })
