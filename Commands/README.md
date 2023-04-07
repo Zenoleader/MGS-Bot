@@ -108,7 +108,7 @@ New economy commands are now availible! We aren't done adding them, so expect mo
 
 Here are the featured commands of the year! We update this every year (Or month if we fell like it) so people can know which commands are best to add to their bot! If you think we need to add a different command here, just let us know!
 
-- [Purge Cmd](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Moderation/purge.js)
+- [Rob Cmd](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Economy/rob.js)
 - [Balance Cmd](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Economy/balance.js)
 - [Kick Cmd](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Moderation/Kick.js)
 - [Slowmode Cmd](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Moderation/slowmode.js)
@@ -125,6 +125,7 @@ Here are the featured commands of the year! We update this every year (Or month 
 - [top.gg](https://top.gg/bot/962834876665577542)
 - [Mountain Gaming Studios (Roblox game studio)](https://www.roblox.com/groups/11791011/Mountain-Gaming-Studios)
 - [Website](https://mountainggamingstudio.wixsite.com/mountaingaming)
+- [Discord.js Github](https://github.com/discordjs/discord.js)
 
 [Main Page](#MGS-Discord-Bot)
 
