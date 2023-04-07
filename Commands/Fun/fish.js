@@ -1,4 +1,6 @@
- if(message.content === ";fish") {
+//We will make this an Economy command at some point. 
+
+if(message.content === "!fish") {
     
     var fish = [
       '🐟 | Common Fish',
