@@ -11,8 +11,15 @@ if(message.content === '!daily') {
       }
   
       // Give the user their reward and update the last claimed date in the database
-      // You can put any number, but here we'll use 100
-      const rewardAmount = 100;
+      // You can put any number, but here we'll choose a number using the possible variable
+      var possible = [
+        "10",
+        "100",
+        "20",
+        "9999"
+        ]
+      
+      const rewardAmount = possible;
       db.set(`lastClaimed_${user.id}`, new Date().toLocaleDateString());
       db.add(`balance_${user.id}`, rewardAmount);
       
