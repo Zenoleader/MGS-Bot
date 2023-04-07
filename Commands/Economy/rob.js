@@ -16,7 +16,7 @@ if(message.content.startsWith('!rob')) {
       const targetBalance = db.get(`balance_${targetId}`);
   
       if (amount > targetBalance) {
-        return message.channel.send("That user does not have enough Moolah to rob.");
+        return message.channel.send("That user does not have enough Cash to rob.");
       }
   
       const success = Math.random() < 0.5;
@@ -37,7 +37,7 @@ if(message.content.startsWith('!rob')) {
       console.log(`After ${afterBalance}`)
        db.subtract(`balance_${targetId}`, amount);
   
-        await message.channel.send(`You successfully robbed **${target.username}** and gained **${amount} ** Moolah!`);
+        await message.channel.send(`You successfully robbed **${target.username}** and gained **${amount} ** Cash!`);
         
       } else {
       const user2 = message.mentions.users.first();
