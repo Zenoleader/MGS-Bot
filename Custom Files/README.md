@@ -163,7 +163,7 @@ Just like the extra codes, we have added new programs that have **no relation to
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 # **MGS GitHub ToS**
 
-**1. Use of our service:** By using our codes, you agree **to not use any codes for, but not limited to: hacking, scamming, auth netting, hitting the nae nae etc.** If we feel you are violating those terms, we will remove your access from this respitory.
+**1. Use of our service:** By using our codes, you agree **to not use any codes for, but not limited to: hacking, scamming, auth netting, hitting the nae nae etc.** If we feel you are violating those terms, we will remove your access from this respitory. ⚠THESE TERMS HAVE BEEN IN EFFECT SINCE 3/1/2023⚠
 
 **2. Your privacy:** By using our codes, you accept that we take data on what you click and what is seems of intrest to you. **Your Username is shared with us, but your passwords & emails are safe to just you.** If you are here to try and hack people, not only will we remove your access, we will report you to GitHub Support.
 
@@ -176,7 +176,7 @@ Just like the extra codes, we have added new programs that have **no relation to
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 # **MGS Bot ToS**
 
-**1. Terms of Service:** By using the MGS bot, you agree to let the developers have access to specific data. The type of data we have is, but not limited to, **your user ID, username and tag, profile, guild IDs, and DMs with the bot.** Use of the bot is considered agreement.
+**1. Terms of Service:** By using the MGS bot, you agree to let the developers have access to specific data. The type of data we have is, but not limited to, **your user ID, username and tag, profile, guild IDs, and DMs with the bot.** Use of the bot is considered agreement. ⚠THESE TERMS HAVE BEEN IN EFFECT SINCE 3/1/2023⚠
 
 **2. Access of Data:** By using the MGS bot, you agree to let the developers have access to your data. **Only the bot developers of MGS have access to your data**. We use your data to improve our bot in any way possible.
 
@@ -208,7 +208,7 @@ Just like the extra codes, we have added new programs that have **no relation to
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 # **MGS Economy ToS**
 
-**1. Terms of Service:** MGS has a new economy feature that is very fun when people don't use it for the wrong reasons. **With these terms, we will specify what we do when you use the economy & what is not allowed.** Note: All the normal ToS for MGS apply here, so we won't specify the normal terms.
+**1. Terms of Service:** MGS has a new economy feature that is very fun when people don't use it for the wrong reasons. **With these terms, we will specify what we do when you use the economy & what is not allowed.** Note: All the normal ToS for MGS apply here, so we won't specify the normal terms. ⚠THESE TERMS HAVE BEEN IN EFFECT SINCE 3/1/2023⚠
 
 **2. Logging:** MGS does log all the actions with the economy except for fishing & hunting. We store things such as your **User ID, Guild ID's, User Tags, and profile pictures**. We store all that with quick.db & it's in private channels only developers have access to.
 
