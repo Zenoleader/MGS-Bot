@@ -16,9 +16,9 @@ app.get("/", (req,res) => {
 const Discord = require("discord.js");
 const client = new Discord.Client({intents: ["GUILDS", "GUILD_MESSAGES"]});
 
-client.on("messageCreate", message => {
+client.on("messageCreate", async message => {
  if(message.content === "!textcommand") {
-  message.channel.send("text here")
+  await message.channel.send("Your text goes here!")
   } 
  })      
 
