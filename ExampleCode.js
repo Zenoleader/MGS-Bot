@@ -1,5 +1,6 @@
 //NOTE: If you just copy and paste this into a file without reeading anything, it will not work. Read the [REAME.md] file to understand more about this.
 //This is the replit version of the code. Not making one for visual seeing we don't use visual. 
+//MAKE SURE YOU HAVE THE LATEST VERSION OF NODE.JS FOR THIS TO WORK
 
 const express = require("express");
 const app = express();
