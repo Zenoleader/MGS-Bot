@@ -39,9 +39,7 @@ if(message.content.startsWith('!rob')) {
   
         await message.channel.send(`You successfully robbed **${target.username}** and gained **${amount} ** Cash!`);
         
-      } else {
-      const user2 = message.mentions.users.first();
-   
+      } else {   
         db.subtract(`balance_${message.author.id}`, 100)
         
         await message.channel.send(`You were caught trying to rob **${target.username}** and got nothing.`);
