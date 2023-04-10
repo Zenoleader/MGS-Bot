@@ -2,6 +2,11 @@ if(message.content.startsWith('!rob')) {
          const args = message.content.slice('!rob'.length).trim().split(/ + /g);
         const amount = parseInt(args[0]);
       const target = message.mentions.users.first();
+         
+          const status = db.get(`robCommandStatus_${message.guild.id}`);
+        if(!status) {
+          return message.channel.send("Sorry, rob is disabled here!")
+        }
   
       if (isNaN(amount) || !target) {
         return message.channel.send("Please provide a valid amount and mention a user to rob.");
