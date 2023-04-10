@@ -2,6 +2,8 @@ const fs = require('fs');
 const itemsData = fs.readFileSync("items.json");
 const items = JSON.parse(itemsData);
 
+//make sure the client has async before message. For example: client.on("messageCreate", async message {})
+
 if(message.content === "!shop") {
           const itemList = Object.values(items);
           
