@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Report a bug you are saw!
+about: Report a bug you saw!
 title: 'BUG: FILE NAME'
 labels: "[BUG]"
 assignees: Zeno
