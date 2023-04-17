@@ -7,4 +7,4 @@ assignees: Zeno
 
 ---
 
-## Describe your idea for a command!
+## Describe your idea for a command or custom file!
