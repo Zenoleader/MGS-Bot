@@ -7,8 +7,8 @@ assignees: Zeno
 
 ---
 
-## Tell us your programming background!
+## Tell us your about programming background!
 
 ## Tell us the role you want! (Discord Bot Developer: Programmer, User support, GitHub) (Roblox Game Developer: Graphic Artist, User support, GitHub)
 
-## We do pay in robux only. We are currently in development, so MGS bot does not profit (yet).
+## We do pay in robux only. We are currently in development, so MGS bot does not profit USD (yet).
