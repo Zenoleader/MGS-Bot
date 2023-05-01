@@ -18,24 +18,24 @@ app.get("/", (req,res) => {
 const Discord = require("discord.js"); //v13 :)
 const client = new Discord.Client({intents: ["GUILDS", "GUILD_MESSAGES"]}); //you can always add more 
 
-client.on("messageCreate", message => {
+client.on("messageCreate", async message => {
  if(message.content === "!textcommand") {
-  message.channel.send("text here")
+ await message.channel.send("text here")
   } 
   
   if(message.content === "!hello") {
-  message.channel.send("Hi!!")
+  await message.channel.send("Hi!!")
   }
   
   if(message.content === "!ping") {
-   message.channel.send(`${client.ws.ping}ws (pong!)`) 
+  await message.channel.send(`${client.ws.ping}ws (pong!)`) 
   }
   //add more here
  })  
 
 client.on("ready", () => {
   //You can set your bots username and avatar here too
-client.user.setPresence({activities: [{name: 'FLOOR IS NEON RED', TYPE: 'PLAYING'}], status: 'dnd'});
+client.user.setPresence({activities: [{name: 'FLOOR IS NEON RED', TYPE: 'PLAYING'}], status: 'idle'});
   
 })
 
