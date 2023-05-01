@@ -72,7 +72,7 @@ client.on("messageCreate", message => {
 *refer to [Example Code.js](https://github.com/Zenoleader/MGS-Bot/blob/main/Example%20Code.js) if you still don't understand.
 
 **DOWNLOAD [DISCORD.JS](https://discord.js.org/#/): ```npm i discord.js@13.10.2```** 
-* Note: A lot of functions won't work with the discord.js version I provided. Do npm i discord.js@lts to fix that. If the doesn't work, use npm i discord.js@13.15.1
+* Note: A lot of functions won't work with the discord.js version I provided. Do npm i discord.js@v13-lts to fix that. If the doesn't work, use npm i discord.js@13.15.1
 
 **⚠️ WE WILL NOT SPOON FEED YOU WITH PROGRAMMING. IF YOU DON'T UNDERSTAND SOMETHING PLEASE TRY TO FIGURE IT OUT FIRST THEN ASK US.⚠️**
 
