@@ -16,12 +16,12 @@ if(message.content === '!daily') {
         "10",
         "100",
         "20",
-        "9999"
+        "9,999"
         ]
       
-      const rewardAmount = possible;
+      const rewardAmount = possible[Math.floor(Math.random() * possible.length)];
       db.set(`lastClaimed_${user.id}`, new Date().toLocaleDateString());
       db.add(`balance_${user.id}`, rewardAmount);
       
-      return message.channel.send(`Nice! You claimed 100 coins from your daily!`);
+      return message.channel.send(`Nice! You claimed ${rewardAmount} coins from your daily!`);
     }
