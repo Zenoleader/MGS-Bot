@@ -25,10 +25,11 @@ const [recipientMention, amountString] = message.content.trim().split(/\s+/).sli
     
     db.add(`balance_${recipient.id}`, amount);
     db.subtract(`balance_${message.author.id}`, amount);
+    const format = amount.toLocaleString()
     
     const embed = new Discord.MessageEmbed()
   .setTitle("Gift Successful!")
-.setDescription(`**${message.author.tag}** has gifted ${recipient.tag} **${amount}** cash!`)
+.setDescription(`**${message.author.tag}** has gifted ${recipient.tag} **${format}** cash!`)
       .setColor("GREEN")
       .setTimestamp()
 
