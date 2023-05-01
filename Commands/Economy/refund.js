@@ -23,10 +23,10 @@ if(message.author.id === 'Your ID here') {
       
       
       db.add(`balance_${recipient.id}`, amount);
-   
-      client.channels.cache.get("Your log ID").send({content: `Refunder: ${message.author.tag} | ${message.author.id} **${message.author.tag}** has refunded ${recipient.tag} **${amount}** Moolah!`})
+      const format = amount.toLocaleString()
+      client.channels.cache.get("Your log ID").send({content: `Refunder: ${message.author.tag} | ${message.author.id} **${message.author.tag}** has refunded ${recipient.tag} **${format}** Moolah!`})
   
-await message.channel.send(`**${message.author.tag}** has refunded ${recipient.tag} **${amount}** Moolah!`);
+await message.channel.send(`**${message.author.tag}** has refunded ${recipient.tag} **${format}** Moolah!`);
         
       } else {
   await message.channel.send("Only the devs can use this!")
