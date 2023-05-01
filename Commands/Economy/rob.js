@@ -41,8 +41,9 @@ if(message.content.startsWith('!rob')) {
         db.get(`balance_${message.author.id}`)
       console.log(`After ${afterBalance}`)
        db.subtract(`balance_${targetId}`, amount);
+               const format = amount.toLocaleString()
   
-        await message.channel.send(`You successfully robbed **${target.username}** and gained **${amount} ** Cash!`);
+        await message.channel.send(`You successfully robbed **${target.username}** and gained **${format} ** Cash!`);
         
       } else {   
         db.subtract(`balance_${message.author.id}`, 100)
