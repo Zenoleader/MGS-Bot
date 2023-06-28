@@ -16,7 +16,8 @@ if(message.content === '!daily') {
         "10",
         "100",
         "20",
-        "9,999"
+        "9,999",
+        //You could also make a streak
         ]
       
       const rewardAmount = possible[Math.floor(Math.random() * possible.length)];
