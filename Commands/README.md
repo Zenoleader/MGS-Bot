@@ -181,18 +181,21 @@ Just like the extra codes, we have added new programs that have **no relation to
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 # **MGS Bot ToS**
 
-**1. Terms of Service:** By using the MGS bot, you agree to let the developers have access to specific data. The type of data we have is, but not limited to, **your user ID, username and tag, profile, guild IDs, and DMs with the bot.** Use of the bot is considered agreement. 
-⚠THESE TERMS HAVE BEEN IN EFFECT SINCE 3/1/2023⚠
+**1. Terms of Service:** By using MGS#6816, you agree to let the developers have access to specific data. The type of data we have includes, but is not limited to, your user ID, username/tag, profile, guild IDs, and DMs with the bot. **Use of the bot is considered agreement.**
 
-**2. Access of Data:** By using the MGS bot, you agree to let the developers have access to your data. **Only the bot developers of MGS have access to your data**. We use your data to improve our bot in any way possible.
+**2. Access of Data:** By using the MGS bot, you agree to let the developers have access to your data. Only the bot developers of MGS have access to your data. **We use your data to improve our bot in any way possible.**
 
 **3. Storage of Data:** By using the MGS bot, you agree to let the developers store your data. We use your data to do analytics on how the bot is doing. **If any breach of your data was made, we will notify all servers using the client.**
 
-**4. Request Data:** By using the MGS bot, you have the right to request your data stored by MGS. You can always request your data in the support server. Your data will never be declined when requested. **You have the right to have your data removed.**
+**4. Request Data:** By using the MGS bot, you have the right to request your data stored by MGS. **You can always request your data in the support server.** Your data will never be declined when requested. You have the right to have your data removed.
 
-**5. Underage Users:** By using the MGS bot, you accept that you have to be 13+ or of legal age in your country to use Discord. If any reports have been made of an underage user, **we will do everything we can to delete that users' data & report that user to Discord Trust & Safety.**
+**5. Underage Users:** By using the MGS bot, you accept that you have to be 13+ or of legal age in your country to use Discord. If any reports have been made of an underage user, we will do everything we can to delete that user’s data & report the user to **Discord’s Trust & Safety Team.**
 
-**6. Questions:** Have any questions or concerns about our terms? Don't fret, just email us: [zenoytmoderator@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=zenoytmoderator@gmail.com). **Our responses could take 3-5 business days.**
+**6. Use of MGS Products and Images:** You may use MGS images as long as you make sure it's known it's ours. If it is not, we will remove your access to all of MGS and remove our bot from your server if it is added.
+
+**7. Scam MGS Bots:** By using MGS, you agree to not make any scam bots that would be deceptive to other users. **If done so, you will be reported to Discord Trust & Safety**. For info about this, visit our [support server](https://discord.gg/zenoyt-official-server-845476765702946846).
+
+**8. Questions:** Have any questions or concerns about our terms? Don't fret, just email us: [mgsmoderation@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=mgsmoderation@gmail.com). **Our responses could take 3-5 business days.**
 
 [Main Page](#MGS-Discord-Bot)
 
@@ -201,29 +204,34 @@ Just like the extra codes, we have added new programs that have **no relation to
 
 **1. Privacy Policy:** MGS takes your private data very seriously. To protect you, we will tell you all the information we gather from you and how we use it!
 
-**2. Security:** The MGS development team does all they can to keep your information safe. We can't 100% guarantee that your information will be safe since the internet isn't 100% fool proof. We secure your privacy in our support server.
+**2. Security:** The MGS development team does all they can to keep your information safe. We can't 100% guarantee that your information will be safe since the internet isn't 100% fool proof. **We secure your privacy in our support server.**
 
-**3. Storage of Data:** Only the data such as your server name, a few roles, server/member ID's, & user tags **are stored permanently** with quick.db until a dev deletes it or you request your data to be deleted.
+**3. Storage of Data:** Only the data such as your server name, a few roles, server/member ID’s, & user tags are **stored permanently** with quick.db until a developer deletes it or you request your data to be deleted. Message content is stored on Discord. Your data will be deleted if you are inactive for too long.
 
-**4. Changes of the Policy:** Any changes of the privacy policy will be updated and told to everyone using the bot as soon as possible. We will notify you using dm's or the "alert" command. **The policy has been in effect since 2/1/23.**
+**4. Changes of the Policy:** Any changes of the privacy policy will be updated and told to everyone using the bot as soon as possible. We will notify you using DMs or the "alert" command. **The policy has been in effect since 2/1/23.**
 
-**5. Questions:** Have any questions or concerns about our policy? Don't fret, just email us: [zenoytmoderator@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=zenoytmoderator@gmail.com). **Our responses could take 3-5 business days.**
+**5. Questions:** Have any questions or concerns about our terms? Don't fret, just email us: [mgsmoderation@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=mgsmoderation@gmail.com). **Our responses could take 3-5 business days.**
 
 [Main Page](#MGS-Discord-Bot)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 # **MGS Economy ToS**
 
-**1. Terms of Service:** MGS has a new economy feature that is very fun when people don't use it for the wrong reasons. **With these terms, we will specify what we do when you use the economy & what is not allowed.** Note: All the normal ToS for MGS apply here, so we won't specify the normal terms. 
-⚠THESE TERMS HAVE BEEN IN EFFECT SINCE 3/1/2023⚠
+**1. Terms of Service:** MGS has an economy feature that’s fun to use when people don't use it for the wrong reasons. With these terms, we will specify what we do when you use the economy & what is not allowed. **Note: All the normal ToS for MGS apply here, so we won't specify the normal terms.**
 
-**2. Logging:** MGS does log all the actions with the economy except for fishing & hunting. We store things such as your **User ID, Guild ID's, User Tags, and profile pictures**. We store all that with quick.db & it's in private channels only developers have access to.
+**2. Logging:** MGS does log all the actions with the economy except for fishing & hunting. **We store things such as your User ID, Guild ID's, User Tags, and profile pictures.** We store all that with quick.db & it's in private channels only developers have access to.
 
-**3. Scamming:** MGS has a gift command that can obviously be abused. **We do not tollerate scamming**, and if the action is done, we will **ban** your access to all of MGS. 
+**3. Scamming:** MGS has a gift command that can obviously be abused. We do not tolerate scamming, and if the action is done, **we will ban your access to all of MGS.**
 
-**4. Grinding Bots:** MGS commands that a specifically meant for normal grinding. We are aware of people who make grinding bots that spam MGS's API. **Doing so will get your access to MGS revoked.**
+**4. Grinding Bots:** MGS has commands that are specifically meant for normal grinding. We are aware of people who make grinding bots that spam MGS's API. **Doing so will get your access to MGS revoked. Your data will also be deleted. This does include PREMIUM.**
 
-**5. Questions:** Have any questions or concerns about our terms? Don't fret, just email us: [zenoytmoderator@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=zenoytmoderator@gmail.com). **Our responses could take 3-5 business days.**
+**5. Inorganic Grinding/Growth:** MGS Is meant to be a fair and fun bot. Using methods to inorganically grow your Moolah is against our ToS. **Doing so will get your access to MGS revoked. Your data will also be deleted. This does include PREMIUM.**
+
+**6. Alternative Account:** MGS will limit you to **one** alt account on the economy.  The use of banned methods will get your access to MGS revoked. **Your data will also be deleted. This does include PREMIUM.**
+
+**7. Loss of Moolah:** By using the economy feature of MGS, you agree to allow MGS to take Moolah from your account if we deem it necessary. **Reasons it would be necessary: Grown at an inorganic rate, inflation of Moolah, MGS inactivity, and misuse of the gift command.**
+
+**8. Questions:** Have any questions or concerns about our terms? Don't fret, just email us: [mgsmoderation@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=mgsmoderation@gmail.com). **Our responses could take 3-5 business days.**
 
 [Main Page](#MGS-Discord-Bot)
 
