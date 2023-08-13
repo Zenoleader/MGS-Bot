@@ -1,4 +1,4 @@
-client.on("messageCreate", messgae => {
+client.on("messageCreate", message => {
 
 if(message.content === "!dadjoke") {
   const args = message.content.slice('!dadjoke'.length).trim().split(/ + /g);
