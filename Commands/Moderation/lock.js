@@ -35,3 +35,4 @@ message.channel.send("Channel locked!")
 } else {
 message.cahnnel.send("You can't use this")
     }
+}
