@@ -12,3 +12,4 @@ if(message.content === "!hunt") {
     ]
 
     message.channel.send(`${message.author.tag} got a ${animals[Math.floor(Math.random() * animals.length)]}`)
+}
