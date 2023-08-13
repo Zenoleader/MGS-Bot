@@ -8,3 +8,4 @@ if(message.content.startsWith('!coinflip')) {
   ]
 
   message.channel.send(`You chose ${response}. You got ${coinres[Math.floor(Math.random() * coinres.length)]}`)
+}
