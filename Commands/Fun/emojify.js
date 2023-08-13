@@ -9,3 +9,4 @@ const select = emojis[Math.floor(Math.random() * emojis.length)]
 
     message.channel.send(`${select} ${select} ${response} ${select} ${select}`)
     
+}
