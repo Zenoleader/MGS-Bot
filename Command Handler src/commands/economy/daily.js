@@ -27,7 +27,7 @@ module.exports = {
       db.set(`lastClaimed_${user.id}`, new Date().toLocaleDateString());
       db.add(`balance_${user.id}`, rewardAmount);
       
-      return message.channel.send(`Nice! You claimed ${rewardAmount} coins from your daily!`);
+      return message.channel.send(`Nice! You claimed ${rewardAmount} coins from your daily! Come back tomorrow!`);
 
   }
 }
