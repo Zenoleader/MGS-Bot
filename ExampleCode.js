@@ -30,6 +30,10 @@ client.on("messageCreate", async message => {
   if(message.content === "!ping") {
   await message.channel.send(`${client.ws.ping}ws (pong!)`) 
   }
+
+  if(message.content.startswith("!bal") {
+  await message.channel.send(`0 for now.`)
+  }
   //add more here
  })  
 
