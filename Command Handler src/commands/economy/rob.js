@@ -43,9 +43,9 @@ module.exports = {
       console.log(`Before: ${beforeBalance}`)
       await db.add(`balance_${message.author.id}`, amount);
       const afterBalance = await
-        db.get(`balance_${message.author.id}`)
+       await db.get(`balance_${message.author.id}`)
       console.log(`After ${afterBalance}`)
-       db.subtract(`balance_${targetId}`, amount);
+       await db.subtract(`balance_${targetId}`, amount);
                const format = amount.toLocaleString()
   
         await message.channel.send(`You successfully robbed **${target.username}** and gained **${format} ** Cash!`);
