@@ -17,7 +17,7 @@ module.exports = {
     console.log(`Before: ${beforeBalance}`)
     await db.add(`balance_${user.id}`, amount);
     const afterBalance = await
-      db.get(`balance_${user.id}`)
+    await db.get(`balance_${user.id}`)
     console.log(`After ${afterBalance}`)
 
       let embed = new Discord.MessageEmbed()
