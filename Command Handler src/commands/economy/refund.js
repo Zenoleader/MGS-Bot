@@ -1,4 +1,6 @@
-const db = require('quick.db')
+const Discord = require('discord.js');
+const { QuickDB } = require("quick.db");
+const db = new QuickDB()
 
 module.exports = {
   name: 'refund',
@@ -26,15 +28,14 @@ module.exports = {
   }
       
       
-      db.add(`balance_${recipient.id}`, amount);
+      await db.add(`balance_${recipient.id}`, amount);
       const format = amount.toLocaleString()
-      client.channels.cache.get("Your log ID").send({content: `Refunder: ${message.author.tag} | ${message.author.id} **${message.author.tag}** has refunded ${recipient.tag} **${format}** Moolah!`})
+      message.client.channels.cache.get("Your log ID").send({content: `Refunder: ${message.author.tag} | ${message.author.id} **${message.author.tag}** has refunded ${recipient.tag} **${format}** Moolah!`})
   
 await message.channel.send(`**${message.author.tag}** has refunded ${recipient.tag} **${format}** Moolah!`);
         
       } else {
   await message.channel.send("Only the devs can use this!")
-      }
-    
+    }
  }
 }
