@@ -1,12 +1,13 @@
-const db = require('quick.db')
-
+const Discord = require('discord.js');
+const { QuickDB } = require("quick.db");
+const db = new QuickDB()
 module.exports = {
   name: 'daily',
   description: 'Get your daily!',
   async execute(message) {
 
       const user = message.author
-      const lastClaimedDate = db.get(`lastClaimed_${user.id}`);
+      const lastClaimedDate = await db.get(`lastClaimed_${user.id}`);
   
       // Check if the user has already claimed their daily reward for the day
       if (lastClaimedDate === new Date().toLocaleDateString()) {
@@ -24,8 +25,8 @@ module.exports = {
         ]
       
       const rewardAmount = possible[Math.floor(Math.random() * possible.length)];
-      db.set(`lastClaimed_${user.id}`, new Date().toLocaleDateString());
-      db.add(`balance_${user.id}`, rewardAmount);
+      await db.set(`lastClaimed_${user.id}`, new Date().toLocaleDateString());
+      await db.add(`balance_${user.id}`, rewardAmount);
       
       return message.channel.send(`Nice! You claimed ${rewardAmount} coins from your daily! Come back tomorrow!`);
 
