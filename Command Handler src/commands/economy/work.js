@@ -1,5 +1,6 @@
-const db = require('quick.db')
-const Discord = require('discord.js')
+const Discord = require('discord.js');
+const { QuickDB } = require("quick.db");
+const db = new QuickDB()
 
 module.exports = {
   name: 'work',
@@ -16,8 +17,7 @@ module.exports = {
     }
     console.log(`Before: ${beforeBalance}`)
     await db.add(`balance_${user.id}`, amount);
-    const afterBalance = await
-    await db.get(`balance_${user.id}`)
+    const afterBalance = await db.get(`balance_${user.id}`)
     console.log(`After ${afterBalance}`)
 
       let embed = new Discord.MessageEmbed()
