@@ -1,14 +1,16 @@
-const db = require('quick.db')
+const Discord = require('discord.js');
+const { QuickDB } = require("quick.db");
+const db = new QuickDB()
 
 module.exports = {
   name: 'rob',
   description: 'See the balance of you / other users!',
   async execute(message, args) {
 
- const amount = parseInt(args[0]);
-      const target = message.mentions.users.first();
+        const amount = parseInt(args[0]);
+        const target = message.mentions.users.first();
          
-          const status = db.get(`robCommandStatus_${message.guild.id}`);
+        const status = await db.get(`robCommandStatus_${message.guild.id}`);
         if(!status) {
           return message.channel.send("Sorry, rob is disabled here!")
         }
@@ -23,7 +25,7 @@ module.exports = {
     return message.channel.send('Stop trying to rob yourself 💀')
   }
   
-      const targetBalance = db.get(`balance_${targetId}`);
+      const targetBalance = await db.get(`balance_${targetId}`);
   
       if (amount > targetBalance) {
         return message.channel.send("That user does not have enough Cash to rob.");
@@ -35,7 +37,7 @@ module.exports = {
   
       const user = message.mentions.users.first();
         
-         let beforeBalance = await db.get(`balance_${message.author.id}`)
+      let beforeBalance = await db.get(`balance_${message.author.id}`)
       if (beforeBalance === null) {
         beforeBalance = 0;
         await db.set(`balance_${message.author.id}`, 0)
@@ -43,16 +45,15 @@ module.exports = {
       console.log(`Before: ${beforeBalance}`)
       await db.add(`balance_${message.author.id}`, amount);
       const afterBalance = await
-       await db.get(`balance_${message.author.id}`)
+      await db.get(`balance_${message.author.id}`)
       console.log(`After ${afterBalance}`)
-       await db.subtract(`balance_${targetId}`, amount);
-               const format = amount.toLocaleString()
+      await db.sub(`balance_${targetId}`, amount);
+      const format = amount.toLocaleString()
   
-        await message.channel.send(`You successfully robbed **${target.username}** and gained **${format} ** Cash!`);
+      await message.channel.send(`You successfully robbed **${target.username}** and gained **${format} ** Cash!`);
         
       } else {   
-        db.subtract(`balance_${message.author.id}`, 100)
-        
+        await db.sub(`balance_${message.author.id}`, 100)
         await message.channel.send(`You were caught trying to rob **${target.username}** and got nothing.`);
       }
     
