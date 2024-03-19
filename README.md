@@ -1,7 +1,7 @@
 [![MGS GitHub Banner](https://user-images.githubusercontent.com/119907481/219827160-c69c91be-0c53-4fa0-9b97-7f649683fab4.png)](https://mountaingamingstudio.wixsite.com/mountaingaming)
 
 
-# [MGS Discord Bot](https://discord.com/api/oauth2/authorize?client_id=962834876665577542&permissions=534723819584&scope=bot%20applications.commands)
+# [MGS Discord Bot](https://discord.com/application-directory/962834876665577542)
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,16 +19,11 @@
      <li><a href="#FEATURED-COMMANDS">Featured Commands</a></li>
       <li><a href="#LINKS">Links</a></li>
        <li><a href="#MGS-GitHub-ToS">Our ToS & Privacy Policy</a></li>
-        <li><a href="#Extra-Codes">Extra Codes</a></li>
-         <li><a href="#Javascript-Game-Codes">Game Codes</a></li>
   </ol>
 </details>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-**THIS BOT IS MADE BY Zeno#2951, Purplecake613#4099, oof.png#2521 (Mountain Gaming Studios Founders)**
-
-**MGS IS VERIFIED!!**
-
+**THIS BOT IS MADE BY zenoytleader, hayleepurplecake, and ploof.png!
 In places where it says token, you need to make a secret in [replit](https://replit.com) or [visual code](https://code.visualstudio.com/) (for visual studio, you need to paste your actual token in the login. Ex: client.login("YOUR BOT TOKEN") ). Name the secret token and paste you discord bots token there. discord.js is needed to make all of this work. You can always add more commands or edit the ones already there. If any errors are found, just tell us, we don't want you guys to not understand why it didn't work.
 
 replit: 
@@ -41,16 +36,16 @@ visual studio:
 client.login("TOKEN");
 ```
 
-* Note: We think the reason for this is for your bots safety. Visual studio is a one person platform, so your token can't rally be seen by anyone else unless you show them. Replit projects are all public, so anyone can see it (unless you pay to get it private). That's why replit created the [secret](https://docs.replit.com/programming-ide/workspace-features/storing-sensitive-information-environment-variables) tool so all your tokens or private things stay private.
+* Note: We think the reason for this is for your bots safety. Visual studio is a one person platform, so your token can't really be seen by anyone else unless you show them. Replit projects are all public, so anyone can see it (unless you pay to get it private). That's why replit created the [secret](https://docs.replit.com/programming-ide/workspace-features/storing-sensitive-information-environment-variables) tool so all your tokens or private things stay private.
 
-**⚠️[MOUNTAIN GAMING STUDIOS](https://mountaingamingstudio.wixsite.com/mountaingaming) IS NOT RESPONSIBLE FOR ANY DATA LOSS OR BOT FRAUD. IF YOU COMMIT FRAUD, BREAK DISCORD TOS, OR FIND ANY WAY TO GET YOUR BOT BANNED OR ACCOUNT BANNED, WE ARE NOT RESPONSIBLE. TO SUM IT UP: WE ARE NOT RESPONSIBLE FOR ANYTHING YOU DO.⚠️**
+**⚠️[MOUNTAIN GAMING STUDIOS](https://mgsbot.vercel.app) IS NOT RESPONSIBLE FOR ANY DATA LOSS OR BOT FRAUD. IF YOU COMMIT FRAUD, BREAK DISCORD TOS, OR FIND ANY WAY TO GET YOUR BOT BANNED OR ACCOUNT BANNED, WE ARE NOT RESPONSIBLE. TO SUM IT UP: WE ARE NOT RESPONSIBLE FOR ANYTHING YOU DO.⚠️**
 
 [Main Page](#MGS-Discord-Bot)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 # **INFO:**
 
-Made with [node.js](https://nodejs.org/en/), programmed by [Mountain Gaming Studios](https://mountaingamingstudio.wixsite.com/mountaingaming), 100% safe, interaction bot. Please don't edit the code for the wrong reasons. Use this nicely. All file names are what you need to name them when creating your file. For example, if you're trying to do the [index.js](https://github.com/Zenoleader/MGS-Bot/blob/main/Main-files/index.js), you need to go to where ever you are programming and make a file called [index.js](https://github.com/Zenoleader/MGS-Bot/blob/main/Main-files/index.js). Same for everything else. You will need to download **[discord.js v13](https://v13.discordjs.guide/)**. No other version will work with the code provided. The MGS bot team uses [replit](https://replit.com) to program our bot (We recommend this if you are working with a team)! (Codes are all modified so they don't look exactly like the actual MGS commands. This is due to copying and people being lazy)
+Made with [node.js](https://nodejs.org/en/), programmed by [Mountain Gaming Studios](https://mgsbot.vercel.app/), 100% safe, interaction bot. Please don't edit the code for the wrong reasons. Use this nicely. All file names are what you need to name them when creating your file. For example, if you're trying to do the [index.js](https://github.com/Zenoleader/MGS-Bot/blob/main/Main-files/index.js), you need to go to where ever you are programming and make a file called [index.js](https://github.com/Zenoleader/MGS-Bot/blob/main/Main-files/index.js). Same for everything else. You will need to download **[discord.js v13](https://v13.discordjs.guide/)**. No other version will work with the code provided. The MGS bot team uses [replit](https://replit.com) to program our bot (We recommend this if you are working with a team)! (Codes are all modified so they don't look exactly like the actual MGS commands. This is due to copying and people being lazy)
 
 **YOU ADD ALL THE COMMANDS IN THE INDEX.JS FILE INSIDE THE SAME CLIENT:** 
 
@@ -73,8 +68,7 @@ client.on("messageCreate", message => {
 
 *refer to [Example Code.js](https://github.com/Zenoleader/MGS-Bot/blob/main/Example%20Code.js) if you still don't understand.
 
-**DOWNLOAD [DISCORD.JS](https://discord.js.org/#/): ```npm i discord.js@13.10.2```** 
-* Note: A lot of functions won't work with the discord.js version I provided. Do npm i discord.js@v13-lts to fix that. If the doesn't work, use npm i discord.js@13.15.1
+**DOWNLOAD [DISCORD.JS](https://discord.js.org/#/): ```npm i discord.js@13.15.1```** 
 
 **⚠️ WE WILL NOT SPOON FEED YOU WITH PROGRAMMING. IF YOU DON'T UNDERSTAND SOMETHING PLEASE TRY TO FIGURE IT OUT FIRST THEN ASK US.⚠️**
 
@@ -83,15 +77,15 @@ client.on("messageCreate", message => {
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 # **DEVELOPMENT TEAM:**
 
-**Zeno#2951**- CEO & founder of Mountain Gaming, Programs in JS & LUA, lead developer of Mountain Gaming Discord bot & FLOOR IS NEON RED on Roblox. Epic programmer🧑‍💻
+**zenoytleader**- CEO & founder of MGS, Programs in node.js, LUA, HTML, & CSS. Lead developer of MGS Discord bot & FLOOR IS NEON RED.
 
-**oof.png#2521**- Co-founder of Mountain Gaming, Programs in LUA, Devloper(scripter) for FLOOR IS NEON RED on Roblox. BreadMaster🍞
+**ploof.png**- Co-founder of MGS, Programs in LUA, Devloper for FLOOR IS NEON RED. BreadMaster🍞
 
-**Purplecake613#4099**- Co-founder of Mountain Gaming, Devloper(builder & scripter) for FLOOR IS NEON RED on Roblox and Mountain Gaming Studios Discord bot. urg burg cheese meese🧀
+**hayleepurplecake**- Co-founder of MGS, Devloper for FLOOR IS NEON RED and MGS Discord bot. urg burg cheese meese🧀
 
-**ninjaxp30#4203**- Developer(builder) for FLOOR IS NEON RED on Roblox
+**ninjaxp30**- Developer for FLOOR IS NEON RED.
 
-**DannyCool65#3214**- Developer(Builder) for FLOOR IS NEON RED on Roblox
+**DannyCool65#3214**- Developer for FLOOR IS NEON RED on Roblox.
 
 Want to join Mountain Gaming Studios? Refer to here: [MGS Applications](https://github.com/Zenoleader/MGS-Bot/blob/main/.github/Issues%20Template/Applications.md). We thank you for checking our studio out!! 👍
 
@@ -100,9 +94,7 @@ Want to join Mountain Gaming Studios? Refer to here: [MGS Applications](https://
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 # **UPDATES**
 
-New economy commands are now availible! We aren't done adding them, so expect more updates! This is part of the MGS v3.0.0 update!
-
-**⚠️CUSTOM COMMANDS ARE NOT FOR THE BOT. THEY ARE FOR YOUR PERSONAL USE. REFER TO [EXTRA CODES](#Extra-Codes) TO LEARN HOW TO USE THEM.⚠️**
+MGS has been hard at work since it's last github update! MGS has released new and improved features of commands! We are working to release them to you!
 
 [Main Page](#MGS-Discord-Bot)
 
@@ -111,11 +103,11 @@ New economy commands are now availible! We aren't done adding them, so expect mo
 
 Here are the featured commands of the year! We update this every year (Or month if we fell like it) so people can know which commands are best to add to their bot! If you think we need to add a different command here, just let us know!
 
-- [Rob Cmd](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Economy/rob.js)
-- [Balance Cmd](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Economy/balance.js)
-- [Kick Cmd](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Moderation/Kick.js)
-- [Slowmode Cmd](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Moderation/slowmode.js)
-- [Meme Cmd](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Fun/meme.js)
+- [Rob Command](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Economy/rob.js)
+- [Balance Command](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Economy/balance.js)
+- [Kick Command](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Moderation/Kick.js)
+- [Slowmode Command](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Moderation/slowmode.js)
+- [Meme Command](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Fun/meme.js)
 
 [Main Page](#MGS-Discord-Bot)
 
@@ -123,44 +115,12 @@ Here are the featured commands of the year! We update this every year (Or month 
 # **LINKS:**
 
 - [Support Server](https://discord.gg/zenoyt-official-server-845476765702946846)
-- [Add the bot](https://discord.com/api/oauth2/authorize?client_id=962834876665577542&permissions=534723819584&scope=bot%20applications.commands)
-- [FLOOR IS NEON RED (Roblox game)](https://www.roblox.com/games/7231457999/FLOOR-IS-NEON-RED)
+- [Add the bot](https://discord.com/application-directory/962834876665577542)
+- [FLOOR IS NEON RED](https://www.roblox.com/games/7231457999/FLOOR-IS-NEON-RED)
 - [top.gg](https://top.gg/bot/962834876665577542)
-- [Mountain Gaming Studios (Roblox game studio)](https://www.roblox.com/groups/11791011/Mountain-Gaming-Studios)
-- [Website](https://mountainggamingstudio.wixsite.com/mountaingaming)
+- [Mountain Gaming Studios](https://www.roblox.com/groups/11791011/Mountain-Gaming-Studios)
+- [Website](https://mgsbot.vercel.app/)
 - [Discord.js Github](https://github.com/discordjs/discord.js)
-
-[Main Page](#MGS-Discord-Bot)
-
-------------------------------------------------------------------------------------------------------------------------------------------------------
-# **Extra Codes**
-
-If you've looked hard enough (Using your eyes), you will notice that there is a folder called "[Custom Files](https://github.com/Zenoleader/MGS-Bot/tree/main/Custom%20Files)". We are informing you now that those codes have **no relation to Discord bots or Discord what so ever.** These are sponsored codes that we have generously advertised for the owner of the codes ([Laylox](https://laylox.com)). We are still adding more extensions! If you would like the use them, follow the instructions bellow ⬇
-
-1. Make sure to click Ctrl + Shift+ B to show your bookmarks bar.
-2. Click on the file of which extension you want.
-3. Click on whichever extension you want.
-4. Then click the 2 squares to copy the code
-5. Then go up to your bookmarks, right click or twofinger click, press add page, **AND ONLY CHANGE THE NAME TO WHAT YOU WANT THEN PRESS SAVE.**
-6. After that, go back to that bookmark, right click or twofinger click, press edit, go to the url, and press ctrl + a, and then backspace.
-7. Then press ctrl + v to paste the code and there are two scenarios that may occur. Refer to 7a. and 7b.
-
-7a. When you paste your code, look at the beginning, you should see " javascript: "(WITHOUT THE QUOTES AND SPACES), if you do, press save, if not, refer to 7b.
-
-7b. All you have to do is copy or type " javascript: " (WITHOUT THE QUOTES AND SPACES) in front of ALL OF THE CODE! Once that is done press save!
-
-Want to get your own codes added? Contact us and we can discuss a partnership! Enjoy the extensions!
-
-[Main Page](#MGS-Discord-Bot)
-
-------------------------------------------------------------------------------------------------------------------------------------------------------
-# **JavaScript Game Codes**
-
-Just like the extra codes, we have added new programs that have **no relation to Discord Bots or Discord** at all. These are game codes that were made with code.org and provided by a the MGS Ceo, and other colleagues. We generously provided these codes so you guys could make your own games. Enjoy it.
-
-- [Dino Game](https://github.com/Zenoleader/MGS-Bot/blob/main/JS%20Game%20codes/DinoGame.js)
-- [Dino Guard](https://github.com/Zenoleader/MGS-Bot/blob/main/JS%20Game%20codes/DinoGuard.js)
-- [Dino Jump](https://github.com/Zenoleader/MGS-Bot/blob/main/JS%20Game%20codes/DinoJump.js)
 
 [Main Page](#MGS-Discord-Bot)
 
@@ -231,7 +191,9 @@ Just like the extra codes, we have added new programs that have **no relation to
 
 **7. Loss of Moolah:** By using the economy feature of MGS, you agree to allow MGS to take Moolah from your account if we deem it necessary. **Reasons it would be necessary: Grown at an inorganic rate, inflation of Moolah, MGS inactivity, and misuse of the gift command.**
 
-**8. Questions:** Have any questions or concerns about our terms? Don't fret, just email us: [mgsmoderation@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=mgsmoderation@gmail.com). **Our responses could take 3-5 business days.**
+**8.Intentional Bot Crashing:** Crashing the bot will not be tolerated. Not only is this annoying, it's bad for our servers. Doing so will result in a blacklist.
+
+**9. Questions:** Have any questions or concerns about our terms? Don't fret, just email us: [mgsmoderation@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=mgsmoderation@gmail.com). **Our responses could take 3-5 business days.**
 
 [Main Page](#MGS-Discord-Bot)
 
