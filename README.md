@@ -13,7 +13,7 @@
       <a href="#INFO">Info</a>
     </li>
     <li>
-    <a href="#DEVELPMENT-TEAM">Meet the team!</a>
+    <a href="#DEVELOPMENT-TEAM">Meet the team!</a>
     </li>
     <li><a href="#UPDATES">Updates</a></li>
      <li><a href="#FEATURED-COMMANDS">Featured Commands</a></li>
