@@ -135,7 +135,7 @@ Here are the featured commands of the year! We update this every year (Or month 
 
 **3. Social Media:** By using our codes, you agree that we will have to consent you on making videos, posts, pictures etc. about our sites/codes. If we feel you are violating those terms, we will remove your access from this respitory & will report you to GitHub Support. **We take social media very lightly, so you can post any time as long as you have read this.**
 
-**4. Contact us:** Have any questions or concerns about our terms? Don't fret, just email us: [zenoytmoderator@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=zenoytmoderator@gmail.com). **Our responses could take 3-5 business days.**
+**4. Contact us:** Have any questions or concerns about our terms? Don't fret, just email us: [mgsmoderation@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=mgsmoderation@gmail.com). **Our responses could take 3-5 business days.**
 
 [Main Page](#MGS-Discord-Bot)
 
