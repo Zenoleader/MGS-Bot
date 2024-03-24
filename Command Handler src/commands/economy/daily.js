@@ -1,9 +1,10 @@
 const Discord = require('discord.js');
 const { QuickDB } = require("quick.db");
 const db = new QuickDB()
+
 module.exports = {
   name: 'daily',
-  description: 'Get your daily!',
+  description: 'Get your daily amount of cash!',
   async execute(message) {
 
       const user = message.author
@@ -16,19 +17,12 @@ module.exports = {
   
       // Give the user their reward and update the last claimed date in the database
       // You can put any number, but here we'll choose a number using the possible variable
-      var possible = [
-        "10",
-        "100",
-        "20",
-        "9,999",
-        //You could also make a streak
-        ]
+      var possible = ["10",  "100",  "20",  "9,999" ]
       
       const rewardAmount = possible[Math.floor(Math.random() * possible.length)];
       await db.set(`lastClaimed_${user.id}`, new Date().toLocaleDateString());
       await db.add(`balance_${user.id}`, rewardAmount);
       
       return message.channel.send(`Nice! You claimed ${rewardAmount} coins from your daily! Come back tomorrow!`);
-
   }
 }
