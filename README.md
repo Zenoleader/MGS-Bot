@@ -1,4 +1,4 @@
-[![MGS GitHub Banner](https://user-images.githubusercontent.com/119907481/219827160-c69c91be-0c53-4fa0-9b97-7f649683fab4.png)](https://mountaingamingstudio.wixsite.com/mountaingaming)
+[![MGS GitHub Banner](https://user-images.githubusercontent.com/119907481/219827160-c69c91be-0c53-4fa0-9b97-7f649683fab4.png)](https://mgs-bot-official.vercel.app/)
 
 
 # [MGS Discord Bot](https://discord.com/application-directory/962834876665577542)
@@ -62,7 +62,7 @@ Want to join Mountain Gaming Studios? Refer to here: [MGS Applications](https://
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 # **UPDATES**
 
-MGS has been hard at work since it's last github update! MGS has released new and improved features of commands! We are working to release them to you!
+All commands have been fixed & modified! We are currently working to add more, so just stay put.
 
 [Main Page](#MGS-Discord-Bot)
 
@@ -84,7 +84,7 @@ Here are our featured MGS commands! We plan to update these as we add more comma
 - [Add the bot](https://discord.com/application-directory/962834876665577542)
 - [top.gg](https://top.gg/bot/962834876665577542)
 - [Mountain Gaming Studios](https://www.roblox.com/groups/11791011/Mountain-Gaming-Studios)
-- [Website](https://mgsbot.vercel.app/)
+- [Website](https://mgs-bot-official.vercel.app/)
 - [Discord.js Github](https://github.com/discordjs/discord.js)
 
 [Main Page](#MGS-Discord-Bot)
@@ -165,6 +165,6 @@ Here are our featured MGS commands! We plan to update these as we add more comma
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 If any problems are found, **please join the support server, open a ticket (or use the report commands in an external server. Doesn't really matter), describe the problem, and a staff member will be with you shortly.**
 
-![Mountain Gaming](https://user-images.githubusercontent.com/119907481/219535225-afbc528f-a45b-457c-ba10-9ca6ffd742e1.png) ![Mountain Gaming (2)](https://user-images.githubusercontent.com/119907481/219905725-3b291a15-2dce-40dc-9d82-3288d7ff374d.png)
+![MGS v1](https://user-images.githubusercontent.com/119907481/219535225-afbc528f-a45b-457c-ba10-9ca6ffd742e1.png) ![MGS v2](https://user-images.githubusercontent.com/119907481/219905725-3b291a15-2dce-40dc-9d82-3288d7ff374d.png)
 
 
