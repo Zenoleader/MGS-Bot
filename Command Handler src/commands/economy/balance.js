@@ -4,7 +4,7 @@ const db = new QuickDB()
 
 module.exports = {
   name: 'balance',
-  aliases: ['bal', 'bank'],
+  aliases: ['bal', 'money', 'wallet', 'bank'],
   description: 'See the balance of you / other users!',
   async execute(message) {
 
@@ -13,9 +13,7 @@ const user = message.author;
     if (balance === null) {
       await message.channel.send(`${user} doesn't have a balance.`)
     } else {
-       const format = balance.toLocaleString()
-      await message.channel.send(`${user}'s balance is currently ${format} Cash!`)
+      await message.channel.send(`${user}'s balance is currently ${balance.toLocaleString()} Cash!`)
     }
-
   }
 }
