@@ -1,16 +1,15 @@
- //This project was made by Zeno#2951, oof.png#2521, and Purplecake613#4099 (discord users). Founders of Mountain Gaming Studios.
-  //Make sure to play FLOOR IS NEON RED on Roblox and give it a like and favorite!
-  //All rights reserved.
+//This project was made by Zeno#2951, oof.png#2521, and Purplecake613#4099 (discord users). Founders of Mountain Gaming Studios.
+//All rights reserved.
   
   const express = require("express");
   const app = express();
   
   app.listen(3000, () => {
-    console.log("Project is running! Play floor is neon red on Roblox! ( ͡° ͜ʖ ͡°)  ");
+    console.log("Project is running! ( ͡° ͜ʖ ͡°)  ");
   })
   
   app.get("/", (req, res) => {
-    res.send("Hello there ( ͡° ͜ʖ ͡°).  This project was made by Zeno#2951, oof.png#2521, and Purplecake613#4099 (discord users). Founders of Mountain Gaming.");
+    res.send("Hello there ( ͡° ͜ʖ ͡°).  This project was made by zenoytleader, ploof.png, and hayleepurplecake (discord users). Founders of MGS.");
   })
   
   
@@ -23,12 +22,11 @@
 
 client.commands = new Discord.Collection();
 
-const commandFolders = fs.readdirSync('./commands');
-
+const commandFolders = fs.readdirSync('./Command Handler src');
 for (const folder of commandFolders) {
-  const commandFiles = fs.readdirSync(`./commands/${folder}`).filter(file => file.endsWith('.js'));
+  const commandFiles = fs.readdirSync(`./Command Handler src/${folder}`).filter(file => file.endsWith('.js'));
   for (const file of commandFiles) {
-    const command = require(`./commands/${folder}/${file}`);
+    const command = require(`./Command Handler src/${folder}/${file}`);
     client.commands.set(command.name, command);
   }
 }
@@ -39,18 +37,16 @@ client.on('messageCreate', message => {
 
   const args = message.content.slice(prefix.length).trim().split(/ +/);
   const commandName = args.shift().toLowerCase();
-  const pro = "https://cdn.discordapp.com/avatars/962834876665577542/c82491d1cbec349c6b9f6178b9e7e869.webp?size=512"
-
   const command = client.commands.get(commandName) || client.commands.find(cmd => cmd.aliases && cmd.aliases.includes(commandName));
 
   if (!command) return;
 
   try {
-    command.execute(message, args, pro);
+    command.execute(message, args);
   } catch (error) {
     console.error(error);
     message.reply({content: 'An error occurred while executing the command.', ephemeral: true});
   }
 });
 
-client.login(process.env.token);
+client.login("TOKEN");
