@@ -34,26 +34,7 @@
 
 Made with [node.js](https://nodejs.org/en/), programmed by [Mountain Gaming Studios](https://mgsbot.vercel.app/), 100% safe, interaction bot. Please don't modify the code for the malicious reasons. Use this nicely. All file names are what you need to name them when creating your file. For example, if you're trying to do the [index.js](https://github.com/Zenoleader/MGS-Bot/blob/main/Command%20Handler%20src/index.js), you need to go to where ever you are programming and make a file called [index.js](https://github.com/Zenoleader/MGS-Bot/blob/main/Command%20Handler%20src/index.js). Same for everything else. You will need to download **[discord.js v13](https://v13.discordjs.guide/)**. No other version will work with the code provided. The MGS bot team uses [replit](https://replit.com) to program our bot (We recommend this if you are working with a team)! (Codes are all modified so they don't look exactly like the actual MGS commands. This is due to copying and people being lazy)
 
-**YOU ADD ALL THE COMMANDS IN THE INDEX.JS FILE INSIDE THE SAME CLIENT:** 
-
-```js
-const Discord = require('discord.js')
-//remember it's v13
-
-const client = new Discord.Client({intents: ["GUILDS", "GUILD_MESSAGES"]}); 
-//you can always add more intents
-
-client.on("messageCreate", message => {
-  if(message.content === 'hello') {
-    message.channel.send("Hi.")
-  }
-  if(message.content === "this is the second thing") {
-  message.channel.send("Ok 👌")
-  }
-}) 
-``` 
-
-*refer to [Example Code.js](https://github.com/Zenoleader/MGS-Bot/blob/main/Example%20Code.js) if you still don't understand.
+**THE INDEX.JS FILE IS THE START FILE FOR ALL THE COMMANDS** 
 
 **DOWNLOAD [DISCORD.JS](https://discord.js.org/#/): ```npm i discord.js@13.15.1```** 
 
