@@ -23,21 +23,7 @@
 </details>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-**THIS BOT IS MADE BY zenoytleader, hayleepurplecake, and ploof.png!**
-
-In places where it says token, you need to make a secret in [replit](https://replit.com) or [visual code](https://code.visualstudio.com/) (for visual studio, you need to paste your actual token in the login. Ex: client.login("YOUR BOT TOKEN") ). Name the secret token and paste you discord bots token there. discord.js is needed to make all of this work. You can always add more commands or edit the ones already there. If any errors are found, just tell us, we don't want you guys to not understand why it didn't work.
-
-replit: 
-```js 
-client.login(process.env.token);
-```
-
-visual studio: 
-```js 
-client.login("TOKEN");
-```
-
-* Note: We think the reason for this is for your bots safety. Visual studio is a one person platform, so your token can't really be seen by anyone else unless you show them. Replit projects are all public, so anyone can see it (unless you pay to get it private). That's why replit created the [secret](https://docs.replit.com/programming-ide/workspace-features/storing-sensitive-information-environment-variables) tool so all your tokens or private things stay private.
+**This application was made by zenoytleader, hayleepurplecake, and ploof.png**
 
 **⚠️[MOUNTAIN GAMING STUDIOS](https://mgsbot.vercel.app) IS NOT RESPONSIBLE FOR ANY DATA LOSS OR BOT FRAUD. IF YOU COMMIT FRAUD, BREAK DISCORD TOS, OR FIND ANY WAY TO GET YOUR BOT BANNED OR ACCOUNT BANNED, WE ARE NOT RESPONSIBLE. TO SUM IT UP: WE ARE NOT RESPONSIBLE FOR ANYTHING YOU DO.⚠️**
 
@@ -46,7 +32,7 @@ client.login("TOKEN");
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 # **INFO:**
 
-Made with [node.js](https://nodejs.org/en/), programmed by [Mountain Gaming Studios](https://mgsbot.vercel.app/), 100% safe, interaction bot. Please don't edit the code for the wrong reasons. Use this nicely. All file names are what you need to name them when creating your file. For example, if you're trying to do the [index.js](https://github.com/Zenoleader/MGS-Bot/blob/main/Main-files/index.js), you need to go to where ever you are programming and make a file called [index.js](https://github.com/Zenoleader/MGS-Bot/blob/main/Main-files/index.js). Same for everything else. You will need to download **[discord.js v13](https://v13.discordjs.guide/)**. No other version will work with the code provided. The MGS bot team uses [replit](https://replit.com) to program our bot (We recommend this if you are working with a team)! (Codes are all modified so they don't look exactly like the actual MGS commands. This is due to copying and people being lazy)
+Made with [node.js](https://nodejs.org/en/), programmed by [Mountain Gaming Studios](https://mgsbot.vercel.app/), 100% safe, interaction bot. Please don't modify the code for the malicious reasons. Use this nicely. All file names are what you need to name them when creating your file. For example, if you're trying to do the [index.js](https://github.com/Zenoleader/MGS-Bot/blob/main/Command%20Handler%20src/index.js), you need to go to where ever you are programming and make a file called [index.js](https://github.com/Zenoleader/MGS-Bot/blob/main/Command%20Handler%20src/index.js). Same for everything else. You will need to download **[discord.js v13](https://v13.discordjs.guide/)**. No other version will work with the code provided. The MGS bot team uses [replit](https://replit.com) to program our bot (We recommend this if you are working with a team)! (Codes are all modified so they don't look exactly like the actual MGS commands. This is due to copying and people being lazy)
 
 **YOU ADD ALL THE COMMANDS IN THE INDEX.JS FILE INSIDE THE SAME CLIENT:** 
 
