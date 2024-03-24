@@ -69,13 +69,11 @@ MGS has been hard at work since it's last github update! MGS has released new an
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 # **FEATURED COMMANDS**
 
-Here are the featured commands of the year! We update this every year (Or month if we fell like it) so people can know which commands are best to add to their bot! If you think we need to add a different command here, just let us know!
+Here are our featured MGS commands! We plan to update these as we add more commands.
 
-- [Rob Command](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Economy/rob.js)
-- [Balance Command](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Economy/balance.js)
-- [Kick Command](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Moderation/Kick.js)
-- [Slowmode Command](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Moderation/slowmode.js)
-- [Meme Command](https://github.com/Zenoleader/MGS-Bot/blob/main/Commands/Fun/meme.js)
+- [Rob Command](https://github.com/Zenoleader/MGS-Bot/blob/main/Command%20Handler%20src/commands/economy/rob.js)
+- [Balance Command](https://github.com/Zenoleader/MGS-Bot/blob/main/Command%20Handler%20src/commands/economy/balance.js)
+- [Kick Command](https://github.com/Zenoleader/MGS-Bot/edit/main/Command%20Handler%20src/commands/moderation/kick.js)
 
 [Main Page](#MGS-Discord-Bot)
 
@@ -84,7 +82,6 @@ Here are the featured commands of the year! We update this every year (Or month 
 
 - [Support Server](https://discord.gg/zenoyt-official-server-845476765702946846)
 - [Add the bot](https://discord.com/application-directory/962834876665577542)
-- [FLOOR IS NEON RED](https://www.roblox.com/games/7231457999/FLOOR-IS-NEON-RED)
 - [top.gg](https://top.gg/bot/962834876665577542)
 - [Mountain Gaming Studios](https://www.roblox.com/groups/11791011/Mountain-Gaming-Studios)
 - [Website](https://mgsbot.vercel.app/)
