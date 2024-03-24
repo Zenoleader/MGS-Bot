@@ -4,7 +4,8 @@ const db = new QuickDB()
 
 module.exports = {
   name: 'rob',
-  description: 'See the balance of you / other users!',
+  aliases: ['steal']
+  description: 'rob other users of their money!',
   async execute(message, args) {
 
         const amount = parseInt(args[0]);
@@ -48,9 +49,8 @@ module.exports = {
       await db.get(`balance_${message.author.id}`)
       console.log(`After ${afterBalance}`)
       await db.sub(`balance_${targetId}`, amount);
-      const format = amount.toLocaleString()
   
-      await message.channel.send(`You successfully robbed **${target.username}** and gained **${format} ** Cash!`);
+      await message.channel.send(`You successfully robbed **${target.username}** and gained **${amount.toLocaleString()} ** Cash!`);
         
       } else {   
         await db.sub(`balance_${message.author.id}`, 100)
