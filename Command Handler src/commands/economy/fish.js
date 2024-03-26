@@ -67,7 +67,7 @@ module.exports = {
         .setTitle("🐟 Fish")
         .addFields(
           {
-            name: `${message.author.tag} fished...`,
+            name: `${message.author.username} fished...`,
             value: `${thing}`
           }
         )
@@ -77,6 +77,6 @@ module.exports = {
       message.channel.send({ embeds: [fishembed] })
   } catch (error) {
     console.log(error)
-  }
+    }
   }
 }
