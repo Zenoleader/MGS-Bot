@@ -1,4 +1,4 @@
-//This project was made by Zeno#2951, oof.png#2521, and Purplecake613#4099 (discord users). Founders of Mountain Gaming Studios.
+//This project was made by zenoytleader, ploof.png, and hayleepurplecake (discord users). Founders of MGS.
 //All rights reserved.
   
   const express = require("express");
@@ -45,7 +45,6 @@ client.on('messageCreate', message => {
     command.execute(message, args);
   } catch (error) {
     console.error(error);
-    message.reply({content: 'An error occurred while executing the command.', ephemeral: true});
   }
 });
 
