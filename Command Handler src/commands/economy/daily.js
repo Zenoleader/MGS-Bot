@@ -17,12 +17,12 @@ module.exports = {
   
       // Give the user their reward and update the last claimed date in the database
       // You can put any number, but here we'll choose a number using the possible variable
-      var possible = ["10",  "100",  "20",  "9,999" ]
+      var possible = ["10",  "100",  "20",  "9999", '1000000' ]
       
       const rewardAmount = possible[Math.floor(Math.random() * possible.length)];
       await db.set(`lastClaimed_${user.id}`, new Date().toLocaleDateString());
       await db.add(`balance_${user.id}`, rewardAmount);
       
-      return message.channel.send(`Nice! You claimed ${rewardAmount} coins from your daily! Come back tomorrow!`);
+      return message.channel.send(`Nice! You claimed **${rewardAmount.toLocaleString()}** coins from your daily! Come back tomorrow!`);
   }
 }
