@@ -7,8 +7,8 @@ module.exports = {
   description: 'Earn some money!',
   async execute(message) {
 
-    onst user = message.author;
-    const amount = 100 // you can always edit this
+    const user = message.author;
+    const amount = 1000 // you can always edit this
 
     let beforeBalance = await db.get(`balance_${user.id}`)
     if (beforeBalance === null) {
