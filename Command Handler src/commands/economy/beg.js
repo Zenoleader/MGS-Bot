@@ -36,6 +36,6 @@ module.exports = {
     await db.add(`balance_${user.id}`, amount);
     const afterBalance = await db.get(`balance_${user.id}`);
   
-    await message.reply(`${result}`)
+    await message.channel.send(`${result}`)
   }
 }
