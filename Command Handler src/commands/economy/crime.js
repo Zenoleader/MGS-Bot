@@ -15,6 +15,7 @@ module.exports = {
     if (success) {
       let reward = randomCrime.reward;
       await db.add(`balance_${message.author.id}`, reward)
+      
       let embed = new Discord.MessageEmbed()
       .setTitle(`Crime committed!`)
       .setDescription(`You successfully committed **${randomCrime.name}** and earned **${reward.toLocaleString()}** Moolah!`)
@@ -32,7 +33,7 @@ module.exports = {
       if (logChannel) {
         logChannel.send({embeds: [log]});
       }
-      return message.reply({embeds: [embed]});
+      return message.channel.send({embeds: [embed]});
 
     } else {
 
@@ -52,8 +53,7 @@ module.exports = {
       if (logChannel) {
         logChannel.send({embeds: [log2]});
       }
-      return message.reply({embeds: [embed2]});
-    }
-    
+      return message.channel.send({embeds: [embed2]});
+    }  
   }
 }
