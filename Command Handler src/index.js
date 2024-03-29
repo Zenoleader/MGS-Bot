@@ -32,7 +32,7 @@ for (const folder of commandFolders) {
 }
 
 client.on('messageCreate', message => {
-    const prefix = "!" //set as desired
+  const prefix = "!" //set as desired
   if (!message.content.startsWith(prefix) || message.author.bot || !message.guild) return;
 
   const args = message.content.slice(prefix.length).trim().split(/ +/);
@@ -46,6 +46,22 @@ client.on('messageCreate', message => {
   } catch (error) {
     console.error(error);
   }
+});
+
+client.on("ready", async () => {
+
+  let s = client.guilds.cache.size
+  let c = client.channels.cache.size
+  let u = client.users.cache.size
+  const { totalMemMb, usedMemMb } = await mem.info();
+
+  var activities = [`${s} servers`, `${c} channels`,`${u} users`
+  ]
+
+  setInterval(() => {
+    const status = activities[Math.floor(Math.random() * activities.length)]
+    client.user.setPresence({ activities: [{ name: `${status}`, type: 'STREAMING', url: "https://www.twitch.tv/mountaingamingstudios" }] });
+  }, 60000)
 });
 
 client.login("TOKEN");
