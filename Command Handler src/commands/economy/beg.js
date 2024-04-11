@@ -9,7 +9,7 @@ module.exports = {
     
     const user = message.author;
   
-    const amount1 = [  "Stop begging. You really think someone is giving you something?", `Sure, why not. Here's **5** Moolah!`,  `Go away. I've got somewhere I've gotta be.`,  `Why?`,  "Nah. I am saving for something else.", `Of course! Here's **1000** Moolah!`,  "Never in a trillion years.", "You have L rizz tbh.",  "Can you not?", `God gives... **5000** Moolah!`, "Sit down, be humble.", "Is the sky purple?",  "You are?...",  "Who are you again?",  `I found **100** Moolah earlier, I guess you can have it.`,  `*throws **567** Moolah at you*`,  'Purplecake613 wants to give you **613** Moolah for your troubles.',]
+    const amount1 = [  "Stop begging. You really think someone is giving you something?", `Sure, why not. Here's **5** Moolah!`,  `Go away. I've got somewhere I've gotta be.`,  `Why?`,  "Nah. I am saving for something else.", `Of course! Here's **1000** Moolah!`,  "Never in a trillion years.", "You have L rizz tbh.",  "Can you not?", `God gives... **5000** Moolah!`, "Sit down, be humble.", "Is the sky purple?",  "You are?...",  "Who are you again?",  `I found **100** Moolah earlier, I guess you can have it.`,  `*throws **567** Moolah at you*`,  'Purplecake613 wants to give you **613** Moolah for your troubles.']
     const result = amount1[Math.floor(Math.random() * amount1.length)];
     let amount = 0;
     if (result.includes("**")) {
