@@ -7,48 +7,48 @@ module.exports = {
   description: 'Go fishing!',
   async execute(message, pro) {
   
-      var fish = ['🐟 | pirahna','🐟 | pirahna', '🐟 | pirahna', '🐟 | pirahna', '🐟 | pirahna', '🐟 | pirahna', '🐟 | pirahna', '🐟 | pirahna', '🐟 | pirahna', '🐟 | salmon',  '🐟 | salmon', '🐟 | salmon',  '🐟 | salmon', '🐟 | salmon', '🐟 | salmon',  '🦀 | Crab', '🦀 | Crab',  '🦀 | Crab',   '🐟 | Epic Fish', '🐟 | Epic Fish', '🥾 | Right Shoe', '🥾 | Left Shoe', '💀 | Nothing. (Fish again!)',  '💀 | Nothing. (Fish again!)',  '💀 | Nothing. (Fish again!)', '💀 | Nothing. (Fish again!)', '💀 | Nothing. (Fish again!)',  '🧀 | Cheese (Purplecake is proud)',  '🍞 | Bread (oof.png is proud)', '🌿 | Seaweed', '💵 | Worthless Wet Cash', '🐠 | LEGENDARY FISH OMG OMG OMG', "🦈 | Shark"
+      var fish = ['🐟 | pirahna','🐟 | pirahna', '🐟 | pirahna', '🐟 | pirahna', '🐟 | pirahna', '🐟 | pirahna', '🐟 | pirahna', '🐟 | pirahna', '🐟 | pirahna', '🐟 | salmon',  '🐟 | salmon', '🐟 | salmon',  '🐟 | salmon', '🐟 | salmon', '🐟 | salmon',  '🦀 | Crab', '🦀 | Crab',  '🦀 | Crab',   '🐟 | Epic Fish', '🐟 | Epic Fish', '🥾 | Right Shoe', '🥾 | Left Shoe', '💀 | Nofishes. (Fish again!)',  '💀 | Nofishes. (Fish again!)',  '💀 | Nofishes. (Fish again!)', '💀 | Nofishes. (Fish again!)', '💀 | Nofishes. (Fish again!)',  '🧀 | Cheese (Purplecake is proud)',  '🍞 | Bread (oof.png is proud)', '🌿 | Seaweed', '💵 | Worthless Wet Cash', '🐠 | LEGENDARY FISH OMG OMG OMG', "🦈 | Shark"
       ]
   
       let amount = 0;
-      let thing = fish[Math.floor(Math.random() * fish.length)]
-      if (thing === '🐟 | pirahna') {
+      let fishes = fish[Math.floor(Math.random() * fish.length)]
+      if (fishes === '🐟 | pirahna') {
         amount = 10000
       }
-      if (thing === '🐟 | salmon') {
+      if (fishes === '🐟 | salmon') {
         amount = 10001
       }
-      if (thing === '🦀 | Crab') {
+      if (fishes === '🦀 | Crab') {
         amount = 20000
       }
-      if (thing === '🐟 | Epic Fish') {
+      if (fishes === '🐟 | Epic Fish') {
         amount = 100000
       }
-      if (thing === '💀 | Nothing. (Fish again!)') {
+      if (fishes === '💀 | Nothing. (Fish again!)') {
         amount = 0
       }
-      if (thing === '🥾 | Right Shoe') {
+      if (fishes === '🥾 | Right Shoe') {
         amount = 1
       }
-      if (thing === '🥾 | Left Shoe') {
+      if (fishes === '🥾 | Left Shoe') {
         amount = 1
       }
-      if (thing === '🧀 | Cheese (Purplecake is proud)') {
+      if (fishes === '🧀 | Cheese (Purplecake is proud)') {
         amount = 900
       }
-      if (thing === '🍞 | Bread (oof.png is proud)') {
+      if (fishes === '🍞 | Bread (oof.png is proud)') {
         amount = 900
       }
-      if (thing === '💵 | Worthless Wet Cash') {
+      if (fishes === '💵 | Worthless Wet Cash') {
         amount = 0;
       }
-      if (thing === '🌿 | Seaweed') {
+      if (fishes === '🌿 | Seaweed') {
         amount = 2
       }
-      if (thing === '🐠 | LEGENDARY FISH OMG OMG OMG') {
+      if (fishes === '🐠 | LEGENDARY FISH OMG OMG OMG') {
         amount = 200000
       }
-      if (thing === '🦈 | Shark') {
+      if (fishes === '🦈 | Shark') {
         amount = 2000000
       }
   
@@ -68,7 +68,7 @@ module.exports = {
         .addFields(
           {
             name: `${message.author.username} fished...`,
-            value: `${thing}`
+            value: `${fishes}`
           }
         )
         .setFooter(`You just earned ${amount.toLocaleString()} cash!`)
