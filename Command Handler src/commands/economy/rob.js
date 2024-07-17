@@ -4,7 +4,7 @@ const db = new QuickDB()
 
 module.exports = {
   name: 'rob',
-  aliases: ['steal']
+  aliases: ['steal'],
   description: 'rob other users of their money!',
   async execute(message, args) {
 
