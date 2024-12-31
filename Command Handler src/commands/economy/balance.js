@@ -13,10 +13,10 @@ const user = message.author;
     if (balance === null) {
       await message.channel.send(`${user} doesn't have a balance.`)
     } else {
-      let embed = new Discord.MessageEmbed()
+      let embed = new Discord.EmbedBuilder()
       .setTitle(`${user}'s balance`)
       .setDescription(`**${balance.toLocaleString()}** Cash`)
-      .setColor("RANDOM")
+      .setColor("#000000")
       
       await message.channel.send({embeds: [embed})
     }
