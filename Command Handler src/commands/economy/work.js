@@ -20,10 +20,9 @@ module.exports = {
     const afterBalance = await db.get(`balance_${user.id}`)
     console.log(`After ${afterBalance}`)
 
-      let embed = new Discord.MessageEmbed()
+      let embed = new Discord.EmbedBuilder()
         .setTitle("The day ends!")
         .setDescription(`Nice job at work! Here's your payment: ${amount}. Now you have **${afterBalance}** dollars in your account!`)
-        .setColor("RANDOM")
         .setTimestamp()
       
       await message.channel.send({ embeds: [embed] })
