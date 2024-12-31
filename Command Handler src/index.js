@@ -15,14 +15,24 @@
   
   
   //MESSAGES (;)
-  const Discord = require("discord.js");
-  const client = new Discord.Client({
-    partials: ["CHANNEL"], intents: ["GUILDS", "GUILD_MESSAGES", "GUILD_MEMBERS", "DIRECT_MESSAGES"], allowedMentions: { parse: ['users', 'roles'], repliedUser: true }
-  });
+const Discord = require("discord.js");
+const client = new Discord.Client({
+  partials: [Discord.Partials.Channel],
+  intents: [
+    Discord.GatewayIntentBits.Guilds,
+    Discord.GatewayIntentBits.MessageContent,
+    Discord.GatewayIntentBits.GuildMessages,
+    Discord.GatewayIntentBits.GuildMembers,
+    Discord.GatewayIntentBits.DirectMessages
+  ],
+  allowedMentions: {
+    parse: ['users', 'roles'],
+    repliedUser: true
+  }
+});
 
 client.commands = new Discord.Collection();
 
-const commandFolders = fs.readdirSync('./commands');
 for (const folder of commandFolders) {
   const commandFiles = fs.readdirSync(`./commands/${folder}`).filter(file => file.endsWith('.js'));
   for (const file of commandFiles) {
