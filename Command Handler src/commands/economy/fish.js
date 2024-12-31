@@ -63,7 +63,7 @@ module.exports = {
       await db.get(`balance_${user.id}`)
       console.log(`${message.author.username} After fish: ${afterBalance.toLocaleString()}`)
       
-      let fishembed = new Discord.MessageEmbed()
+      let fishembed = new Discord.EmbedBuilder()
         .setTitle("🐟 Fish")
         .addFields(
           {
@@ -71,7 +71,7 @@ module.exports = {
             value: `${fishes}`
           }
         )
-        .setFooter(`You just earned ${amount.toLocaleString()} cash!`)
+        .setFooter({text: `You just earned ${amount.toLocaleString()} cash!`})
         .setTimestamp()
   try {
       message.channel.send({ embeds: [fishembed] })
