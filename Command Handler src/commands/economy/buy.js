@@ -64,20 +64,18 @@ module.exports = {
       inventory[itemId] = (inventory[itemId] || 0) + quantity;
       await db.set(`inventory_${user.id}`, inventory);
 
-      const boughtEmbed = new Discord.MessageEmbed()
+      const boughtEmbed = new Discord.EmbedBuilder()
         .setTitle("🪙 | Item purchased!")
         .setDescription(`You bought **${quantity.toLocaleString()}x ${item.name}** for **${itemPrice.toLocaleString()}** cash!`)
-        .setColor("RED")
         .setTimestamp();
 
-      const receiptEmbed = new Discord.MessageEmbed()
+      const receiptEmbed = new Discord.EmbedBuilder()
         .setTitle("🪙 | Item purchased!")
         .setDescription(`**${message.author.username}** bought **${quantity.toLocaleString()}x ${item.name}** for **${itemPrice.toLocaleString()}** cash!`)
-        .setFooter(`ID: ${message.author.id}`)
-        .setColor("GREEN")
+        .setFooter({text: `ID: ${message.author.id}`})
         .setTimestamp();
 
-      message.client.channels.cache.get(CHANNEL_ID).send({ content: `User ID: ${message.author.id}`, embeds: [receiptEmbed] });
+      message.client.channels.cache.get("CHANNEL_ID").send({ content: `User ID: ${message.author.id}`, embeds: [receiptEmbed] });
       await message.channel.send({ embeds: [boughtEmbed] });
     } catch (error) {
       console.log(error)
