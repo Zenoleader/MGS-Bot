@@ -16,16 +16,15 @@ module.exports = {
       let reward = randomCrime.reward;
       await db.add(`balance_${message.author.id}`, reward)
       
-      let embed = new Discord.MessageEmbed()
+      let embed = new Discord.EmbedBuilder()
       .setTitle(`Crime committed!`)
       .setDescription(`You successfully committed **${randomCrime.name}** and earned **${reward.toLocaleString()}** Moolah!`)
       .setTimestamp()
       
 
-      let log = new Discord.MessageEmbed()
+      let log = new Discord.EmbedBuilder()
       .setTitle("A crime was committed!")
       .setDescription(`**${message.author.tag}** successfully committed **${randomCrime.name}**. Reward: **${reward.toLocaleString()}**`)
-      .setColor("DARK_RED")
       .setTimestamp()
       
       // Send a log message to the designated channel
@@ -37,16 +36,15 @@ module.exports = {
 
     } else {
 
-       let embed2 = new Discord.MessageEmbed()
+       let embed2 = new Discord.EmbedBuilder()
       .setTitle(`Crime committed!`)
       .setDescription(`You attempted to commit ${randomCrime.name}, but you got caught! Better luck next time.`)
       .setTimestamp()
       
 
-      let log2 = new Discord.MessageEmbed()
+      let log2 = new Discord.EmbedBuilder()
       .setTitle("A crime was committed!")
       .setDescription(`**${message.author.tag}** got caught while attempting **${randomCrime.name}**.`)
-      .setColor("DARK_RED")
       .setTimestamp()
 
       const logChannel = message.client.channels.cache.get("LOG_CHANNEL_ID");
