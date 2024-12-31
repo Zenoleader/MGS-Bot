@@ -14,10 +14,9 @@ module.exports = {
           return `**${item.name}** -  ${item.description} **Cost:** ${item.value.toLocaleString()} Moolah`
           });
           
-          const itemListEmbed = new Discord.MessageEmbed()
+          const itemListEmbed = new Discord.EmbedBuilder()
           .setTitle("Shop")
           .setDescription(itemStrings.join('\n'))
-          .setColor("RANDOM")
           .setTimestamp()
           
           await message.channel.send({embeds: [itemListEmbed]})
