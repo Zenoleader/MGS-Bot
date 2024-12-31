@@ -32,11 +32,11 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 # **INFO:**
 
-Made with [node.js](https://nodejs.org/en/), programmed by [Mountain Gaming Studios](https://mgsbot.vercel.app/), 100% safe, interaction bot. Please don't modify the code for the malicious reasons. Use this nicely. All file names are what you need to name them when creating your file. For example, if you're trying to do the [index.js](https://github.com/Zenoleader/MGS-Bot/blob/main/Command%20Handler%20src/index.js), you need to go to where ever you are programming and make a file called [index.js](https://github.com/Zenoleader/MGS-Bot/blob/main/Command%20Handler%20src/index.js). Same for everything else. You will need to download **[discord.js v13](https://v13.discordjs.guide/)**. No other version will work with the code provided. The MGS bot team uses [replit](https://replit.com) to program our bot (We recommend this if you are working with a team)! (Codes are all modified so they don't look exactly like the actual MGS commands. This is due to copying and people being lazy)
+Made with [node.js](https://nodejs.org/en/), programmed by [Mountain Gaming Studios](https://mgsbot.vercel.app/), 100% safe, interaction bot. Please don't modify the code for the malicious reasons. Use this nicely. All file names are what you need to name them when creating your file. For example, if you're trying to do the [index.js](https://github.com/Zenoleader/MGS-Bot/blob/main/Command%20Handler%20src/index.js), you need to go to where ever you are programming and make a file called [index.js](https://github.com/Zenoleader/MGS-Bot/blob/main/Command%20Handler%20src/index.js). Same for everything else. You will need to download **[discord.js v14](https://v13.discordjs.guide/)**. No other version will work with the code provided. The MGS bot team uses [replit](https://replit.com) to program our bot (We recommend this if you are working with a team)! (Codes are all modified so they don't look exactly like the actual MGS commands. This is due to copying and people being lazy)
 
 **THE INDEX.JS FILE IS THE START FILE FOR ALL THE COMMANDS** 
 
-**DOWNLOAD [DISCORD.JS](https://discord.js.org/#/): ```npm i discord.js@13.15.1```** 
+**DOWNLOAD [DISCORD.JS](https://discord.js.org/#/): ```npm i discord.js@14```** 
 
 **⚠️ WE WILL NOT SPOON FEED YOU WITH PROGRAMMING. IF YOU DON'T UNDERSTAND SOMETHING PLEASE TRY TO FIGURE IT OUT FIRST THEN ASK US.⚠️**
 
@@ -51,18 +51,14 @@ Made with [node.js](https://nodejs.org/en/), programmed by [Mountain Gaming Stud
 
 **hayleepurplecake**- Co-founder of MGS, Devloper for FLOOR IS NEON RED and MGS Discord bot. urg burg cheese meese🧀
 
-**ninjaxp30**- Developer for FLOOR IS NEON RED.
-
-**DannyCool65#3214**- Developer for FLOOR IS NEON RED on Roblox.
-
-Want to join Mountain Gaming Studios? Refer to here: [MGS Applications](https://github.com/Zenoleader/MGS-Bot/blob/main/.github/Issues%20Template/Applications.md). We thank you for checking our studio out!! 👍
+[CLOSED] Want to join Mountain Gaming Studios? Refer to here: [MGS Applications](https://github.com/Zenoleader/MGS-Bot/blob/main/.github/Issues%20Template/Applications.md). We thank you for checking our studio out!! 👍
 
 [Main Page](#MGS-Discord-Bot)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 # **UPDATES**
 
-All commands have been fixed & modified! We are currently working to add more, so just stay put.
+Updating Github to DJS v14!
 
 [Main Page](#MGS-Discord-Bot)
 
@@ -80,7 +76,7 @@ Here are our featured MGS commands! We plan to update these as we add more comma
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 # **LINKS:**
 
-- [Support Server](https://discord.gg/zenoyt-official-server-845476765702946846)
+- [Support Server](https://discord.gg/mgsbot)
 - [Add the bot](https://discord.com/application-directory/962834876665577542)
 - [top.gg](https://top.gg/bot/962834876665577542)
 - [Mountain Gaming Studios](https://www.roblox.com/groups/11791011/Mountain-Gaming-Studios)
